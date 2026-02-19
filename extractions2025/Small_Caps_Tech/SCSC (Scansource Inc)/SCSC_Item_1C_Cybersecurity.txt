@@ -1,0 +1,35 @@
+ITEM 1C.    Cybersecurity.
+
+Risk Management and Strategy
+
+Our cybersecurity risk management program is intended to protect the confidentiality, integrity, and availability of our critical IT systems and information. Our program is integrated into, and cybersecurity risks are among the risks evaluated and considered by, our broader enterprise risk management program, which is designed to identify, assess, prioritize and mitigate risks across the organization to enhance our resilience and support the achievement of our strategic objectives. 
+
+Our cybersecurity risk management program is led by our Vice President of Information Security, who manages our security team that is principally responsible for managing our cybersecurity risk assessment processes, our security controls, and our detection and response to cybersecurity incidents. Our program includes protocols for preventing, detecting and responding to cybersecurity incidents; cross-functional coordination; and planning for business continuity and disaster recovery. We rely on our information security management system supported by a set of policies based upon industry frameworks, including the NIST Cybersecurity Framework. We have a Cyber Incident Response Team (“CIRT”) in place to respond to prepare appropriate responses and respond to cybersecurity threats or incidents. Components of our program include:
+
+•risk assessments designed to help identify and assess cybersecurity threats to our critical IT systems, information, and our broader enterprise IT environment;
+
+•monthly, mandatory cybersecurity awareness training for our employees, covering such topics such as phishing tactics, ransomware and developments in the current landscape of cyber-threats;
+
+•assessments of and improvements to, among others, disaster recovery testing, access control, remote access, personnel security, system and communications protection, media protection, change management, data backup and recovery, audit logging, vulnerability and patch management, physical security, configuration management;
+
+•periodic engagement of independent security firms and other third-party experts, where appropriate, to assess, test, and certify components of our cybersecurity program, and to otherwise assist with various aspects of our cybersecurity processes and controls; and
+
+•regular assessments of the design and operational effectiveness of the program’s key processes and controls by our internal audit team with the assistance of external consultants.
+
+Index to Financial Statements
+
+We also have a cybersecurity incident response plan for the CIRT to assess and manage cybersecurity incidents, which includes escalation procedures based on the nature and severity of the incident including, where appropriate, escalation to the Board. 
+
+As part of our overall risk mitigation strategy, we maintain insurance coverage that is intended to address certain aspects of cybersecurity risks; however, such insurance may not be sufficient in type or amount to cover us against claims related to cybersecurity breaches, cyberattacks and other related breaches.
+
+As of the date of this report, we do not believe that any risks from cybersecurity threats, including as a result of the May 2023 ransomware incident or any other previous cybersecurity incidents, have materially affected or are reasonably likely to materially affect our Company, including our business strategy, results of operations or financial condition. Despite our security measures, however, there can be no assurance that we, or third parties with which we interact, will not experience a cybersecurity incident in the future that will materially affect us. For more information on our cybersecurity related risks, see Item IA, “Risk Factors - “Cybersecurity risk.”
+
+Governance
+
+Our Board has primary responsibility for oversight of our cybersecurity and other information technology risks, including our plans to mitigate cybersecurity risks and to respond to data breaches.
+
+The Board receives regular reports from our Chief Information Officer (“CIO”) on cybersecurity matters. These reports include a range of topics, including our cybersecurity risk profile, the current cybersecurity and emerging threat landscape, the status of ongoing cybersecurity initiatives, incident reports, and the results of internal and external assessments of our information systems. The Audit Committee of the Board also annually reviews the adequacy and effectiveness of our information and technology security policies and the internal controls regarding information and technology security and cybersecurity, and periodically receives updates from our internal audit function on the results of our cybersecurity audits and related mitigation activities. The Chair of the Audit Committee reports to the full Board on these discussions as appropriate. In addition, Board members periodically receive presentations on cybersecurity matters from external experts as part of the Board’s continuing education and overall risk oversight.
+
+At the management level, our VP of Information Security leads our enterprise-wide cybersecurity program, and is responsible for assessing and managing our materials risks from cybersecurity threats. In performing his role, our VP is informed about and monitors the prevention, detection, mitigation, and remediation of cybersecurity risks and incidents through the management of, and participation in, the cybersecurity risk management program and other processes described above, including the maintenance and execution of our cyber incident response plan. Our VP reports to our CIO who, in turn, reports directly to our CEO.
+
+Our CIO and our VP of Information Security are both experienced cybersecurity executives. Our CIO has nearly 30 years of experience and has held a variety of senior information technology leadership roles at multiple Fortune 500 organizations. Our VP has more more than 20 years of experience building and leading cybersecurity, risk management, and information technology teams. Members of our security team also hold industry-recognized cybersecurity certifications, including the Certified Information Systems Security Professional (CISSP) certification.

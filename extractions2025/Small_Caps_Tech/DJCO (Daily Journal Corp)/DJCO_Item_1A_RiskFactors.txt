@@ -1,0 +1,123 @@
+Item 1A. Risk Factors
+
+The foregoing business discussion and the other information included in this Form 10-K should be read in conjunction with the following risks, trends and uncertainties, any of which, either individually or in the aggregate, could materially and adversely affect our business, operating results or financial condition.
+
+Risks Associated with the Maturation of Artificial Intelligence (AI) Technologies
+
+The Company’ s business may be materially affected--either positively or negatively--by the emergence of disruptive new technologies or approaches enabled by the rapid pace of innovation unfolding in the artificial intelligence space.
+
+Worthwhile new technologies capitalize on eliminating old inefficiencies. Just as the emergence and maturation of the Internet and smartphone technologies had profound implications across many industries, AI has the potential to significantly change key factors related to the Traditional Business, Journal Technologies, and companies in the Company’s holdings of marketable securities.
+
+For the Traditional Business, there may be new and additional opportunities to automate or reduce the cost of content creation and doing business, or allow monetization of existing and/or historic content in new ways. Likewise, AI may negatively impact the business in ways that will prove difficult to circumvent.
+
+For Journal Technologies, use of AI may fundamentally alter or automate key customer workflows over time, obviating the need for its technology. AI will likely also create new and better ways for customers to achieve their mandates, of which the Company is positioning to play a valuable role. The Company is allocating resources to pursue these opportunities, through in-house engineering, and may also do so through partnerships, or mergers and acquisitions. Whether it will be successful is uncertain.
+
+The process and approach to engineering software itself may change in notable ways, and this could impact the underlying business model of Journal Technologies. Monitoring potential impacts of AI on companies in the marketable securities portfolio will also require ongoing attention.
+
+Mitigating risk and capitalizing on potential opportunity requires active engagement. The Company’s challenge is to find and exploit opportunities to ensure change precipitated by AI provides tailwinds and not headwinds, and to do so in a way that is neither too slow, nor premature.
+
+Risks Associated with the Traditional Business
+
+Changes in the legal requirement to publish public notice advertising or in the legal ability of our newspapers to publish those notices would have a significant adverse impact on the Traditional Business.
+
+From time to time, the legislatures in California and Arizona (and elsewhere) have considered and/or implemented various proposals that would result in the elimination or reduction of the amount of public notice advertising in printed newspapers required by statute. These proposals typically focus on the availability of alternative means of providing public notices, such as via the Internet. Some proposals also question the need for public notices at all. As noted above, some of these proposals have already become law. To the extent more of these proposals are adopted, particularly in California and Arizona, they could materially adversely affect the revenues of the Traditional Business.
+
+In September 2023, the California legislature passed a bill (AB542) effective January 1, 2024 that set in motion a decline in legal advertising revenue of approximately $14,000 during fiscal year 2024 by reducing the number of required publication days in a newspaper for self-service storage facility lien sales. Another bill (AB721) relative to school budget hearing notices was also passed in September 2023. Effective January 1, 2027, these notices are to be moved to posting on the school district’s website in lieu of being published in a newspaper.
+
+In addition, if the adjudication, which is what gives publishers the legal ability to publish public notice advertising, of one or more of the Company’s newspapers were challenged and revoked, those newspapers would no longer be eligible to publish public notice advertising, and it could materially affect the revenues of the Traditional Business.
+
+The Traditional Business faces strong competition in each of its markets.
+
+Competition for readers and advertisers is very competitive, both from established publications and from new entrants into the market. The Daily Journals face aggressive competition. The Company’s court rules publications face competition in both Northern and Southern California from document management programs, online court rules services, and the courts themselves.
+
+10
+
+The Traditional Business also competes with serious competitors for public notice advertising in all of its markets. As the amount of this advertising has decreased due to the reduction in the number of foreclosures and other things discussed above, the competition to publish the remaining public notices has intensified and may result in a further decline in the Traditional Business’ public notice advertising revenues.
+
+The Traditional Business continues to experience challenges in maintaining its commercial advertising and circulation revenues, particularly due to the growth of Internet sites.
+
+Internet sites devoted to recruitment have become significant competitors of our newspapers and websites for classified advertising. In addition, there has been a steady consolidation of companies serving the legal marketplace, resulting in an ever-smaller group of companies placing display advertising. Furthermore, newspapers like ours have been struggling to compete for display advertising generally, given the many other forums (including Internet sites) that compete for advertising dollars. These trends are expected to continue and adversely affect the Traditional Business.
+
+During fiscal year 2025, the Company reported an overall decrease of $0.2 million (4%) in circulation revenue. This reduction was mainly driven by a $0.3 million decline in paper circulation revenue, while digital circulation revenue saw a partial offset with a $0.1 million increase. The decline is largely attributed to lower revenue per subscriber, a result of implementing alternative pricing strategies to support subscriber retention. This development further reflects the ongoing challenges within the media industry.
+
+The Traditional Business is exposed to risks associated with fluctuations in postage and paper costs.
+
+After personnel costs, postage and paper costs are typically the Traditional Business next two largest expenses. An adequate supply of newsprint and other paper is important to the operations of the Traditional Business. The Company currently does not have a contract with any paper supplier, and in the past, shortages of newsprint sometimes resulted in higher prices. Recently, there have been consolidations of newsprint suppliers, and paper prices may fluctuate substantially in the future or otherwise be affected by tariffs and/or changes to trade agreements.
+
+The Traditional Business uses the U. S. Postal Service for distribution of a majority of its newspapers and products. Postal rates are dependent on the operating efficiency of the U. S. Postal Service and on legislative mandates imposed upon the U. S. Postal Service. During the past several years, postal rates have increased. Postal rates and fees may increase more in the future. Further, we may not be able to pass on increases in paper and postage costs to our customers.
+
+We expect the Traditional Business to continue to suffer from significant secular decline.
+
+The newspaper industry continues to experience significant secular decline. The Company believes the long-term trend will be in the direction of fewer subscriptions to the Daily Journals and court rule publications, and that trend will certainly impact the Company’s future revenues.
+
+Risks Associated with Journal Technologies
+
+The success of Journal Technologies depends in large part on the technological update and upgrade of its software products.
+
+Journal Technologies’ success depends on the continued improvement of its products, and the costs to update and upgrade those products consistently represent a large portion of Journal Technologies’ expenses. There are many uncertainties in the process of courts and other justice agencies migrating to newer case management systems, including whether Journal Technologies’ versions of these systems will find general acceptance and whether the modification of such systems can be done in a cost-effective manner. Under the relevant accounting guidance, the costs to update and upgrade Journal Technologies’ products are generally expensed as incurred and will impact earnings at least through the foreseeable future. The Company continues to invest in the development of new and next-generation technology as part of its broader product strategy. Likewise, investment is required to improve existing technology to simplify the process of configuring, managing and updating systems (and related obligations including documentation, user experience improvements, and more). These investments are being made to both improve win rates and maximize the efficiency of building and deploying customer systems. The intention is to improve profitability, but if foundational development is not done effectively, it may not yield the expected competitive advantages or intended efficiencies.
+
+Journal Technologies faces significant competition from other case management software vendors.
+
+There is significant competition among a limited number of companies to provide services and software to courts and other justice agencies, and some of these companies are much larger and have greater access to capital and other resources than Journal Technologies. Normally, the vendor is selected through a bidding process, and often the customers will express a specific preference for, or effectively require, larger vendors having completed similar types of projects. An inability to successfully compete in this difficult market could materially affect the earnings of Journal Technologies. Likewise, specialized vendors in specific vertical markets may develop or continue to enhance specific solutions for certain customer types that are sufficiently focused and turnkey, or leverage disruptive new approaches, that Journal Technologies will struggle to compete with them.
+
+11
+
+The customers of Journal Technologies are public sector entities, thus creating unique issues and risks.
+
+Almost all of the customers of Journal Technologies are courts, justice agencies, and other government entities. Accordingly, we face unique risks associated with governmental budget constraints, especially during challenging economic times, which could force government entities to defer or forego consulting services or even stop paying their annual software license and maintenance fees. In addition, economic conditions could affect our ability to win new customers as a result of heightened competition for new business following a decrease in new initiatives available for bidding. We encounter risks related to a longer and more complicated sales cycle than exists for commercial customers, political issues related to resource allocation, administration turnover and preferences for internal case management solutions or for a particular vendor, complicated bidding procedures, and fluctuations in the demand for information technology products and services. Project success frequently involves dependencies on customers or third-party vendors/partners completing their responsibilities in an organized, workmanlike, and timely fashion.
+
+Journal Technologies generally recognizes revenues for software installations only upon completion of the applicable services and customer acceptance of the software system.
+
+Although the company has transitioned to a milestone-based system in recent years, installation fees have traditionally been payable only when the customer confirms satisfaction with the installed system and it is operational, or upon achievement of designated milestones.
+
+Accordingly, for these projects we do not recognize revenues for such installation services or for most other consulting services until after the services have been performed and accepted. There are significant risks associated with our ability to complete our services to the satisfaction of our customers and to fulfill the requirements that entitle us to be paid. An inability to realize payment for services performed could materially affect the earnings of Journal Technologies. Additional costs may not be recoverable for historic projects with flexible scopes or scopes that are subject to interpretation, or projects that require adjustments due to technology changes that occur due to the passage of time.
+
+The end-of-life process for legacy products and customer transitions to new products must be handled effectively.
+
+Disruptions that affect long-standing customer relationships can have negative reputational implications for Journal Technologies and can affect its earnings.
+
+Risks Associated with Our Holdings of Marketable Securities
+
+A large portion of the Company’ s assets are held in publicly traded securities, and the prices of those securities may decline.
+
+As of September 30, 2025, the Company held marketable securities worth approximately $493.0 million, with a cumulative unrealized gain of $353.9 million for financial statement purposes. While this portfolio has enabled the Company to borrow on favorable terms for acquisitions and to better compete for case management software opportunities that are usually limited to “large” firms, it is unusual for a public company to invest a significant amount of its available cash in the marketable securities of other public companies. The value of these securities could decline, which would adversely affect net income and shareholders’ equity.
+
+As of September 30, 2025, the Company’s holdings of marketable securities were concentrated in just six companies. Accordingly, a significant decline in the market value of one or more of the Company’s holdings may not be offset by hypothetically better performance of other holdings. This concentration of risk may result in a pronounced effect on net income and shareholders’ equity.
+
+The irreplaceable manager of our marketable securities portfolio passed away in November 2023.
+
+Charles T. Munger, the legendary investor of Berkshire Hathaway fame, was a director of the Company for many decades, and long managed the Company’s holdings of marketable securities. Mr. Munger passed away on November 28, 2023. Although the Board has been working to ensure that the portfolio remains well-managed, it’s impossible to ever replace Mr. Munger. Given the loss of Mr. Munger, the Company does not expect the future financial performance of its marketable securities portfolio to rival its past performance. Henceforth, the Company expects to manage and harvest its marketable securities portfolio primarily to support the further development of Journal Technologies and its business. The Company does not anticipate initiating new investments in public common stocks unrelated to its core businesses.
+
+12
+
+The Company may be subject to fluctuations in foreign currency rates for marketable securities that are not denominated in the United States Dollar.
+
+At times, the Company may hold marketable securities denominated in currencies other than the United States Dollar. When it does, the Company may be at risk for significant fluctuations in the applicable foreign currency exchange rates, which would affect the profitability of such marketable securities.
+
+General Corporate Risks
+
+Changes in accounting guidance could have a significant effect on the Company’ s reported financial results.
+
+Preparing consolidated financial statements requires the Company’s management to make estimates and assumptions that affect the reported amount of assets, liabilities, revenues and expenses. These estimates and assumptions are affected by management’s application of accounting policies and the prevailing accounting guidance. The Company considers fair value measurement and disclosures, revenue recognition, accounting for software costs and income taxes to be critical accounting policies and estimates. A change in the accounting guidance with respect to one or more of these areas could materially affect the Company’s reported financial results.
+
+As noted above, beginning in fiscal year 2019, changes in unrealized gains (losses) on marketable securities are included in the Company’s net income (loss) and thus may have a significant impact on the Company’s reported results depending on the fluctuations of the prices of the marketable securities owned by the Company.
+
+A third party has initiated a campaign against the Company that may include a proxy contest and litigation, which could be expensive and further divert the attention of management and the Board from the Company’s operations.
+
+In the summer of 2025, a third-party investment adviser sent a series of letters to the Company alleging - incorrectly - that we should be capitalizing rather than expensing Journal Technologies’ software development costs. This third party resurfaced with even more letters in December 2025 and has threatened, among other things, to initiate a proxy contest to replace members of the Board unless we engage with him and enter into a “cooperation agreement.” Responding to third parties like this can be costly and time-consuming, may divert the attention of management and our Board from executing on our strategy, and could require us to incur significant legal, advisory, and other professional fees. A public fight could also create uncertainty among our employees and customers, harm our reputation, disrupt our operations, and increase volatility in our stock price. Any of these factors could materially adversely affect our business and financial results, even if the underlying accounting allegations have no merit.
+
+We cannot be sure that customer information and systems are fully protected against security breaches.
+
+Journal Technologies’ software processes and stores customer information in the conduct of its business, including in some cases by utilizing cloud-based systems supplied by third-party vendors. Despite our efforts to maintain up-to-date security controls, it is possible that our system could be improperly used to access or misappropriate customer systems or information, including personally identifiable or other confidential information. A material security breach of this nature could harm our reputation, cause us to lose current and potential customers, require us to allocate more resources to information security, or subject us or our customers to liability, resulting in increased costs, loss of revenue, or both. The Traditional Business also operates certain websites that process and, in certain cases, store customer information. Our insurance may not cover all of the costs that we may incur as a result of a material security breach.
+
+Risks Related to Our Internal Control Over Financial Reporting
+
+The Company has identified a material weakness in its internal control over financial reporting related primarily to segregation of duties and access controls that originated in prior periods. The Company’s internal control over financial reporting is designed to provide management and the Board of Directors with reasonable assurance regarding the preparation and fair presentation of the Company’s consolidated financial statements in accordance with accounting principles generally accepted in the United States (“ GAAP”). Although management has implemented significant improvements and enhanced controls during fiscal year 2025, including increased finance personnel, enhanced review procedures, and continued enterprise resource planning modernization efforts, the Company has not yet been able to fully remediate this material weakness as of September 30, 2025. Certain controls were newly implemented or significantly enhanced during fiscal year 2025 and, as a result, have not operated for a sufficient period of time to allow management to conclude that the material weakness has been fully remediated.
+
+13
+
+The existence of a material weakness means that there is a reasonable possibility that a material misstatement of the Company’s financial statements will not be prevented or detected on a timely basis. If the Company is unable to remediate this material weakness or any future deficiencies in internal control over financial reporting in a timely manner, the Company’s ability to record, process, summarize, and report financial information accurately and within the time periods specified in the SEC’s rules and forms could be adversely affected. This could negatively impact investor confidence in the Company’s reported financial information, the market price and trading liquidity of the Company’s common stock, and could subject the Company to increased scrutiny by regulators, litigation, or other adverse consequences, which could materially and adversely affect the Company’s business, financial condition, and results of operations.
+
+At the request of the Board of Directors, the Company engaged an independent third-party advisory firm, to assist management in evaluating and enhancing the Company’s internal control over financial reporting. Management believes that substantial progress has been made in addressing the underlying causes of the material weakness and intends to continue remediation efforts and the assessment of operating effectiveness during fiscal year 2026. However, there can be no assurance that these efforts will be sufficient to fully remediate the material weakness or that additional deficiencies will not be identified in the future.
+
+Item 1B. Unresolved Staff Comments

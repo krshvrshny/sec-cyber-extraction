@@ -1,0 +1,43 @@
+ITEM 1C.
+
+          CYBERSECURITY.
+
+  Cybersecurity Risk Management and Strategy
+
+  We have an established framework for assessing, identifying, and mitigating cybersecurity and information security risks.  The processes we employ under this framework are part of our overall risk management strategy, as overseen by our Board of
+    Directors, and are aimed at enhancing the security of our information systems, software, networks, and the protection or privacy of our data.  We have based our management of cybersecurity risk upon recognized cybersecurity industry frameworks,
+    including those of the National Institute of Standards and Technology and the International Organization for Standardization, and internal risk assessments.  We periodically engage third parties, including consulting
+      firms with expertise in IT risk management, to evaluate our cybersecurity risk management processes and potential cybersecurity threats to our company.  We also conduct security assessments for new vendors and third-party service providers and
+    have monitoring procedures to mitigate risks related to data breaches or other security incidents originating from third parties.
+
+  Governance
+
+  Board of Directors
+
+  Our Board of Directors has oversight responsibility for cybersecurity risk management.  As part of its oversight activities, the Board regularly receives written updates regarding cybersecurity and information technology risks and management’s
+    response to them from our Vice President of IT and our Chief Information Security Officer (CISO).  Additionally, the Board of Directors meets with the Vice President of IT and CISO to discuss matters of IT and data governance strategy, as well as
+    cybersecurity, data and IT system risk management.  The Board of Directors has designated two of its members to serve as primary board liaisons with management regarding matters of cybersecurity.  In the event of a potentially material cybersecurity
+    incident, these designated cybersecurity liaisons will meet with the management incident response team to review the cybersecurity event, a materiality analysis, and, if appropriate, any information to be disclosed in a Current Report on Form 8-K.  The
+    full Board of Directors will also receive information regarding any material cybersecurity incident, with the Board liaisons helping to facilitate efficient communications between management and the full Board in advance of any necessary Form 8-K
+    filing.
+
+  Management
+
+  Our CISO leads our management of cybersecurity risks and our incident response plan.  Our CISO coordinates with legal counsel and third parties, as applicable, in assessing and managing cybersecurity risks.  Our CISO has more than eight years of
+    experience in leading global security functions and strategies for Modine and similar global companies.  The CISO reports to our Vice President of IT who, in turn, reports to our Executive Vice President and Chief Financial Officer.  Our Vice President
+    of IT and CISO regularly provide updates to our Board of Directors regarding cybersecurity and information technology matters, including cybersecurity threats and our risk management strategy.
+
+  We maintain a cybersecurity incident response process to analyze, contain, eradicate, and recover from cybersecurity incidents.  The incident response process includes an escalation protocol, wherein our CISO raises any cybersecurity incidents that
+    could potentially be material to our business, operations, or financial condition to a cross-functional management incident response team.  This management incident response team is comprised of members of our senior leadership team, including, but not
+    limited to, our Chief Executive Officer, Chief Financial Officer, General Counsel and Chief Compliance Officer, and Vice President of IT.  In addition, depending on the circumstances of any cybersecurity incident, third-party advisors may be engaged to
+    assist in the investigation and response.
+
+  Additionally, we have implemented an Information Security Risk Management Framework (RMF) which is a strategy for protecting the Company, the Board, employees, and other stakeholders from unnecessary information security injuries, losses or damage.
+    The framework further establishes the context for assessing information security risks, managing those risks and making risk-based decisions through the information security lifecycle. Among other tools that we use to proactively manage information
+    security risk to the organization, the RMF contains a vendor risk assessment tool that is used to assess any new vendor being considered for use within Modine.
+
+  We also provide cybersecurity training to our workforce to ensure our employees are properly equipped to identify and report cybersecurity incidents.  The training programs highlight areas such as the protection of confidential information, phishing
+    attacks, and emerging cybersecurity threats and best practices.
+
+  At this time, we are not aware of any cybersecurity incidents that have materially affected or are reasonably likely to materially affect our company, including our business strategy, results of operations, or financial
+    condition.  For further discussion of the risks associated with potential future cybersecurity incidents, see the risk factor regarding cybersecurity in the section entitled “Item 1A. Risk Factors.”

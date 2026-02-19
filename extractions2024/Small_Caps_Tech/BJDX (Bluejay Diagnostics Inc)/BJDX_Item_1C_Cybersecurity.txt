@@ -1,0 +1,36 @@
+ITEM 1C. CYBERSECURITY
+
+We maintain various information security processes
+designed to identify, assess and manage material risks from cybersecurity threats to our critical computer networks, third party hosted
+services, communications systems, hardware and software, and our critical data, including intellectual property, strategic or competitive
+in nature, and proprietary or confidential information, including clinical trial data, personal and financial information (“Information
+Systems and Data”). 
+
+Our President and Chief Executive Officer works
+directly with third party service providers, as applicable, to identify, assess and manage the Company’s cybersecurity threats
+and risks. In doing so, he seeks to identify and assess risks from cybersecurity threats by monitoring and evaluating our threat environment
+and the Company’s risk profile using various methods including, for example, automated and manual tools, accessing reports and
+services that identify cybersecurity threats, analyzing reports of threats and threat actors, evaluating the Company’s and the
+industry’s risk profile, evaluating reported threats, coordinating with law enforcement relating to threats, conducting threat
+assessments for internal and external threats and conducting vulnerability assessments to identify vulnerabilities.
+
+Depending on the environment, we implement and
+maintain various technical, physical, and organizational measures and processes designed to manage and mitigate material risks from cybersecurity
+threats to our information systems and data.
+
+Our assessment and management of material risks
+from cybersecurity threats are integrated into the Company’s overall risk management processes. For example, our IT department works
+with management to prioritize our risk management processes and mitigate cybersecurity threats that are more likely to lead to a material
+impact to our business.
+
+Governance 
+
+Our Board of Directors addresses the Company’s
+cybersecurity risk management as part of its general oversight function. The Board is responsible for overseeing Company’s cybersecurity
+risk management processes, including oversight and mitigation of risks from cybersecurity threats. Our cybersecurity risk assessment and
+management processes are implemented and maintained by our President and Chief Executive Officer. 
+
+Our cybersecurity incident response and vulnerability
+management processes are designed to escalate certain cybersecurity incidents to members of management and/or the Board of Directors depending
+on the circumstances. The Board receives periodic reports and updates from our senior management concerning significant cybersecurity
+threats and risks, and the processes that the Company has implemented to address them, when deemed appropriate.

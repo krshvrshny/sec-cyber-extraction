@@ -1,0 +1,45 @@
+Table of Contents
+
+ITEM 1C. CYBERSECURITY 
+
+CYBERSECURITY RISK MANAGEMENT AND STRATEGY
+
+We maintain a comprehensive cybersecurity program, recognizing the critical importance of safeguarding our operations, employees, customers, and other business partners from the constantly evolving risks associated with cybersecurity threats. These risks include, among other things, operational risks, reputational risks, financial risks, and litigation and legal risks. 
+
+As a part of our comprehensive cybersecurity program, we have developed an incident response plan (IRP) designed to quickly respond to, mitigate, and recover from cybersecurity incidents. The IRP includes procedures for incident detection and reporting, initial assessment, containment, eradication, recovery, post-incident activities, and continuous improvement. 
+
+We also integrated cybersecurity risk management into our overall risk management framework to ensure that cybersecurity risks are considered in all aspects of our business. The integration ensures that cybersecurity considerations are integral to our strategic and operational decision-making. Our management team works closely with our Chief Digital & Data Officer (CDDO) and Chief Information Security Officer (CISO), ensuring that our cybersecurity efforts align with our business objectives and operational needs. Key components of our cybersecurity approach include, among other things: 
+
+•establishing a dedicated action team, led by our CDDO and CISO, to oversee and manage cybersecurity risks; 
+
+•implementing a comprehensive cybersecurity risk assessment process and strategy based on industry standards and established frameworks such as the National Institute of Standards and Technology (NIST) Special Publication 800-61;
+
+•implementing a vendor risk management program, which includes cybersecurity and data privacy audits, evaluating vendor risk level, and monitoring risk mitigation efforts;
+
+•conducting penetration tests and security maturity assessments throughout the year;
+
+•periodically engaging independent third-party assessors to audit our cybersecurity and information system programs to evaluate their effectiveness;
+
+•implementing industry-standard technologies and processes to protect our system and data and to help detect potential suspicious activity; 
+
+•maintaining access controls to safeguard data and systems;
+
+•providing annual trainings to employees on responsible information security, data security and cybersecurity practices including appropriate action to take against cybersecurity threats;
+
+•conducting periodic phishing simulations to our employees;
+
+•engaging in cybersecurity incident tabletop exercises and scenario planning exercises;
+
+•maintaining a cybersecurity and information security risk insurance policy, which insures for data incidents or breaches and other technology related exposures; and 
+
+•periodically reviewing and updating our IRP, privacy policy, and other relevant policies/procedures.
+
+These approaches are not exhaustive, and we plan to continuously improve our approaches to cybersecurity risk management. 
+
+In the three-year period ended March 31, 2025, our business strategy, results of operations and financial condition have not been materially affected by risks from cybersecurity threats, including as a result of any prior cybersecurity incidents experienced by either us or third parties, but we cannot provide assurance that they will not be materially affected in the future by such risks or any future material incidents. Refer to Part I, Item 1A, “Risk Factors - Risks Related to Technology, Data Security and Privacy” within this Annual Report for further information.
+
+CYBERSECURITY GOVERNANCE
+
+Our Board has delegated to the Audit Committee primary responsibility for oversight of risk assessment and risk management, including risks related to cybersecurity and information security issues. Our CDDO and CISO, who head our cybersecurity and information security initiatives, provide quarterly updates to the Audit Committee, and annual updates to the full Board. These updates cover various topics, such as efforts to enhance our cybersecurity posture, operational and incident metrics, mitigation actions, and key performance indicators like cybersecurity maturity, program health, and audit and compliance activities. In addition to these regular updates, significant cybersecurity incidents and updates are escalated on an as-needed basis in accordance with our IRP.
+
+Our CDDO and CISO have extensive experience in cybersecurity. Our CDDO has served in his role since September 2024. He has over 15 years of experience in digital transformations, enterprise technology, artificial intelligence, and data management. Our CISO has served in various roles in Information Technology for over 25 years, including 15 years in Information Security. He holds a B.S. in Cybersecurity and Information Assurance, along with industry certifications that include the Information Systems Audit and Control Association Certified in Risk and Information Systems Control, Certified Information Security Manager, and International Information System Security Certification Consortium Certified Information Systems Security Professional certifications.

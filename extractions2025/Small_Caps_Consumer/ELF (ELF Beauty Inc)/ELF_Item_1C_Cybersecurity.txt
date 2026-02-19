@@ -1,0 +1,37 @@
+Item 1C. Cybersecurity
+
+Cybersecurity Risk Management and Strategy
+
+We have developed and implemented a cybersecurity risk management program intended to protect the confidentiality, integrity, and availability of our critical systems and information. 
+
+Our cybersecurity program was developed by integrating a range of relevant concepts and controls derived from established security frameworks. These include the National Institute of Standards and Technology Cybersecurity Framework, the Committee of Sponsoring Organizations of the Treadway Commission and related SOC 2 Control Objectives, as well as the Payment Card Industry Data Security Standard. It is important to note that while these frameworks guide our cybersecurity strategies and help us identify, access, and manage cybersecurity risks relevant to our business, this does not imply certification or that we meet or comply with any specific technical standards, specifications or requirements.
+
+Our cybersecurity risk management program is integrated into our overall enterprise risk management program, and shares common methodologies, reporting channels and governance processes that apply across the enterprise risk management program to other legal, compliance, strategic, operational, and financial risk areas.
+
+Key elements of our cybersecurity risk management program include, but are not limited to, the following:
+
+a.risk assessments designed to help identify material cybersecurity risks to our critical systems, information, products, services, and our broader enterprise IT environment;
+
+b.a security team principally responsible for managing (1) our cybersecurity risk assessment processes, (2) our security controls, and (3) our response to cybersecurity incidents;
+
+c.the use of external service providers, including third party advisory firms, where appropriate, to assess, test or otherwise assist with and/or audit aspects of our security processes;
+
+d.cybersecurity awareness training of our employees; 
+
+e.a cybersecurity incident response plan that includes procedures for responding to cybersecurity incidents, including an enterprise-wide escalation protocol; and
+
+f.a third-party risk management process for service providers based on our assessment of their criticality to our operations and respective risk profile.
+
+We have not identified any cybersecurity threats that have materially affected or are reasonably likely to materially affect us, including our operations, business strategy, results of operations, or financial condition. We face risks from cybersecurity threats that, if realized, are reasonably likely to materially affect us, including our operations, business strategy, results of operations, or financial condition. See “Risk factors related to information technology and cybersecurity” included as part of Item 1A. Risk Factors of this Annual Report on Form 10-K, which disclosures are incorporated by reference herein.
+
+Cybersecurity Governance
+
+Our Board considers cybersecurity risk and other information technology risks as part of its risk oversight function. The full Board oversees management’s implementation of our cybersecurity risk management program. 
+
+The Board receives periodic reports from management on our cybersecurity threats, incident preparedness, mitigation strategies, and related cyber risk management program enhancements. Board members also receive presentations on emerging topics in cybersecurity risk and regulation from our Chief Digital Officer (“CDO”) as part of the Board’s continuing education on topics that impact public companies. In addition, management is prepared to update the Board, as it deems appropriate, regarding cybersecurity incidents it considers to be significant or potentially significant. 
+
+Our CDO has primary responsibility for, and works collaboratively across the Company to implement and maintain, our cybersecurity risk management program designed to protect our information systems from cybersecurity threats and to respond to any cybersecurity incidents in accordance with our incident response plans. Our CDO leads a team, including a number of cybersecurity professionals, that is responsible for implementing and maintaining centralized cybersecurity and data protection practices in close coordination with senior leadership and other teams across the Company. In addition to our extensive in-house cybersecurity capabilities, at times we also engage consultants, auditors, or other third parties to assist with assessing, identifying, and managing cybersecurity risks. Our CDO leads the core elements of e.l.f. Beauty’s IT and digital functions, including IT infrastructure, systems and security, digital experience and operations, and consumer technology. Our CDO has served in various roles in information technology and cybersecurity leadership for over 25 years, has completed the Harvard Cybersecurity Program and is an active participant in industry consortia focused on data privacy and AI security. Her background includes developing and deploying enterprise risk management frameworks and leading initiatives that integrate AI into cybersecurity and compliance. As a thought leader in the intersection of artificial intelligence and cybersecurity, her expertise aligns with the critical needs of the constantly changing cybersecurity landscape and managing digital risk. 
+
+The CDO is supported by two senior cybersecurity professionals — our external Chief Information Security Officer (“CISO”) and our Director, IT Infrastructure & Security. The CISO brings over two decades of experience building and scaling cybersecurity programs in high-growth enterprise environments, including leading the security function for a publicly traded cloud technology company. This individual has previously served in cybersecurity leadership roles at global financial services and payment technology companies and currently advises Fortune 500 companies through virtual CISO services. In addition to operational leadership, this professional is also a cybersecurity educator, contributing to the development of future security talent at the collegiate level. Our Director, IT Infrastructure & Security holds an advanced degree in cybersecurity operations and leadership and has more than 20 years of experience managing IT infrastructure, enterprise security operations, and risk mitigation strategies. She has led initiatives to build and scale global Security Operations Centers (SOCs), implement zero trust architecture, and design infrastructure hardening practices across multiple sectors, including high-tech and financial institutions.
+
+Our management stays informed about cybersecurity developments and threats through internal and external threat intelligence, third-party risk assessments, and continuous monitoring systems deployed across the enterprise.
