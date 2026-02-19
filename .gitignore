@@ -1,0 +1,18 @@
+# Python virtuelle Umgebung
+.venv/
+env/
+venv/
+bin/
+lib/
+
+# Cache-Dateien
+__pycache__/
+*.pyc
+
+# Extrahierte Daten (Optional)
+# Falls die Texte sehr groß sind, nimm sie raus. 
+# Wenn ihr sie im Team teilen wollt, lass diese Zeile weg:
+# extractions/
+
+# Betriebssystem-Müll
+.DS_Store
