@@ -1,0 +1,27 @@
+Item 1C. Cybersecurity. 
+
+At Rapid7, cybersecurity risk management is integrated into our overall enterprise risk management program and is one of the pillars of our broader cybersecurity program. Our cybersecurity risk management program is designed based on prevailing security standards and controls, such as NIST-800 and ISO 27001, and to continuously evaluate cybersecurity risks in alignment with our business objectives and operational needs. Our information security team manages a framework for handling both information security risk management and operational cybersecurity threats and incidents, including those associated with the use of products and services provided by third-party service providers, suppliers, and vendors. This framework includes steps for assessing the severity of a cybersecurity threat or incident, identifying the source of such cybersecurity threat or incident (including whether such cybersecurity threat or incident is associated with a third-party service provider, supplier, or vendor), implementing cybersecurity countermeasures and mitigations and an escalation path for informing management, the audit committee of the board of directors (the "Audit Committee"), and our full board of directors (the "Board") of cybersecurity threats, incidents and risks. 
+
+Recognizing the complexity and evolving nature of cybersecurity threats, incidents and risks, we engage with a range of third-party experts, including cybersecurity penetration testers, consultants, and auditors in evaluating and supporting our risk management systems. Our collaboration with these third parties includes regular audits, threat assessments, and consultation on security enhancements.
+
+Our cybersecurity program, which is managed by our information security team, includes:
+
+•efforts to comply with prevailing cybersecurity standards;
+
+•regular risk assessments and annual penetration tests designed to help identify potential cybersecurity risks to our critical systems, networks, products, services, and our broader enterprise information technology environment; 
+
+•a cybersecurity incident response plan and procedures for responding to cybersecurity threats and incidents; 
+
+•a security operations team responsible for detection of, and response to, cybersecurity threats and incidents;
+
+•a third-party risk management process for third-party service providers, suppliers, and vendors; and
+
+•annual cybersecurity awareness training of our employees, including senior management. 
+
+Our Board considers cybersecurity risk as part of its risk oversight function and has delegated to the Audit Committee oversight of cybersecurity risk management. Our Audit Committee consists of Board members with a diversity of expertise in risk management, technology, finance, and cybersecurity, including oversight of security teams. The Audit Committee is responsible for overseeing that management has processes in place designed to identify, assess and manage cybersecurity risks, including mitigation and remediation of cybersecurity threats and incidents. The Audit Committee also reports on the cybersecurity program to our Board.
+
+Management is responsible for identifying, assessing and managing material cybersecurity risks on an ongoing basis, establishing processes designed to ensure that potential cybersecurity risk exposures are monitored, putting in place appropriate mitigation and remediation measures, and maintaining cybersecurity programs. Our cybersecurity programs are under the 
+
+direction of our Chief Security Officer (“CSO”), who receives reports from our information security team and monitors the prevention, detection, mitigation and remediation of cybersecurity incidents. Our CSO and dedicated personnel are certified and experienced information systems security professionals and information security managers with decades of experience and industry certifications. Management, including the CSO and our information security team, regularly update the Audit Committee on the Company’s cybersecurity program, including cybersecurity vulnerabilities, risk, threats and incidents, and developments in the cybersecurity risk landscape. 
+
+Despite our efforts, we cannot eliminate all risks from cybersecurity threats or incidents, or provide assurances that we have not experienced an undetected cybersecurity incident. While we have implemented a risk management process designed to mitigate cybersecurity risks that arise from utilizing third-party service providers, suppliers, and vendors, our control over and ability to monitor the security posture of third parties with whom we do business remains limited and there can be no assurance that we can prevent, mitigate, or remediate the risk of any compromise or failure in the security infrastructure owned or controlled by such third parties. Additionally, any contractual protections with such third parties, including our right to indemnification, if any at all, may be limited or insufficient to prevent a negative impact on our business from such compromise or failure. For additional information about these risks, see Part I, Item 1A, "Risk Factors" in this Annual Report on Form 10-K.

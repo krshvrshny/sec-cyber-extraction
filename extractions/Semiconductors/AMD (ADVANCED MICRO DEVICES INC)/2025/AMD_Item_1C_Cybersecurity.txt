@@ -1,3 +1,5 @@
+Table of Contents
+
 ITEM 1C.       CYBERSECURITY
 
 Cybersecurity Risk Management and Strategy
@@ -12,7 +14,7 @@ Key components of our cybersecurity risk management program include:
 
 •periodic risk assessments designed to help identify cybersecurity risks to our critical systems, information, services, and our broader enterprise IT environment;
 
-•a security team principally responsible for managing (1) our cybersecurity risk assessment processes, (2) our security controls, and (3) our detection and response to cybersecurity incidents;
+•a security team principally responsible for managing our cybersecurity risk assessment processes, our security controls, and our detection and response to cybersecurity incidents;
 
 •the use of external service providers, where appropriate, to assess, evaluate, test or otherwise assist with aspects of our security controls and processes;
 
@@ -34,6 +36,6 @@ The Committee receives quarterly reports from management on our cybersecurity ri
 
 The Committee reports to the full Board regarding its activities, including those related to cybersecurity. The full Board also receives a briefing from management on our cyber risk management program at least annually. Board members receive presentations on cybersecurity matters from our Chief Information Security Officer (CISO), information security team or external experts as part of the Board’s continuing education on topics that impact public companies. The CISO reports to the Chief Information Officer (CIO).
 
-Our CISO has primary responsibility for our overall cybersecurity risk management program, and directly supervises both our internal cybersecurity personnel and any retained external cybersecurity consultants. Our CISO has over 19 years of experience in cybersecurity including security operations, security architecture, identity and access management, cloud security, vulnerability management, and application/product security, policy, and compliance.
+Our CISO has primary responsibility for our overall cybersecurity risk management program, and directly supervises both our internal cybersecurity personnel and any retained external cybersecurity consultants. Our CISO has over 20 years of experience in cybersecurity including security operations, security architecture, identity and access management, cloud security, vulnerability management, and application/product security, policy, and compliance.
 
-Our CISO is informed about and monitors the prevention, detection, mitigation, and remediation of cybersecurity risks and incidents through various means, which may include, among other things, briefings with internal security personnel, threat intelligence and other information obtained from governmental, public or private sources, including external consultants engaged by us, and alerts and reports produced by security tools deployed in our IT environment.
+Our CISO is informed about and monitors the prevention, detection, mitigation, and remediation of cybersecurity risks and incidents through various means, which may include, among other things, briefings with internal security personnel, threat intelligence and other information obtained from governmental, public or private sources, including external consultants engaged by us, and alerts and reports produced by security tools deployed in our IT environment. Together the CIO and the CISO keep management informed and updated on the cyber risk management program, key cyber risks, and significant incidents.

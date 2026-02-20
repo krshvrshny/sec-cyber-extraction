@@ -1,12 +1,10 @@
-Item 1C. Cybersecurity. 
+Item 1C. Cybersecurity 
 
 Cybersecurity Risk Management and Strategy 
 
 We have developed and implemented a cybersecurity risk management program intended to protect the confidentiality, integrity, and availability of our critical systems and information.
 
-  45
-
-  We design and assess our program based on industry-standard frameworks, such as the National Institute of Standards and Technology Cybersecurity Framework (“NIST CSF”), SOC2, ISO 27000, and ISO 27018. This does not imply that we meet any particular technical standards, specifications, or requirements, only that we use these frameworks as a guide to help us identify, assess, and manage cybersecurity risks relevant to our business. 
+We design and assess our program based on industry-standard frameworks, such as the National Institute of Standards and Technology Cybersecurity Framework (“NIST CSF”), SOC2, ISO 27000, and ISO 27018. This does not imply that we meet any particular technical standards, specifications, or requirements, only that we use these frameworks as a guide to help us identify, assess, and manage cybersecurity risks relevant to our business. 
 
 Our cybersecurity risk management program is part of our overall risk management program and shares similar governance processes and reporting channels that apply across the risk management program to financial, legal, compliance, and other operational risk areas.
 
@@ -24,7 +22,9 @@ Key elements of our cybersecurity risk management program include but are not li
 
 •a third-party risk management process for key service providers based on our assessment of their criticality to our operations and respective risk profile, suppliers, and vendors who have access to our critical systems and information.
 
-We have not identified risks from known cybersecurity threats, including as a result of any prior cybersecurity incidents, that have materially affected or are reasonably likely to materially affect us, including our operations, business strategy, results of operations, or financial condition. We face risks from cybersecurity threats that, if realized, are reasonably likely to materially affect us, including our operations, business strategy, results of operations, or financial condition. For more information, see the section titled “Risk Factor—Risks Related to Our Business Operations and Industry—If our information technology systems are breached or there is otherwise unauthorized disclosure of or access to customer data, our data, or our platform, our platform may be perceived as insecure, we may lose customers or fail to attract new customers, our reputation and brand may be harmed, and we may incur significant liabilities.”
+  48
+
+  We have not identified risks from known cybersecurity threats, including as a result of any prior cybersecurity incidents, that have materially affected or are reasonably likely to materially affect us, including our operations, business strategy, results of operations, or financial condition. We face risks from cybersecurity threats that, if realized, are reasonably likely to materially affect us, including our operations, business strategy, results of operations, or financial condition. For more information, see the section titled “Risk Factor—Risks Related to Our Business Operations and Industry—If our information technology systems are breached or there is otherwise unauthorized disclosure of or access to customer data, our data, or our platform, our platform may be perceived as insecure, we may lose customers or fail to attract new customers, our reputation and brand may be harmed, and we may incur significant liabilities.”
 
 Cybersecurity Governance 
 
@@ -32,4 +32,6 @@ Our Board considers cybersecurity risk as part of its risk oversight function an
 
 The Cybersecurity Committee meets at least twice annually with management to review our cybersecurity risks and cyber risk management program, and periodically reports to the Board on its activity. In addition, management updates the Cybersecurity Committee and Board, where it deems appropriate, regarding any cybersecurity incidents it considers to be significant or potentially significant.
 
-Our management team is responsible for assessing and managing our material risks from cybersecurity threats. Our Chief Engineering Officer and acting Chief Information Security Officer, Wade Chambers, reports to our Chief Executive Officer, and is primarily responsible for our overall cybersecurity risk management program and supervises both our internal cybersecurity personnel and our retained external cybersecurity consultants. Mr. Chambers previously served as the Chief Technology Officer and SVP of Engineering at Included Health. He also led engineering at Twitter, TellApart, Proofpoint, Yahoo, Opsware, and Netscape. Our management team takes steps to stay informed about and monitor efforts to prevent, detect, mitigate, and remediate cybersecurity risks and incidents through various means, which may include briefings from internal security personnel; threat intelligence and other information obtained from governmental, public or private sources, including external consultants engaged by us; and alerts and reports produced by security tools deployed in the information technology environment.
+Our management team is responsible for assessing and managing our material risks from cybersecurity threats. Our Chief Information Security Officer, Jack Levy, reports to our Chief Engineering Officer, and is primarily responsible for our overall cybersecurity risk management program. He supervises both our internal cybersecurity personnel and our retained external cybersecurity consultants. Mr. Levy previously served as the Chief Security Officer at Instabase and the Vice President of Engineering and Security at Butterfly Network, Inc. He was also the Head of Cybersecurity Engineering at Bridgewater Associates and held a variety of other engineering and security leadership roles at Goldman Sachs, Dow Jones & Co., Bloomberg LP, and National Instruments. Mr. Levy holds a Bachelor of Science in Engineering (B.S.E.) in Computer Engineering from the University of Michigan.
+
+Our management team takes steps to stay informed about and monitor efforts to prevent, detect, mitigate, and remediate cybersecurity risks and incidents through various means, which may include briefings from internal security personnel; threat intelligence and other information obtained from governmental, public or private sources, including external consultants engaged by us; and alerts and reports produced by security tools deployed in the information technology environment.

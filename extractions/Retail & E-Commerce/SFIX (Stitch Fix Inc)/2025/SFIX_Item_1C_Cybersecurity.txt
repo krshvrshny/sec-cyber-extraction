@@ -1,0 +1,43 @@
+ITEM 1C.CYBERSECURITY.
+
+RISK MANAGEMENT AND STRATEGY
+
+At Stitch Fix, we recognize the importance of robust cybersecurity measures to protect our systems, data, and the interests of our stakeholders. We have implemented a comprehensive cybersecurity risk management strategy and governance framework to identify, assess, manage, mitigate, and respond to cybersecurity risks and threats. Our risk management strategy and governance framework is designed to identify, assess and manage material risks from cybersecurity threats to our systems, networks, and data infrastructure, including intellectual property, customer data, and data that is proprietary, strategic or competitive in nature (“Information Systems and Data”).
+
+We use third-party service providers to assist us from time to time to identify, assess, and manage risks from cybersecurity threats, which may include professional services firms (such as legal counsel), threat intelligence service providers, cybersecurity consultants, cybersecurity software providers, penetration testing firms, dark web monitoring services, and forensic investigators.
+
+Stitch Fix views its cybersecurity strategy through a multi-pronged lens encompassing prevention, detection, and response to ensure holistic coverage of our Information Systems and Data, along with the environments in which they operate.
+
+STITCH FIX, INC.  |  2025 FORM 10-K  |  28
+
+Table of Contents
+
+Prevention 
+
+Our cybersecurity program starts with prevention, which includes risk assessment and identification. We utilize that information to design a layer of controls as a baseline. We conduct assessments to identify and evaluate potential cybersecurity risks. This process involves analyzing our Information Systems and Data to identify vulnerabilities and potential threats. Our cybersecurity program also includes third-party risk management, in which we oversee the identification and mitigation of risk associated with outsourcing to third-party vendors and service providers, particularly focused on vendors who process sensitive information.
+
+In addition to our risk assessment processes, we prioritize cybersecurity awareness and training programs for our employees. These initiatives are designed to educate our workforce about potential threats, best practices for data protection, and the importance of maintaining security measures. We train our employees through annual security training, phishing simulations, and communications about cybersecurity topics and threats.
+
+Detection
+
+Our cybersecurity program includes tools and processes designed to detect unusual network activity, anomalous cybersecurity events, and breaches. We utilize a variety of preventative measures and detective tools.
+
+Response
+
+We have developed an incident response plan to ensure a swift and effective response in the event of a cybersecurity incident. This plan includes predefined roles and responsibilities, communication protocols, and steps to contain and remediate any vulnerabilities that may lead to a breach.
+
+GOVERNANCE
+
+Our Chief Information Security Officer (“CISO”) oversees the Company’s cybersecurity program. Our CISO, who reports to our Chief Product and Technology Officer (“CPTO”), has over 20 years of experience in information technology, risk, and cybersecurity leadership, and has previously held both CISO and Chief Technology Officer roles. Our CISO chairs the Company’s Cybersecurity Governance Committee, comprised of executive leaders across Legal, Finance, and Corporate Communications, that has oversight responsibilities regarding the Company’s information security functions, including infrastructure, governance, privacy, and compliance.
+
+Our CISO is responsible for hiring appropriate personnel, helping to integrate cybersecurity risk considerations into the Company’s overall risk management strategy, and communicating key priorities to relevant personnel. The Information Security Team conducts exercises to prepare for cybersecurity incidents, approves cybersecurity processes, and reviews security assessments and other security-related reports.
+
+Our cybersecurity incident response processes include the escalation of information about certain cybersecurity incidents, depending on the circumstances, to our CISO, members of management, and the Audit Committee of the Board of Directors. 
+
+The Audit Committee provides oversight for our cybersecurity program and our enterprise risk management process. The Audit Committee also evaluates enterprise level risks and strategies, including our cybersecurity risk. The Audit Committee receives updates from management on the effectiveness of our cybersecurity program. The Audit Committee also reviews plans on how management will enhance the program, receives updates on special topics that help the Committee provide effective oversight of the program, and is notified in the event of certain cybersecurity incidents.
+
+Although we have not experienced a material cybersecurity breach, we cannot guarantee that we will not experience a material cyber threat or incident in the future. For more information regarding the cybersecurity risks we face, see Item 1A. Risk Factors in this Annual Report.
+
+STITCH FIX, INC.  |  2025 FORM 10-K  |  29
+
+Table of Contents

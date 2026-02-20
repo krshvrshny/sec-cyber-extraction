@@ -1,0 +1,29 @@
+Item 1C. Cybersecurity
+
+Risk Management and Strategy
+
+At Stitch Fix, we recognize the importance of robust cybersecurity measures to protect our systems, data, and the interests of our stakeholders. We have implemented a comprehensive cybersecurity risk management strategy and governance framework to identify, assess, manage, mitigate, and respond to cybersecurity risks and threats.
+
+Stitch Fix views its cybersecurity strategy through a multi-pronged lens encompassing prevention, detection, and response to ensure holistic coverage of the program and our environments.
+
+Prevention 
+
+Our cybersecurity program starts with prevention, which includes risk assessment and identification. We utilize that information to design an effective layer of controls as a baseline. We regularly conduct assessments to identify and evaluate potential cybersecurity risks. This process involves analyzing our systems, networks, and data infrastructure to identify vulnerabilities and potential threats. Our cybersecurity program also includes a dedicated function for third party risk management, in which we oversee the identification and mitigation of risk associated with outsourcing to third party vendors and service providers, particularly focused on vendors who process sensitive information.
+
+In addition to our risk assessment processes, we prioritize cybersecurity awareness and training programs for our employees. These initiatives aim to educate our workforce about potential threats, best practices for data protection, and the importance of maintaining security measures. We train our employees through annual security training, phishing simulations, and regular communications about cybersecurity topics and threats.
+
+Detection
+
+Our cybersecurity program includes tools and processes designed to detect unusual network activity, anomalous cybersecurity events, and breaches. We utilize a variety of preventative measures and detective tools.
+
+Response
+
+We have developed an incident response plan to ensure a swift and effective response in the event of a cybersecurity incident. This plan includes predefined roles and responsibilities, communication protocols, and steps to contain and remediate any vulnerabilities that may lead to a breach.
+
+Governance
+
+Our Chief Information Security Officer (“CISO”) oversees the Company’s cybersecurity program. Our CISO, who reports to our Chief Technology Officer (“CTO”), has over 20 years of experience in information technology, risk, and cybersecurity leadership, and has previously held both CISO and CTO roles.
+
+The Audit Committee of our Board of Directors provides oversight for our cybersecurity program and our enterprise risk management process, which evaluates enterprise level risks and strategies, including our cybersecurity risk. The Audit Committee receives updates from management on the effectiveness of our cybersecurity program. The Audit Committee also reviews plans on how management will enhance the program, receives updates on special topics that help the Committee provide effective oversight of the program, and is notified in the event of certain cybersecurity incidents.
+
+Although we have not experienced a material cybersecurity breach, we cannot guarantee that we will not experience a cyber threat or incident in the future. For more information regarding the cybersecurity risks we face, see Item 1A. Risk Factors in this Annual Report.

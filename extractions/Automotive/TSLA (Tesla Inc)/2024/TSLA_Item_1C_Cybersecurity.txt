@@ -1,4 +1,4 @@
-ITEM 1C. CYBERSECURITY
+ITEM 1C. CYBERSECURITY 
 
 Cybersecurity Risk Management and Strategy
 
@@ -12,7 +12,7 @@ Security events and data incidents are evaluated, ranked by severity and priorit
 
 We also conduct tabletop exercises to simulate responses to cybersecurity incidents. Our team of cybersecurity professionals then collaborate with technical and business stakeholders across our business units to further analyze the risk to the company, and form detection, mitigation and remediation strategies.
 
-As part of the above processes, we regularly engage external auditors and consultants to assess our internal cybersecurity programs and compliance with applicable practices and standards. As of 2023, our Information Security Management System has been certified to conform to the requirements of ISO/IEC 27001:2013.
+As part of the above processes, we regularly engage external auditors and consultants to assess our internal cybersecurity programs and compliance with applicable practices and standards. As of 2024, our Information Security Management System has been certified to conform to the requirements of ISO/IEC 27001:2013.
 
 Our risk management program also assesses third party risks, and we perform third-party risk management to identify and mitigate risks from third parties such as vendors, suppliers, and other business partners associated with our use of third-party service providers. Cybersecurity risks are evaluated when determining the selection and oversight of applicable third-party service providers and potential fourth-party risks when handling and/or processing our employee, business or customer data. In addition to new vendor onboarding, we perform risk management during third-party cybersecurity compromise incidents to identify and mitigate risks to us from third-party incidents.
 
@@ -22,6 +22,6 @@ Cybersecurity Governance
 
 Cybersecurity is an important part of our risk management processes and an area of focus for our Board and management. Our Audit Committee is responsible for the oversight of risks from cybersecurity threats. Members of the Audit Committee receive updates on a quarterly basis from senior management, including leaders from our Information Security, Product Security, Compliance and Legal teams regarding matters of cybersecurity. This includes existing and new cybersecurity risks, status on how management is addressing and/or mitigating those risks, cybersecurity and data privacy incidents (if any) and status on key information security initiatives. Our Board members also engage in ad hoc conversations with management on cybersecurity-related news events and discuss any updates to our cybersecurity risk management and strategy programs.
 
-29
+28
 
 Our cybersecurity risk management and strategy processes are overseen by leaders from our Information Security, Product Security, Compliance and Legal teams. Such individuals have an average of over 15 years of prior work experience in various roles involving information technology, including security, auditing, compliance, systems and programming. These individuals are informed about, and monitor the prevention, mitigation, detection and remediation of cybersecurity incidents through their management of, and participation in, the cybersecurity risk management and strategy processes described above, including the operation of our incident response plan, and report to the Audit Committee on any appropriate items.

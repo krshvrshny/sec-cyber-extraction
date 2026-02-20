@@ -1,3 +1,31 @@
 Item 1C. Cybersecurity
 
-Not applicable.
+Risk Management and Strategy
+
+We maintain a comprehensive cybersecurity program and continuously assess our approach against industry best practices. Our focus on cybersecurity risk management, including risk identification, analysis, and response, centers on the following areas:
+
+•Enterprise security: We reference industry-accepted control frameworks, compliance regulations, privacy requirements and best practices. 
+
+•Product security: Our development teams participate in regular training and adopt industry best practices to enhance the security of our product portfolio. 
+
+•Threat landscape analysis: We continuously assess emerging threat vectors and the evolving data privacy regulatory environment.
+
+•Incident response: We continuously monitor the threat landscape and our systems in coordination with an external monitoring firm and regularly test our incident response preparedness.
+
+19
+
+We actively participate in the cybersecurity community to stay current regarding best practices and continuously improve our security awareness posture. Our employees are engaged in security and privacy awareness training to enhance the protection of our systems and data. In addition, we incorporate data and privacy protection education in our customer engagement through ongoing resources, such as best practices content and security consultations. We also assess third-party service providers for cybersecurity risks at onboarding, refreshing as needed throughout our engagement.
+
+We also engage third-party resources to assist in our cybersecurity program, including annual ISO 27001 assessments of our cybersecurity program, validation of our SOC2 controls’ operational effectiveness for certain products, and retaining leading cybersecurity experts as needed in response to cybersecurity incidents and for other consultative needs (e.g., due diligence of potential acquisitions). 
+
+Governance
+
+Our multi-level cybersecurity governance and risk management structure begins with our management-level Enterprise Risk Management ("ERM") Committee, which consists of cross-functional management representatives throughout Progress. The ERM Committee receives detailed cybersecurity information from key security personnel, led by our Chief Information Security Officer ("CISO"), and reports to Progress’ Chief Executive Officer, Chief Financial Officer, Chief Information Officer, Chief Legal Officer, and other members of CEO Staff at least quarterly.
+
+Our CISO has significant information technology experience, having served in various roles in information technology and information security for more than 20 years, including serving in various cybersecurity leadership roles within public and private companies. He holds an undergraduate degree in management and obtained CISO Executive Education Certification from Carnegie Mellon University. Cybersecurity leaders reporting to our CISO also have significant relevant experience and industry recognized certifications.
+
+Our CISO has routinely reported to the Audit Committee of our Board of Directors at the Audit Committee’s regular quarterly meetings, or more frequently as needed. The Audit Committee's duties include, among other things, oversight of risks related to cybersecurity, as well as our broader ERM program. The Audit Committee communicates regularly with our full Board of Directors, which is ultimately responsible for overall risk oversight for Progress.
+
+Additionally, our cybersecurity incident response plans require timely reporting to our Disclosure Committee ("DC") regarding any potentially material cybersecurity incidents. The DC is tasked with evaluating the materiality of any such incidents and is comprised of our Chief Executive Officer, Chief Financial Officer, and Chief Legal Officer, and supported by key leaders across the organization, including our Chief Information Officer and CISO. 
+
+Notwithstanding our commitments to cybersecurity, we may not be successful in preventing or mitigating a cybersecurity incident that could have a material adverse effect on us. Please see Item 1A. "Risk Factors" for a discussion of our cybersecurity risks.
