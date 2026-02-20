@@ -69,15 +69,15 @@ def run_extraction(sectors_dict, target_years):
                                 item_1c = doc['Item 1C']
                                 save_to_file(base_folder, sector, ticker, full_name, year, "Item_1C_Cybersecurity", item_1c)
                             except:
-                                print(f"   [INFO] {ticker} {year}: No Item 1C found, skipping")
+                                print(f"[INFO] {ticker} {year}: No Item 1C found, skipping")
                         
                         time.sleep(0.4)
                     
                     except Exception as e:
-                        print(f"      [ERROR] {ticker} {year}: {e}")
+                        print(f"[ERROR] {ticker} {year}: {e}")
             
             except Exception as e:
-                print(f"      [ERROR] {ticker}: {e}")
+                print(f"[ERROR] {ticker}: {e}")
 
 data_sample = {
     "Automotive": ["F", "TSLA"],
