@@ -1,0 +1,779 @@
+LENDINGCLUB CORPORATION
+
+Item 1A. Risk Factors
+
+You should carefully consider the risks and uncertainties described below, together with all of the other information in this Annual Report, including the section titled “Part II – Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” and the consolidated financial statements and related notes. While we believe the risks and uncertainties described below include all material risks currently known by us, it is possible that these may not be the only ones we face. If any of the risks actually occur, our business, financial condition, operating results and prospects could be materially and adversely affected.
+
+Risk Factors Summary
+
+Our business is subject to a number of risks that may adversely affect our business, financial condition and results of operations. These risks are discussed more fully below and include, but are not limited to:
+
+Risks Related to Regulation, Supervision and Compliance 
+
+•operating within the bank regulatory regime and to the satisfaction of the banking regulators;
+
+•our compliance with applicable laws and regulations (including foreign laws);
+
+•the adequacy of our allowance for loan losses; 
+
+•operating within capital and liquidity regulations and requirements;
+
+•the adequacy and effectiveness of our risk management framework;
+
+•the impact of any changes to the legal and regulatory regime; and
+
+•our participation in the Federal Paycheck Protection Program.
+
+Risks Related to Operating Our Business 
+
+•holding loans on our balance sheet and associated credit, default and liquidity risks;
+
+•maintaining and increasing loan originations;
+
+•maintaining our deposit base;
+
+•the ability of platform investors to exert influence over us;
+
+•our ability to develop and commercialize products and services;
+
+•maintaining adequate liquidity;
+
+•the impact of litigation and government and regulatory investigations, inquiries and requests;
+
+•M&A and related integration activity;
+
+•disruptions in our technology systems or failures in our technology initiatives;
+
+•maintaining, protecting and promoting our brand;
+
+•managing, and the impact of, fraudulent activity; 
+
+•forecasting demand for loans;
+
+•offering a breadth and volume of loan purchase and investment opportunities for platform investors;
+
+•our use of the issuing bank partnership model (where it is still used in our business);
+
+•breaches of certain representations and warranties made to others; and
+
+•our ability to manage indebtedness.
+
+Risks Related to Macroeconomic Conditions or Other External Factors
+
+•the impact of the current economic environment, including a potential recession; 
+
+•fluctuations in interest rates;
+
+•a decline in overall social and economic conditions; 
+
+•the political environment and governmental fiscal/monetary policies;
+
+•negative publicity and media coverage;
+
+•the impact of COVID-19; and
+
+•the impact of geopolitical events, natural disasters, infrastructure failures and other business interruptions.
+
+19
+
+LENDINGCLUB CORPORATION
+
+Risks Related to Credit and Collections
+
+•the accuracy and effectiveness of our credit decisioning models;
+
+•the effectiveness of our collection efforts; and
+
+•the accuracy of credit and other information received from borrowers or third parties.
+
+Risks Related to Our Industry
+
+•our ability to compete; and
+
+•the soundness of other financial institutions.
+
+Risks Related to Personnel and Third Parties
+
+•attracting and retaining employees; 
+
+•the impact of any misconduct or errors; 
+
+•our reliance on, and relationship with, third parties; and
+
+•the failure or circumvention of our controls and procedures. 
+
+Risks Related to Data, Intellectual Property and Privacy
+
+•security incidents, failures and bugs in our systems;
+
+•the impact of cyber-attacks suffered by third parties; 
+
+•the collection, storage and use of personal data; 
+
+•protecting our intellectual property rights; and
+
+•our use of open source software. 
+
+Risks Related to Tax and Accounting
+
+•changes in tax laws and our ability to use our deferred tax asset;
+
+•our net gain (loss) position; and
+
+•changes in accounting standards and incorrect estimates and assumptions.
+
+Risks Related to the Ownership of Our Common Stock
+
+•the volatility of our stock price and fluctuations in quarterly results;
+
+•the availability and content of research and reports by analysts;
+
+•future equity dilution; 
+
+•our anti-takeover provisions and restrictions in accumulating a position in the Company; and
+
+•our intention to not pay dividends in the foreseeable future. 
+
+RISKS RELATED TO REGULATION, SUPERVISION AND COMPLIANCE
+
+We operate in a highly regulated environment that affects virtually all aspects of our operations, and the need to comply with applicable laws, regulations and supervisory expectations can materially impact our business, financial condition and results of operations.
+
+We are subject to extensive regulation, supervision and legal requirements that affect virtually all aspects of our operations. The regulatory regime governing banking organizations is generally intended to protect customers, depositors, the DIF and the overall financial stability of the United States, not our stockholders or creditors. See “Item 1. Business – Regulation and Supervision” for information on the regulation and supervision framework which governs our Company and its activities. 
+
+20
+
+LENDINGCLUB CORPORATION
+
+We are regularly examined and inspected by our regulators, including the FRB and OCC. Our regulators have extensive authority and discretion in their interpretation, implementation, supervision and enforcement of the regulatory regime, including on matters related to:
+
+•dividends or capital distributions by LC Bank or the Company;
+
+•capital and liquidity requirements applicable to us, including the imposition of requirements more stringent than those required under generally applicable laws;
+
+•the types and terms of products we offer, activities we may conduct or investments we may make;
+
+•the composition, risk characteristics, potential adverse classification, allowance and risk reserves in connection with our loans or other assets;
+
+•our deposit-gathering and other funding sources;
+
+•the quality of our board and management oversight;
+
+•the effectiveness of our risk management and compliance programs, including with respect to consumer protection, information technology, cybersecurity, third-party risk management, anti-money laundering and sanctions;
+
+•LC Bank’s commitment to helping meet the credit needs of low- and moderate-income neighborhoods under the Community Reinvestment Act of 1967;
+
+•their willingness to approve applications, such as for changes in our business plan, the establishment of new branches, the commencement of new activities, or the conduct of mergers and acquisitions; and
+
+•our rate of growth and other expansionary or strategic initiatives.
+
+The Company became a bank holding company on February 1, 2021, with its acquisition of Radius, and therefore has only recently become subject to the bank regulatory regime. We continue to devote substantial time and resources to compliance and meeting our regulators’ supervisory expectations, which will adversely affect our profitably and may adversely affect our ability to pursue advantageous business opportunities.
+
+Failure to comply with applicable laws, regulations or commitments, or to satisfy our regulators’ supervisory expectations, could subject us to, among other things, supervisory or enforcement action, which could adversely affect our business, financial condition and results of operations.
+
+If we do not comply with applicable laws, regulations or commitments, if we are deemed to have engaged in unsafe or unsound conduct, or if we do not satisfy our regulators’ supervisory expectations, then we may be subject to increased scrutiny, supervisory criticism, governmental or private litigation and/or a wide range of potential monetary penalties or consequences, enforcement actions, criminal liability and/or reputational harm. Such actions could be public or of a confidential nature, and arise even if we are acting in good faith or operating under a reasonable interpretation of the law and could include, for example, monetary penalties, payment of damages or other monetary relief, restitution or disgorgement of profits, directives to take remedial action or to cease or modify practices, restrictions on growth or expansionary proposals, denial or refusal to accept applications, removal of officers or directors, prohibition on dividends or capital distributions, increases in capital or liquidity requirements and/or termination of LC Bank’s deposit insurance. Additionally, compliance with applicable laws, regulations and commitments requires significant investment of management attention and resources. Any failure to comply with applicable laws, regulations or commitments could have an adverse effect on our business, financial condition and results of operations. 
+
+Our allowance for loan losses may not be adequate to cover actual losses.
+
+We maintain an allowance for loan losses to provide for loan defaults and non-performance. We reserve for loan losses by establishing an allowance that is based on our assessment of loan losses in our loan portfolio. Further, through its adoption of the CECL model, the Financial Accounting Standards Board (FASB) implemented an accounting model to measure credit losses for financial assets measured at amortized cost, which includes the vast majority of our loan portfolio. Under this model, the allowance is established to reserve for management’s best estimate of expected lifetime losses inherent in our finance receivables and loan portfolio. 
+
+21
+
+LENDINGCLUB CORPORATION
+
+The process for determining the amount of the allowance requires subjective and complex judgments about the future, including forecasts of economic or market conditions that might impair the ability of borrowers to repay their loans. Changes in economic conditions affecting borrowers, revisions to accounting rules and related guidance, new qualitative or quantitative information about existing loans, identification of additional problem loans, changes in the size or composition of our finance receivables and loan portfolio, changes to our loss estimation techniques including consideration of forecasted economic assumptions, and other factors, both within and outside of our control, may require an increase in the allowance for loan losses. We may also underestimate expected lifetime losses and therefore take additional allowance to account for such losses and/or fail to hold a sufficient allowance for such losses.
+
+A decline in the national economy or the local economies of any areas in which the loans are concentrated could result in an increase in loan delinquencies, foreclosures or repossessions resulting in increased charge-off amounts and the need for additional loan loss allowances in future periods. In addition, our regulators may require us to make a provision for loan losses or otherwise recognize further loan charge-offs following their periodic review of our loan portfolio, our underwriting procedures, and our loan loss allowance. 
+
+We are subject to stringent capital and liquidity regulations and requirements.
+
+LendingClub Corporation is the parent company of and a separate and distinct legal entity from LC Bank. Legal entity liquidity is an important consideration as there are legal, regulatory, contractual and other limitations on our ability to utilize liquidity from one legal entity to satisfy the liquidity requirements of another, which could result in adverse liquidity events at either LendingClub Corporation and/or LC Bank. In particular, LC Bank is subject to laws that restrict dividend payments or authorize regulatory bodies to block or reduce the flow of funds from those subsidiaries to the parent company or other subsidiaries. Applicable laws and regulations, including capital and liquidity requirements, could restrict our ability to transfer funds between LC Bank and LendingClub Corporation, which could adversely affect our cash flow and financial condition. Additionally, applicable laws and regulations may restrict what LendingClub Corporation is able to do with the liquidity it does possess, which may adversely affect our business and results of operations. 
+
+Bank holding companies, including the Company, are subject to capital and liquidity standards. Further, we have made certain commitments to the banking regulators which require us to hold capital incremental to the minimum required under the applicable standards, which could thereby impact the Company’s ability to invest in assets. From time to time, regulators may implement changes to these capital adequacy and liquidity requirements. If the Company fails to meet these minimum capital adequacy and liquidity guidelines and other regulatory requirements, its business activities, including lending, and its ability to expand could be limited. It could also result in the Company being required to take steps to increase its regulatory capital that may be dilutive or adverse to stockholders, including limiting the Company’s ability to pay dividends to stockholders or limiting the Company’s ability to invest in assets even if deemed more desirable from a financial and business perspective.
+
+Our business may be adversely affected if our risk management framework does not effectively identify, assess and mitigate risk.
+
+Our risk management framework seeks to appropriately balance risk and return and mitigate our risks, including risks attributable to third parties. We have established policies intended to regularly identify and assess our risk profile, including credit risk, pricing risk, liquidity risk, strategic risk and operational risk, and then implement appropriate processes and controls to mitigate risk.
+
+If our risk management framework does not effectively identify, assess and/or mitigate our risk profile, we could suffer unexpected losses or be adversely affected, which could have a material adverse effect on our business. For example, assessment of our risk profile depends, in part, upon the use of forecasting models. If these models are ineffective at predicting future losses or are otherwise inadequate, we may incur unexpected losses or otherwise be adversely affected. In addition, the information we use may be inaccurate or incomplete, both of which may be 
+
+22
+
+LENDINGCLUB CORPORATION
+
+difficult to detect and avoid. Additionally, there may be risks that exist, or that develop in the future, that we have not appropriately anticipated, identified or mitigated.
+
+Finally, our risk management framework may be deemed insufficient or inadequate by our regulators, which have in the past required, and we expect to continue to require, that we invest additional resources into remediating any deficiencies and adversely impact our ability to operate our business until such time as the revised framework is deemed sufficient and adequate by our regulators.
+
+Changes in the legal and regulatory regime could adversely affect our business, financial condition, and results of operations.
+
+Laws, regulations and supervisory expectations, and the manner in which they are interpreted and enforced, are constantly changing. For example, governments could pass legislation or adopt policies based on changes in leadership, shifting priorities or in response to current financial conditions. We cannot predict what changes, if any, will be made to the legal and regulatory regime or the effect that such changes may have on our future business and earnings prospects. Changes to the legal and regulatory regime may require material modifications to our products, services and operations, require significant investments of management attention and resources, or expose us to potential liability for past practices. Changes to the legal and regulatory regime, such as through amendments to laws and regulations, imposition of supervisory action, or shifts in governmental or regulatory policies, practices or priorities may have a material adverse impact on our operations, including the cost to conduct business, our results of operations and what products and services we can offer.
+
+We have participated as a lender in the Federal Paycheck Protection Program (PPP) and have certain risks attributable to lenders under PPP.
+
+The PPP loans made by LC Bank (which in this risk factor includes its predecessor entity Radius Bank) under the federal CARES Act are guaranteed by the SBA. If PPP loan funds are used by the borrower for specific purposes as provided under the PPP, the loan may be fully or partially forgiven by the SBA and LC Bank will receive funds directly from the SBA. If, however, the PPP borrower fails to qualify for loan forgiveness then we may end up holding these loans at unfavorable interest rates as compared to the interest rate that we otherwise would have applied. 
+
+There was and continues to be uncertainty regarding some of the laws, rules and guidance relating to the PPP. If the SBA or other regulators determine that LC Bank has not complied with all PPP laws, rules and guidance, we could be required to refund some or all of the fees related to PPP loans that we have earned or be subject to other regulatory enforcement action. Furthermore, in the event of a loss resulting from a default on a PPP loan and a determination by the SBA that there was a deficiency in the manner in which the PPP loan was originated, funded or serviced by LC Bank, the SBA may deny its liability under the guaranty, reduce the amount of the guaranty or, if it has already made payment under the guaranty, seek recovery of any loss related to the deficiency from LC Bank. PPP lenders, including LC Bank, may also be subject to the risk of litigation in connection with other aspects of the PPP, including but not limited to borrowers seeking forgiveness of their loans. Any financial liability or litigation related to LC Bank’s participation in PPP could adversely impact our business, financial condition, and results of operations.
+
+Participation by non-U.S. residents on our marketplace bank platform may result in non-compliance with foreign laws.
+
+From time to time, non-U.S. residents invest in loans directly through our marketplace bank platform. We are not experts with respect to all applicable laws in the various foreign jurisdictions from which an investor may be located, and we cannot be sure that we are complying with all applicable foreign laws. Failure to comply with such laws could result in fines and penalties payable by us, which could reduce our profitability or cause us to modify or delay planned expansions and expenditures, including investments in our growth. In addition, any such fines and 
+
+23
+
+LENDINGCLUB CORPORATION
+
+penalties could create negative publicity, result in additional regulatory oversight that could limit our operations and ability to succeed, or otherwise hinder our plans to expand our business internationally.
+
+RISKS RELATED TO OPERATING OUR BUSINESS
+
+Holding loans on our balance sheet exposes us to credit, default and liquidity risks, which may adversely affect our financial performance.
+
+We hold loans purchased and/or issued by the Company or LC Bank. For example, in December 2022 we purchased a $1.05 billion portfolio of unsecured personal loans. Further, in 2023, we expect to increase the proportion of loans held on our balance sheet relative to loans sold through our marketplace platform.
+
+While these loans are on our balance sheet we earn interest on the loans, but we have exposure to the credit risk of the borrowers. In the event of a decline or volatility in the credit profile and/or delinquency rates of these borrowers, the value of these held loans may decline. For example, increasing inflation and interest rates may cause borrowers to allocate more of their income to necessities such as housing and food, thereby potentially increasing their risk of default by reducing their ability to make loan payments.
+
+Volatility or a decline in the value of the loans held on our balance sheet may adversely impact the liquidity of these loans, which could produce losses if we are unable to realize their fair value or manage declines in their value, each of which may adversely affect our financial performance. Further, increases in delinquency rates may require that we take additional allowances for loan losses, which may adversely affect our financial performance and our ability to allocate sufficient financial resources for other purposes, such as advancing our products and services, which could impact our results of operations.
+
+In addition to the discussion in this section, see the risk factor “The current economic environment, including a potential recession, could negatively affect our business and operating results.”
+
+If we do not maintain or continue to increase loan originations, or expand our marketplace bank to new markets, we may not succeed in maintaining and/or growing our business, and as a result our business and results of operations could be adversely affected.
+
+The vast majority of our revenue currently comes from origination fees, servicing fees on loans sold to platform investors and net interest income earned from retaining loans on our balance sheet for investment. To grow these revenue streams, we must continue to increase loan originations over time. Doing so requires that we attract a large number of new borrowers who meet our platform’s lending standards and those of new and existing platform investors, including investors in any securitizations of our loans. Our ability to attract qualified borrowers and attract new and retain existing platform investors each depends in large part on the success of our marketing efforts, our visibility, placement and customer reviews on third-party platforms, and the competitive advantage of our products, particularly as we continue to grow our marketplace bank and introduce new products. If any of our marketing channels become less effective, or the cost of these channels were to significantly increase, we may not be able to attract new and retain existing customers in a cost-effective manner or convert potential customers into active customers in our marketplace bank. Additionally, changes in the way third-party platforms operate, including changes in our participation on such platforms, could make the maintenance and promotion of our products and services, and thereby maintaining and growing loan originations, more expensive or more difficult. Further, our ability to hold or sell loans is dependent on a number of factors, including the economic and interest rate environment, the performance of our loans and the conditions of capital markets. If any of these factors is volatile or adverse, then we may be unable to hold or sell as many loans as we could potentially originate and therefore would need to reduce our origination volume. If loan originations through our platform stagnate or decrease, for any reason, our business and financial results may be adversely affected.
+
+In addition to the discussion in this section, see the risk factor “The current economic environment, including a potential recession, could negatively affect our business and operating results.”
+
+24
+
+LENDINGCLUB CORPORATION
+
+We may not be able to maintain our deposit base.
+
+We rely on deposits as a principal source of funding for our lending activities. As of December 31, 2022, we had approximately $6.4 billion in deposits, which consisted of $5.2 billion in core deposits and $1.2 billion in brokered deposits. Our future growth and strategy will largely depend on our ability to maintain core deposits to provide a less costly and stable source of funding. The deposit markets are competitive, and therefore it may prove difficult and/or costly to grow our core deposit base. For example, as the FRB has increased interest rates, we have made corresponding increases to the rate we offer depositors, which increases our cost of capital and may reduce the net interest margin on loans held for investment.
+
+Changes we make to the rates offered on our deposit products may affect our finances and liquidity. We have brokered deposits, which may be more price sensitive than other types of deposits and may become less available if alternative investments offer higher returns. Further, a significant portion of our core deposits is sourced from depositors referred to the Company through third party platforms, and any change in the way such third-party platforms operate, including our participation or the placement of our products on such third-party platforms, may have a materially adverse impact on our ability to maintain and/or grow our deposit base. In addition, our ability to maintain existing or obtain additional deposits may be impacted by factors, including factors beyond our control, including perceptions about our reputation, financial strength or branchless banking generally, which could reduce the number of consumers choosing to place deposits with us.
+
+Our ability to obtain deposit funding and offer competitive interest rates on deposits is also dependent on capital levels of LC Bank and being considered “well-capitalized” by the banking regulators. Our regulators can adjust the requirements to be “well-capitalized” at any time and have authority to place limitations on our deposit businesses, including the interest rate we pay on deposits and the amount of brokered deposits we can accept. An inability to develop and maintain a strong deposit base could have a material adverse impact on our business, financial condition and results of operations.
+
+In addition to the discussion in this section, see the risk factor “The current economic environment, including a potential recession, could negatively affect our business and operating results.”
+
+If investors on our marketplace bank platform pause or cease their participation or exert influence over us, our business, financial condition and results of operations may be harmed.
+
+Our success depends in significant part on the financial strength of investors participating on our marketplace bank platform. Investors could, for any reason, experience financial difficulties and cease participating on our platform or fail to pay fees when due. Further, the financial returns on loans we offer on our platform may prove to be unsatisfactory to certain platform investors and, therefore, such investors may choose to deploy their capital elsewhere. For example, increasing inflation and interest rates may cause borrowers to allocate their income to necessities, such as housing and food, thereby potentially increasing their risk of default by reducing their ability to make loan payments. This may increase default rates, which could adversely affect platform investor returns. Additionally, in a rising rate environment the return expectations of our platform investors will increase, and we may be unable to meet those expectations, which could prompt certain platform investors to reduce or cease their loan purchases or investments. The occurrence of one or more of these events with a significant number of investors could, alone or in combination, have a material and adverse effect on our business, financial condition and results of operation. For example, following the historic increases in interest rates by the FRB in 2022, a number of our largest platform investors ceased or significantly reduced their purchases of our products, which resulted in a material reduction in our marketplace origination volume and revenue.
+
+From time to time, we may provide incentives to investors to purchase loans from us or we may sell loans at a price that is less than par. Any incentive or difference to par may be partially or wholly offset by other factors, such as interest earned on the loan prior to its sale. However, selling loans with incentives or at prices less than par may discourage investors from purchasing loans on our platform without incentives or at par value, cause us to realize less revenue than expected with respect to such loans or prompt dissatisfaction and complaints from investors unable to purchase incentivized or discounted loans.
+
+25
+
+LENDINGCLUB CORPORATION
+
+Additionally, investors may exert significant influence over us, our management and operations. For example, if investors pause or discontinue their investment activity, we may need to provide incentives or discounts and/or enter into unique structures or terms to attract investor capital to the platform. These arrangements may have a number of different structures and terms, including alternative fee arrangements, purchase price rebates or other incentives. There is also no assurance that we will be able to enter into any of these transactions if necessary, or if we do, what the final terms will be. Failure to attract investor capital on reasonable terms may result in a reduction in origination volume. 
+
+We may also experience significant concentration on our marketplace bank platform, where a limited number of investors purchase a large volume of loans from our platform. Such concentration exposes us disproportionately to any of those investors choosing to cease participation on our platform or choosing to deploy their capital elsewhere, to the economic performance of those investors or to any events, circumstances or risks affecting such investors.
+
+Any material reduction in loan purchases or investments by platform investors, or the economics of those purchases or investments for the Company, may have a material adverse impact on our business, financial condition and results of operations. In addition to the discussion in this section, see the risk factor “The current economic environment, including a potential recession, could negatively affect our business and operating results.”
+
+If we are unable to develop and commercialize new products and services and enhancements to existing products and services, our business may suffer.
+
+The financial services and banking industry is evolving rapidly and changing with disruptive technologies and the introduction of new products and services. We derive a significant portion of our revenue from transaction-based fees we collect in connection with the origination of unsecured personal loans. To enhance customer engagement and diversify our revenue streams, we are undertaking a strategy to broaden the scope of our products and services we offer. Failure to broaden the scope of our products and services leaves us dependent on a single revenue stream and vulnerable to competitors offering a suite of products and services. Accordingly, a key part of our success depends on our ability to develop and commercialize new products and services and enhancements to existing products and services.
+
+We incur expenses and expend resources to develop and commercialize new products and services and enhancements to existing products and services. However, we may not assign the appropriate level of resources, priority or expertise to the development and commercialization of these new products, services or enhancements. We also could utilize and invest in technologies, products and services that ultimately do not achieve widespread adoption and, therefore, are not as attractive or useful to our customers as we anticipate. Moreover, we may not realize the benefit of new technologies, products, services or enhancements for many years, and competitors may introduce more compelling products, services or enhancements in the meantime. Competitors also may develop or adopt technologies or introduce innovations that make our marketplace bank platform less attractive to our borrowers and/or investors. If we are unable to develop and commercialize timely and attractive products and services, our growth may be limited and our business may be materially and adversely affected.
+
+An inability to maintain adequate liquidity could jeopardize our business and financial condition. 
+
+Liquidity is essential to our business. Although we believe that we currently have an adequate amount of liquidity to support our business, there are a number of factors that could reduce and/or deplete our existing liquidity position, including results of operations that are reduced relative to our projections, costs related to existing or future litigation or regulatory matters, the pursuit of strategic business opportunities (whether through acquisition or organic) and unanticipated liabilities. Additionally, as noted above, we are subject to stringent capital and liquidity regulations and requirements and need to manage our liquidity position at both LendingClub Corporation and LC Bank within the parameters and terms set forth by applicable regulations and regulators. LC Bank is subject to various legal, regulatory and other restrictions on its ability to make distributions and payments to the Company. 
+
+26
+
+LENDINGCLUB CORPORATION
+
+Any inability to maintain an adequate liquidity position could adversely affect our operations, our compliance with applicable regulations and the performance of our business.
+
+Further, our ability to raise additional capital, should that be deemed beneficial and/or necessary, depends on conditions in the capital markets, economic conditions and a number of other factors, including investor perceptions regarding the financial services and banking industry, market conditions, governmental activities, and our financial condition and performance. Accordingly, we may be unable to raise additional capital if needed or on acceptable terms, which may adversely affect our liquidity, business, financial condition and results of operations.
+
+We are regularly subject to litigation, and government and regulatory investigations, inquiries and requests.
+
+We are regularly subject to claims, individual and class action lawsuits, lawsuits alleging regulatory violations such as the Telephone Consumer Protection Act (TCPA), Fair Credit Reporting Act (FCRA), Unfair and Deceptive Acts and Practices (UDAP) or Unfair, Deceptive or Abusive Acts or Practices (UDAAP) violations, government and regulatory exams, investigations, inquiries or requests, and other proceedings involving consumer protection, privacy, labor and employment, intellectual property, privacy, data protection, cybersecurity, anti-money laundering, securities, tax, commercial disputes, record retention and other matters. The number and/or significance of these claims, lawsuits, exams, investigations, inquiries and requests have increased as our business has expanded in scope and geographic reach, and our products and services have increased in complexity. For example, since our acquisition of Radius, we are subject to supervision, regulation, examination and enforcement by multiple federal banking regulatory bodies. Specifically, as a bank holding company, the Company is subject to ongoing and comprehensive supervision, regulation, examination and enforcement by the FRB. Further, as a national bank, LC Bank is subject to ongoing and comprehensive supervision, regulation, examination and enforcement by the OCC. Accordingly, we have been and continue to invest in regulatory compliance and to be subject to certain parameters, obligations and/or limitations set forth by the banking regulations and regulators with respect to the operation of our business. We are also subject to significant litigation and regulatory inquiries, as discussed more fully in “Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Note 19. Commitments and Contingencies,” below. 
+
+The scope, timing, outcome, consequences and impact of claims, lawsuits, proceedings, investigations, inquiries and requests that we are subject to cannot be predicted with certainty. Determining reserves for our pending litigation is a complex, fact-intensive process that requires significant judgment. Furthermore, resolution of such claims, lawsuits, proceedings, investigations, inquiries and requests could result in substantial fines, penalties or other monetary, injunctive or declaratory relief, which may materially and adversely affect our business. These claims, lawsuits, proceedings, exams, investigations, and requests could also: (i) result in reputational harm, criminal sanctions, consent decrees, orders preventing us from offering certain features, functionalities, products or services, (ii) limit our access to credit, (iii) result in a modification or suspension of our business practices, (iv) require certain parameters, obligations and/or limitations with respect to the operation of our business, (v) require us to develop non-infringing or otherwise altered products or technologies, (vi) prompt ancillary claims, lawsuits, proceedings, investigations, inquiries and requests, (vii) consume financial and other resources which may otherwise be utilized for other purposes, such as advancing our products and services, (viii) cause a breach or cancellation of certain contracts, or (ix) result in a loss of customers, investors and/or ecosystem partners, any of which may adversely affect our business and operations. Furthermore, even following the resolution of any claims, lawsuits, proceedings, exams, investigations, inquiries and requests against us, a regulatory enforcement agency could take action against one or more individuals or entities, which may require us to continue to incur significant expense for indemnification for any such individual or entity until such matters may be resolved. Any of these consequences could materially and adversely affect our business.
+
+Our acquisitions and other strategic transactions may not yield the intended benefits.
+
+We have historically and may continue to evaluate and consider strategic transactions, combinations, acquisitions, dispositions or alliances. These transactions could be material to our financial condition and results of operations if consummated. If we are able to identify an appropriate business opportunity, we may not be successful in 
+
+27
+
+LENDINGCLUB CORPORATION
+
+negotiating favorable terms and/or consummating the transaction and, even if we do consummate such a transaction, we may be unable to obtain the benefits or avoid the difficulties and risks of such transaction.
+
+In particular, on February 1, 2021, we acquired Radius and thereby its wholly-owned subsidiary, Radius Bank. The Company anticipates that this Acquisition will continue to be transformational for the Company from both a financial and strategic perspective. However, any acquisition (including our Acquisition), disposition or other strategic transactions involves risks, including:
+
+•difficulties in assimilating and integrating the operations, personnel, systems, data, technologies, products and services of the acquired business, which may require ongoing investment in development and enhancement of additional operational and reporting processes and controls;
+
+•inability of the acquired technologies, products or businesses to achieve expected levels of revenue, profitability, productivity or other benefits;
+
+•difficulties in retaining, training, motivating and integrating key personnel;
+
+•diversion of management’s time and resources from our normal daily operations;
+
+•difficulties in successfully incorporating licensed or acquired technology and rights into our platform;
+
+•difficulties in maintaining uniform standards, controls, procedures and policies within the combined organization;
+
+•difficulties in retaining relationships with customers, employees and suppliers of the acquired business;
+
+•risks of entering markets in which we have no or limited direct prior experience;
+
+•regulatory risks, including remaining in good standing with existing regulatory bodies or receiving any necessary pre-closing or post-closing approvals, as well as being subject to new regulators with oversight over an acquired business;
+
+•assumption of contractual obligations that contain terms that are not beneficial to us, require us to license or waive intellectual property rights or increase our risk for liability;
+
+•failure to successfully further develop any acquired technology;
+
+•liability for activities of the acquired or disposed of business before the acquisition or disposition, including patent and trademark infringement claims, violations of laws, regulatory actions, commercial disputes, tax liabilities and other known and unknown liabilities;
+
+•difficulty in separating assets and replacing shared services;
+
+•assumption of exposure to performance of any acquired loan portfolios;
+
+•potential disruptions to our ongoing businesses; and
+
+•unexpected costs and unknown risks and liabilities associated with the acquisition.
+
+Accordingly, any acquisition, disposition or other strategic transaction may not be successful, may not benefit our business strategy, may not generate sufficient revenue to offset the associated costs or may not otherwise result in the intended benefits. Additionally, it may take us longer than expected to fully realize the anticipated benefits and synergies of these transactions, and those benefits and synergies may ultimately be smaller than anticipated or may not be realized at all, which could adversely affect our business and operating results.
+
+Any transactions, combinations, acquisitions, dispositions or alliances may also require us to issue additional equity securities, spend our cash, or incur debt (and increased interest expense), liabilities and amortization expenses related to intangible assets or write-offs of goodwill, which could adversely affect our results of operations and dilute the economic and voting rights of our stockholders and the interests of holders of our indebtedness. 
+
+In addition, we cannot assure you that any acquisition of new businesses or technology will lead to the successful development of new or enhanced products and services or that any new or enhanced products and services, if developed, will achieve market acceptance or prove to be profitable. 
+
+Finally, we may also choose to divest certain businesses or product lines that no longer fit with our strategic objectives. If we decide to sell assets or a business, we may have difficulty obtaining terms acceptable to us in a timely manner, or at all. Additionally, the terms of such potential transactions may expose us to ongoing obligations and liabilities.
+
+28
+
+LENDINGCLUB CORPORATION
+
+Any significant disruption in our technology systems, including events beyond our control, or failure in our technology initiatives could have a material adverse effect on our operations.
+
+We believe the technology platform that powers our marketplace bank enables us to deliver solutions to customers and platform investors, and provides a significant time and cost advantage over traditional banks. The satisfactory performance, reliability and availability of our technology and our underlying network infrastructure are critical to our operations, customer service and reputation. Our failure to maintain satisfactory performance, reliability and availability of our technology and underlying network infrastructure may impair our ability to attract new and retain existing customers or platform investors, which could have a material adverse effect on our operations.
+
+Any interruptions or delays in our technology systems or service, whether as a result of third-party error, our error, natural disasters, terrorism, other man-made problems, or security breaches, whether accidental or willful, could harm our reputation and relationships with our customers and platform investors. Additionally, in the event of damage or interruption, our insurance policies may not adequately compensate us for any losses that we may incur. Our disaster recovery plan has not been tested under actual disaster conditions, and we may not have sufficient capacity to recover all data and services in the event of an outage. These factors could prevent us from processing or posting payments on loans, processing loan purchases or investments, damage our brand and reputation, divert our employees’ attention, reduce our revenue, subject us to liability, and cause customers to abandon our marketplace bank platform, any of which could adversely affect our business, financial condition and results of operations.
+
+We depend on our technology infrastructure to conduct and grow our business and operations and accordingly we invest in system upgrades, new solutions and other technology initiatives. Many of these initiatives take a significant amount of time to develop and implement, are tied to critical systems and require significant human and financial resources. While we take steps to mitigate the risks and uncertainties associated with these initiatives, these initiatives may not be implemented on time (or at all), within budget or without negative financial, operational or customer impact. Further if and when implemented, these initiatives may not perform as we or our customers, platform investors and other stakeholders expect. We also may not succeed in anticipating or keeping pace with future technology needs, technology demands of our customers or the competitive landscape for technology. The failure to implement new and maintain existing technologies could adversely affect our business, financial condition and results of operations.
+
+Failure to maintain, protect and promote our brand may harm our business.
+
+Maintaining, protecting and promoting our brand is critical to achieving widespread acceptance of our products and services and expanding our base of customers. Maintaining, protecting and promoting our brand depends on many factors, including our ability to continue to provide useful, reliable, secure and innovative products and services, as well as our ability to maintain trust.
+
+Our brand can be harmed in many ways, including failure by us or our partners to satisfy expectations of service and quality, inadequate protection of sensitive information, failure to maintain or provide adequate or accurate documentation and/or disclosures, compliance failures, failure to comply with contractual obligations, regulatory requests, inquiries or proceedings, litigation and other claims, employee misconduct and misconduct by our partners. We have also been, and may in the future be, the target of incomplete, inaccurate and/or misleading statements about our company, our business, and/or our products and services. Furthermore, our ability to maintain, protect and promote our brand is partially dependent on visibility and customer reviews on third-party platforms. Changes in the way these platforms operate could make the maintenance, protection and promotion of our products and services and our brand more expensive or more difficult. 
+
+Many of our stakeholders are becoming increasingly interested in our environmental, social, governance and other sustainability responsibilities, strategy and related disclosures. For example, certain of our platform investors and equity investors have recently inquired about our progress and disclosures on this topic. Further, this area of disclosure is subject to proposed rules from the SEC, which the Company continues to monitor and will comply 
+
+29
+
+LENDINGCLUB CORPORATION
+
+with as applicable. Our absolute and relative progress and disclosures, or lack thereof, on environmental, social, governance and other sustainability matters could impact our reputation, brand and the willingness of certain platform and equity investors to hold our loans or common stock, respectively. If we do not successfully maintain, protect and promote our brand we may be unable to maintain and/or expand our base of customers and investors, which may materially harm our business.
+
+Fraudulent activity associated with our marketplace bank could negatively impact our operating results, brand and reputation and cause the use of our products and services to decrease and our fraud losses to increase.
+
+We are subject to the risk of fraudulent activity associated with our marketplace bank, borrowers, investors and third parties handling borrower and investor information. We have taken measures to detect and reduce the risk of fraud, but these measures need to be continually improved and may not be effective against new and continually evolving forms of fraud or in connection with new product offerings. Under our agreements with investors, we are obligated to repurchase loans in cases of confirmed identity theft. The level of our fraud charge-offs and our results of operations could be materially and adversely affected if fraudulent activity were to significantly increase. High profile fraudulent activity or significant increases in fraudulent activity could lead to regulatory intervention, negatively impact our operating results, brand and reputation and lead us to take steps to reduce fraud risk, which could increase our costs.
+
+In addition, in the past, third parties have attempted to defraud individuals, some of whom may be potential customers of ours, by misappropriating our logos and representing themselves as LendingClub in e-mail campaigns to e-mail addresses that have been obtained outside of LendingClub. In one particular scheme, third parties represented to individuals that they might obtain a loan if they paid an “advance fee.” Individuals who believe that the campaigns are genuine may make payments to these unaffiliated third parties. Although we take commercially reasonable steps to prevent third-party fraud, we cannot always be successful in preventing individuals from suffering losses as a result of these schemes. Individuals who suffer damages due to the actions of these unaffiliated third parties may negatively view LendingClub, causing damage to our brand and reputation and reducing our business.
+
+If we are unable to accurately forecast demand for loans, our business could be harmed. 
+
+We operate a marketplace bank platform for consumer credit, balancing borrower demand for loans against investor demand for risk-adjusted returns. We offer credit to borrowers across a range of credit profiles and rates, and we offer loan purchase and investment opportunities across a range of risk-adjusted returns. In the event that borrower demand at a given credit rate exceeds investor demand for that product for a given period, we may fund the loans and hold them on our balance sheet, which carries certain risks. Investor funding on our platform is non-committed and therefore it is challenging to precisely forecast investor demand. In addition to the discussion in this section, see the risk factor “Holding loans on our balance sheet exposes us to credit, default and liquidity risk, which may adversely affect our financial performance.”
+
+Alternatively, in the event that investor demand at a given return exceeds borrower demand for that product for a given period, there may be insufficient inventory to satisfy investor demand. If investors do not believe their demand can be met on our platform, they may seek alternative investments from ours and our business may suffer.
+
+If we are unable to offer platform investors a satisfactory breadth and volume of investment opportunities, our business and results of operations may be materially harmed.
+
+We invest in our marketplace bank platform and regularly iterate our processes to provide improved and more efficient investment opportunities, which includes efforts to provide platform investors the opportunity to invest in a broad selection of loans. However, various factors may contribute to certain loans being available only in a limited quantity or being entirely unavailable.
+
+30
+
+LENDINGCLUB CORPORATION
+
+If platform investors are unable to invest in certain categories of loans, are unable to invest at the volume they desire, perceive that they are not offered the same investment opportunities as other investors and/or are dissatisfied with the risk-adjusted return they receive from investing on our platform, they may seek alternative investments from ours which may materially harm our business and results of operations.
+
+Any challenge to or adverse consequence from our use of the issuing bank partnership model may harm our business.
+
+Prior to acquiring Radius, we utilized an issuing bank model. Since acquiring Radius, we have transitioned from an issuing bank partnership model to one in which we directly originate the vast majority of our loans. We believe that our historical use and current limited use of the issuing bank partnership model was and remains appropriate for all the jurisdictions in which we operate and we have worked with federal, state and local regulatory agencies to help them understand the model. However, we operate in a complex and evolving regulatory environment at the federal and state level and some enforcement authorities and private parties have challenged the ability to rely on legislative and judicial authority that permits a bank to “export” interest rates permitted by the laws of the state where the bank is located.
+
+For example, in May 2015, the U.S. Court of Appeals for the Second Circuit issued its decision in Madden v. Midland Funding, LLC that interpreted the scope of federal preemption under the National Bank Act and held that a nonbank assignee of a loan originated by a national bank may not be entitled to the benefits of federal preemption of claims of usury. The Second Circuit’s decision is binding on federal courts located in Connecticut, New York, and Vermont, but the decision could also be adopted by other courts. However, in 2020, the OCC issued a final rule clarifying that interest on a loan that is lawful under federal law for national banks and federal savings associations remains lawful upon the sale, assignment or other transfer of the loan (the OCC Rule). The FDIC issued a similar final rule in 2020 applicable to FDIC-insured state-chartered banks (the FDIC Rule). Since these final rules, several federal district courts have declined to follow the decision of the U.S. Court of Appeals for the Second Circuit in Madden v. Midland Funding, LLC, including in Colorado, Massachusetts and New York. On February 8, 2022, a federal district court granted summary judgment in favor of the OCC and FDIC in lawsuits brought by multiple states seeking to invalidate the OCC Rule and FDIC Rule (California, et al. v. The Office of the Comptroller of the Currency, et al., No. 4:20-cv-05200-JSW (N.D. Cal.); California, et al. v. Federal Deposit Insurance Corporation, No. 4:20-cv-05860-JSW (N.D. Cal.)).While we believe that our use of the issuing bank model is appropriate and factually distinguishable from the decision of the U.S. Court of Appeals for the Second Circuit in Madden v. Midland Funding, LLC, the case could create potential liability under state statutes such as usury statutes.
+
+Any challenge to or adverse consequence of our use of the issuing bank partnership model could adversely affect that business (including requiring that we alter our business model for impacted products), financial condition and results of operations.
+
+If we breach representations or warranties in connection with our platform investor transactions, including whole loan sales, structured products or securitization transactions, or if we suffer a direct or indirect loss in our retained interests in these transactions, our financial condition could be harmed.
+
+We make customary representations, warranties and covenants to platform investors about the loans we sell and service. We have sponsored, and may again in the future sponsor, the sale of unsecured personal whole loans through asset-backed securitizations. In connection with these securitizations, as well as other structured products or loan certificate programs, we make customary representations, warranties and covenants. If there is a breach of those representations, warranties and covenants that materially and adversely affects the subject loans, then we will be required to either cure the breach, repurchase the affected loans from the purchasing entity or investor or reimburse the purchasing entity or investor for incurred losses and expenses, as the case may be. These repurchase or reimbursement obligations could be material and have an adverse effect on our financial condition.
+
+31
+
+LENDINGCLUB CORPORATION
+
+In the event that we suffer losses on all or a portion of the interests in any securitization transaction that we have retained (whether to comply with applicable risk retention rules or otherwise), our financial condition could be harmed. We may enter into similar transactions in the future and those transactions are likely to entail similar and other substantial risks.
+
+Indebtedness could adversely affect our business and financial results.
+
+In the past, we have had a significant amount of indebtedness. While our indebtedness has materially decreased, if our debt service obligations increase, whether due to the increased cost of existing indebtedness or the incurrence of additional indebtedness, more of our cash flow from operations would need to be allocated to the payment of principal of, and interest on, our indebtedness, which would reduce the funds available for other purposes. Our indebtedness also could limit our ability to execute our strategic plan and withstand competitive pressures and could reduce our flexibility in responding to changing business and economic conditions.
+
+Should we desire to obtain additional indebtedness we may require a guarantee by LC Bank, where substantially all of our operations are being conducted. Any such guarantee would require approval of the banking regulators and there can be no assurance that we would be able to obtain such a guarantee. To extent that we are not able to obtain a guarantee from LC Bank, it may be more difficult or expensive for us to borrow money.
+
+Our ability to make payments on our debt, to repay our existing indebtedness when due, and to fund our business, operations and significant planned capital expenditures will depend on our ability to pay with available cash or generate cash in the future. This, to a certain extent, is subject to financial, competitive, legislative, regulatory and other factors that are beyond our control. In addition, if we cannot service our indebtedness, we may have to take actions such as utilizing available capital, limiting the facilitation of additional loans, selling assets, selling equity or reducing or delaying capital expenditures, strategic acquisitions, investments and alliances, any of which could impede the implementation of our business strategy, prevent us from entering into transactions that would otherwise benefit our business and/or adversely affect our business and financial results. We also may not be able to refinance our indebtedness or take such other actions, if necessary, on commercially reasonable terms, or at all.
+
+RISKS RELATED TO MACROECONOMIC CONDITIONS OR OTHER EXTERNAL FACTORS
+
+The current economic environment, including a potential recession, could negatively affect our business and operating results.
+
+The U.S. economy is undergoing a period of rapid change and significant uncertainty. A number of factors are causing this change and uncertainty, including elevated inflation, increasing interest rates and changing U.S. consumer spending patterns. Inflation reached a 40-year high of 9.1% in June 2022, and the annual inflation rate for the U.S. was 6.5% for the twelve months ended December 31, 2022. In response to elevated inflation, the FRB increased interest rates eight times since early 2022, from a federal funds rate range of 0.00% to 0.25% in early 2022 to 4.50% to 4.75% as of February 2023, and has indicated that it will conduct additional rate increases as it deems necessary to combat growing inflation. These increases in inflation and interest rates are changing lending and spending patterns, and thereby prompting fears that the U.S. is currently experiencing or will soon experience an economic downturn or prolonged period of slow economic growth.
+
+Our business is sensitive to and may be adversely impacted by the current inflation and interest rate environment. Among other things, as inflation and interest rates are elevated: (i) existing borrowers may allocate more of their income to necessities such as housing and food, thereby potentially increasing their risk of default by reducing their ability to make loan payments, (ii) the rate we offer on our deposit products will increase to remain competitive, thereby increasing our cost of funding and reducing our net interest margin, (iii) the return our loan products generate may be less attractive relative to other investment options, thereby reducing platform investor demand in our loan products, and (iv) we may need to increase interest rates and/or tighten credit standards for new originations, thereby potentially making it more challenging to source enough interested and qualified borrowers to enable sufficient origination volume. Further, the pace of increases in inflation and interest rates creates unique challenges in our ability to operate our business. For example, the rapid increase in interest rates has quickly 
+
+32
+
+LENDINGCLUB CORPORATION
+
+increased the cost of capital for our non-bank platform investors and thereby increased their return expectations. However, because our consumer loans are fixed interest rate products, we are unable to re-price existing loans and with respect to new originations we need to re-price methodically to remain competitive and mitigate the adverse impacts of doing so. Therefore, until the pace of interest rate increases stabilizes, we may be challenged to fully meet the return expectations for certain of our platform investors which may adversely impact our marketplace volume and related revenue. 
+
+Further, an economic downturn or recession could increase the risk of borrower default, reduce investor participation on our marketplace bank platform, cause us to change, postpone or cancel our strategic initiatives, or otherwise negatively affect our business, financial condition and results of operations.
+
+The current economic environment, and its impact, may also have the effect of heightening many of the other risks described in “Item 1A. Risk Factors” and elsewhere in our Annual Report, such as our exposure to the credit and default risk of borrowers, maintaining and increasing loan originations, maintaining our deposit base and retaining our platform investors. 
+
+Fluctuations in interest rates could negatively affect transaction volume and our net interest income.
+
+We offer loan products with both fixed and variable interest rates, depending on the type of loan. If interest rates rise, potential borrowers could seek to defer taking new loans as they wait for interest rates to decrease and/or settle, and borrowers of variable rate loans may be subject to increased interest rates, which could increase default risk. If interest rates decrease after a loan is made, existing borrowers may prepay their loans to take advantage of the lower rates. Furthermore, investors would lose the opportunity to collect the higher interest rate payable on the corresponding loan and may delay or reduce future loan investments.
+
+Our net interest income is the interest we earn on loans and investments less the interest we pay on our deposits and borrowings. Our net interest margin is the difference between the yield we earn on our assets and the interest rate we pay for deposits and our other sources of funding. Changes in interest rates will cause our net interest income and margin to increase or decrease. To the extent that we hold loans for sale on our balance sheet, we will be at risk to rising interest rates between origination and sale. In order to sell such loans, we may need to reduce the sale price in order to satisfy the yield expectations of our platform investors. Further, we are exposed to interest rate risk because our interest-earning assets and interest-bearing sources of funding do not react uniformly or concurrently to changes in interest rates, as the two have different time periods for adjustment and can be tied to different measures of rates. Fluctuations in the interest rate environment may impact our net interest income, net interest margin and/or discourage investors and borrowers from participating on our marketplace bank platform and may reduce our loan originations, any of which may adversely affect our business.
+
+Notwithstanding the above, we monitor interest rates and have certain avenues to manage our interest rate risk exposure, including changing the interest rate offered on deposits and the interest rate on our loan products. If our interest rate risk management strategies are not appropriately monitored or executed, these activities may not effectively mitigate our interest rate sensitivity or have the desired impact on our results of operations or financial condition.
+
+A decline in social and economic conditions may adversely affect our customers, which may negatively impact our business and results of operations.
+
+As a marketplace bank, we believe our customers are highly susceptible to uncertainties and negative trends in the markets driven by, among other factors, general social and economic conditions in the United States, abroad and the regional areas where our customers reside. Economic factors include interest rates, unemployment levels, the impact of a federal government shutdown, natural disasters, public health emergencies, pandemics, gasoline prices, adjustments in monthly payments, adjustable-rate mortgages and other debt payments, the rate of inflation, relative returns available from competing investment products and consumer perceptions of economic conditions. Social factors include changes in consumer confidence levels and changes in attitudes with respect to incurring debt and the stigma of personal bankruptcy.
+
+33
+
+LENDINGCLUB CORPORATION
+
+These social and economic factors may affect the ability or willingness of borrowers to make payments on their loans. Because we pass through collected borrower payments to investors or we make payments to investors ratably only to the extent we receive the borrower’s payments on the corresponding loan, if we do not receive payment(s) on the corresponding loan, the investor will not be entitled to the corresponding amount(s) or payment(s) under the terms of the investment or whole loan purchase agreement. For example, increasing inflation and interest rates may cause borrowers to allocate more of their income to necessities, such as housing and food, thereby potentially increasing their risk of default by reducing their ability to make loan payments.
+
+In some circumstances, economic and/or social factors could lead a borrower to pre-pay their loan obligations. In the event of a prepayment, while the investor would receive the return of principal, interest would no longer accrue on the loan. Accordingly, the return for the investor would decline as compared to a loan that was timely paid in accordance with its amortization schedule. There is no penalty to borrowers if they choose to pay their loan early.
+
+Similarly, any adverse impact on the ability of borrowers to make loan payments and/or material increase in pre-payment rates, may also have a material impact on the net interest income we earn for loans held on our balance sheet.
+
+We strive to maintain a marketplace bank platform in which annual percentage rates are attractive to borrowers and returns, including the impact of credit losses and prepayments, are attractive to platform investors and the Company. These external economic and social conditions and resulting trends or uncertainties could adversely impact the ability or desire of our borrowers or platform investors to participate on our platform, which could negatively affect our business and results of operations. In addition to the discussion in this section, see “Part II – Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Overview.”
+
+Our business and operating results could be adversely affected by the political environment and governmental fiscal and monetary policies.
+
+An unpredictable or volatile political environment in the United States, including any related social unrest, could negatively impact business and market conditions, economic growth, financial stability, and business, consumer, investor, and regulatory sentiments, any one or more of which in turn could cause our business and financial results to suffer. 
+
+Our business and financial results are also significantly affected by the fiscal and monetary policies of the U.S. government and its agencies. We are particularly affected by the policies of the FRB, which regulates the supply of money and credit in the United States in pursuit of maximum employment, stable prices, and moderate long-term interest rates. The FRB and its policies influence the availability and demand for loans and deposits, the rates and other terms for loans and deposits, the conditions in equity, fixed-income, currency, and other markets, and the value of securities and other financial instruments. For example, in response to elevated inflation, the FRB increased interest rates eight times since early 2022, from a federal funds rate range of 0.00% to 0.25% in early 2022 to 4.50% to 4.75% as of February 2023, and has indicated that it may conduct additional rate increases to combat inflation.
+
+Additionally, tax and other fiscal policies impact not only general economic and market conditions but also give rise to incentives or disincentives that affect how we and our customers prioritize objectives, deploy resources, and run households or operate businesses. Both the timing and the nature of any changes in monetary or fiscal policies, as well as their consequences for the economy and the markets in which we operate, are beyond our control and difficult to predict but could adversely affect our business and operating results.
+
+Negative publicity and unfavorable media coverage could negatively affect our business.
+
+Negative publicity about our industry or our company, including with respect to the quality and reliability of our marketplace bank, effectiveness of the credit decisioning or scoring models used in our marketplace bank platform, the effectiveness of our collection efforts, statements regarding investment returns, changes to our marketplace 
+
+34
+
+LENDINGCLUB CORPORATION
+
+bank, our ability to grow our borrower and investor base at a rate expected by the market, our ability to effectively manage and resolve borrower and investor complaints, our ability to manage borrower and investor accounts in compliance with regulatory requirements which may not be clear, privacy and security practices, use of loan proceeds by certain borrowers of ours or other companies in our industry for illegal purposes, litigation, regulatory activity, and the experience of borrowers and investors with our marketplace bank, products or services, even if inaccurate, could adversely affect our reputation and the confidence in, and the use of, our bank, products and services, which could harm our business and operating results. Harm to our reputation can arise from many sources, including employee misconduct, misconduct by our partners or partners of partners, other online marketplace banks, outsourced service providers or other counterparties, failure by us or our partners to meet minimum standards of service and quality, inadequate protection of borrower and investor information and compliance failures and claims.
+
+Our business has been and may continue to be negatively impacted by the COVID-19 pandemic.
+
+The COVID-19 pandemic and the mitigation efforts by governments to control its spread resulted in an unprecedented disruption in economic activity. In particular, COVID-19 had a profound impact on the finances of our borrowers and we undertook a number of related initiatives to support our borrowers, protect investor returns, and preserve capital and liquidity. Although we have reverted many of these measures, we will continue to actively monitor the situation, assess possible implications to our business and take appropriate actions in an effort to mitigate the adverse consequences of COVID-19. However, there can be no assurances that any initiatives we take will be sufficient or successful.
+
+There are no comparable recent events to COVID-19, and, as a result, its ultimate impact is highly uncertain and subject to change. COVID-19 has had, and may again have, adverse effects on our business and results of operations, including materially decreased demand for our products and negative pressure on overall platform returns, including as a result of increased credit risk of borrowers (including elevated delinquencies and charge-off rates) and the implementation of forbearance plans.
+
+Further, our compliance with measures to contain the spread of, or otherwise related to, COVID-19 previously impacted our day-to-day operations and could disrupt our business and operations, as well as that of our key vendors and counterparties, which may result in inefficiencies and delays in product development, marketing, operations and customer service efforts that we cannot fully mitigate. 
+
+The extent to which COVID-19 will negatively impact our business and results of operations will depend on future developments which are uncertain, including future strains or mutations of COVID-19, any re-emergence of COVID-19 or related diseases, and the longer-term impact on consumers, businesses and the broader economy.
+
+Any one or a combination of the factors identified above could have a material adverse impact on our business, financial condition and results of operations.
+
+Our business operations may be adversely impacted by political events, terrorism, military conflict or acts of war, cyber-attacks, public health issues, natural disasters, severe weather, climate change, infrastructure failure or outages, labor disputes and other business interruptions.
+
+Our business operations are subject to interruption by, among other things, political events, terrorism, military conflict or acts of war (including the war in Ukraine), cyber-attacks, public health issues, natural disasters, severe weather, climate change (including longer-term shifts in climate patterns, such as extreme heat, sea level rise and more frequent and prolonged drought), infrastructure failure or outages, labor disputes and other events which could: (i) decrease demand for our products and services, (ii) adversely affect the macroeconomy and/or our customers, or (iii) make it difficult or impossible for us to deliver a satisfactory experience to our customers. Any such events could also affect the Company by impacting the stability of our deposit base, impairing the ability of our borrowers to repay their outstanding loans, causing significant property damage or otherwise impair the value of collateral securing our loans, and/or resulting in loss of revenue and/or cause us to incur additional expenses. Furthermore, in the event of any disruption to our operations or those of the companies with whom we do business 
+
+35
+
+LENDINGCLUB CORPORATION
+
+with, we could incur significant losses, require substantial recovery time and experience significant expenditures in order to resume or maintain operations, any of which could have a material adverse impact on our business, financial condition and results of operations.
+
+For example, the Ukrainian-Russian conflict, the responses thereto (such as sanctions imposed by the United States and other countries) and any expansion thereof is likely to have unpredictable and/or adverse effects on the domestic and global economy and financial markets. Although we have not yet experienced any material direct impact from the Ukrainian-Russian conflict, in part because our business is conducted exclusively in the United States, our business, financial condition or results of operations may be impacted if the conflict prolongs and/or its impact exacerbates. Further, the Ukrainian-Russian conflict and its impact may also have the effect of heightening many of the other risks described in “Item 1A. Risk Factors” and elsewhere in our Annual Report, such as escalating inflation, elevating the possibility of a decline in economic conditions and increasing cybersecurity risk.
+
+RISKS RELATED TO CREDIT AND COLLECTIONS
+
+If the credit decisioning, pricing, loss forecasting and scoring models we use contain errors, do not adequately assess risk, or are otherwise ineffective, our reputation and relationships with customers could be harmed, our market share could decline and the value of loans held on our balance sheet may be adversely affected.
+
+Our ability to attract customers to, and build trust in, our marketplace bank platform is significantly dependent on our ability to effectively evaluate a borrower’s credit profile and likelihood of default. To conduct this evaluation, we utilize credit decisioning, pricing, loss forecasting and scoring models that assign each loan offered through our marketplace bank platform a grade and a corresponding interest rate. Our models are based on algorithms that evaluate a number of factors, including behavioral data, transactional data, bank data and employment information, which may not effectively predict future loan losses. If we are unable to effectively segment borrowers into relative risk profiles, we may be unable to offer attractive interest rates for borrowers and risk-adjusted returns for platform investors. 
+
+Additionally, if these models fail to adequately assess the creditworthiness of our borrowers, we may experience higher than forecasted losses. Furthermore, as stated above, we hold loans on our balance sheet. We periodically assess the value of these loans and in doing so we review and incorporate a number of factors including forecasted losses. Accordingly, if we fail to adequately assess the creditworthiness of borrowers such that we experience higher than forecasted losses, the value of the loans held on our balance sheet may be adversely affected.
+
+We continually refine these algorithms based on new data and changing macroeconomic conditions. However, there is no guarantee that the credit decisioning, pricing, loss forecasting and scoring models that we use have accurately assessed the creditworthiness of our borrowers, or will be effective in assessing creditworthiness in the future. 
+
+Similarly, if any of these models contain programming or other errors, are ineffective or the data provided by borrowers or third parties is incorrect or stale, our loan pricing and approval process could be negatively affected, resulting in mispriced or misclassified loans or incorrect approvals or denials of loans. If these errors were to occur, we may be obligated to repurchase the affected loans, platform investors may try to rescind their affected purchases or investments or decide not to purchase or invest in loans in the future or borrowers may seek to revise the terms of their loans or reduce the use of our marketplace bank platform for loans.
+
+Further, the use of these models, algorithms and artificial intelligence for determining loan grades and corresponding interest rates may also heighten the risk of legal or regulatory scrutiny. We may be required to alter our models for compliance purposes, which could impact the interest rates offered to borrowers, the risk-adjusted returns offered to investors, result in higher losses or otherwise impact our results of operations.
+
+36
+
+LENDINGCLUB CORPORATION
+
+If collection efforts on loans are ineffective or unsuccessful, the return on investment for investors in those loans would be adversely affected and investors may not find investing through our marketplace bank platform desirable.
+
+Many of our loan products, including all of our personal loans, are unsecured obligations of borrowers, and they are not secured by any collateral. None of the loans facilitated on our platform are guaranteed or insured by any third party or backed by any governmental authority in any way. We are the loan servicer for all loans supporting notes, all certificates and certain secured borrowings, and we are the loan servicer for most, though not all, loans sold as whole loans. The ability to collect on the loans is dependent on the borrower’s continuing financial stability and willingness to make loan payments, and consequently, collections can be adversely affected by a number of factors, including job loss, divorce, death, illness, bankruptcy or the economic and/or social factors referenced above in the risk factor “A decline in social and economic conditions may adversely affect our customers, which may negatively impact our business and results of operations.” Furthermore, the application of various federal and state laws, including federal and state bankruptcy and insolvency laws, may limit the amount that can be recovered on these loans. Accordingly, we and our designated third-party servicers and collection agencies are limited in our ability to collect loans.
+
+In addition, most platform investors depend on us or our third-party servicers and collection agents to pursue collection on delinquent borrower loans. Collections are remitted to platform investors only to the extent we receive borrower payments on the corresponding loans. If we, or third parties on our behalf, cannot adequately perform collection services on the loans, the platform investor will not be entitled to any remittances under the terms of the investment. Further, if collection action must be taken in respect of a loan, we or the collection agency may charge a collection fee on any amounts that are obtained (excluding litigation). These fees will correspondingly reduce the amounts of any payments received by an investor. Similarly, the returns to investors may be impacted by declines in market rates for sales of charged-off loans to third-party purchasers. Ultimately, if delinquencies impair our ability to offer attractive risk-adjusted returns for platform investors, they may seek alternative investments and our business may suffer.
+
+In addition, if we experience a significant increase in the number of charged-off loans we will be unable to collect our servicing fee for such loans and our revenue could be adversely affected.
+
+Further, we use internet-based processes to obtain application information and distribute certain legally required notices to applicants and borrowers of our loans and to obtain electronically signed loan documents. These processes may result in greater risks than paper-based loan originations, including risks regarding the sufficiency of notice for consumer protection laws, risks that borrowers may challenge the authenticity of loan documents or the validity of the borrower’s electronic signature on loan documents and risks that unauthorized changes are made to electronic loan documents. Any of these factors could cause our loans or certain terms of our loans to be unenforceable against a borrower or impair our ability to service the loans, which could adversely affect the value of our loans and our business, financial condition and results of operations.
+
+Credit and other information that we receive from borrowers or third parties about a borrower may be inaccurate or may not accurately reflect the borrower’s creditworthiness, which may cause us to inaccurately price loans made through our marketplace bank platform.
+
+Our ability to review and select qualified borrowers depends on obtaining borrower credit information from consumer reporting agencies, such as TransUnion, Experian or Equifax, and other third parties. We assign loan grades to loan requests based on our credit decisioning and scoring models that take into account reported credit score, other information reported by the consumer reporting agencies and the requested loan amount, in addition to a variety of other factors. A credit score or loan grade assigned to a borrower may not reflect that borrower’s actual creditworthiness because the credit score or loan grade may be based on outdated, incomplete or inaccurate data, including consumer reporting data, and we do not verify the information obtained from a borrower’s credit report.
+
+37
+
+LENDINGCLUB CORPORATION
+
+Additionally, there is a risk that, following the date of the credit report or other third-party data that we obtain and review, a borrower may have:
+
+•become delinquent in the payment of an outstanding obligation;
+
+•defaulted on a pre-existing debt obligation;
+
+•taken on additional debt; or
+
+•sustained other adverse financial events.
+
+In addition, borrowers supply a variety of information, including information that is included in the loan listings on our marketplace bank platform, and this information may be inaccurate or incomplete. To verify a borrower’s identity, income or employment, our verification process and teams connect to various data sources, directly or through third-party service providers, contact the human resources department of the borrower’s stated employer, or request pay stubs. However, we often do not verify a borrower’s stated income, tenure, job title, home ownership status or intention for the use of loan proceeds.
+
+The factors above may result in loans being issued to otherwise non-qualified borrowers and/or impact our ability to effectively segment borrowers into relative risk profiles, each of which may impair our ability to offer attractive risk-adjusted returns for investors, which may cause investors to seek alternative investments from ours and our business may suffer. Additionally, if borrowers default on loans that are not priced correctly because the information provided by the borrowers or third parties is inaccurate, investors may try to rescind their affected investments in these loans or the loans may not perform as expected and our reputation may be harmed.
+
+RISKS RELATED TO OUR INDUSTRY
+
+Substantial and increasing competition in our industry may harm our business.
+
+The financial services and banking industry is increasingly competitive. We compete with financial products and companies that attract borrowers, investors or both, as described in “Item 1. Business – Competition.”
+
+Many of our competitors have significantly greater financial resources and may have access to less expensive capital than we do, and may offer a broader range of products, services or features, assume a greater level of risk, have lower operating or financing costs, or have different profitability expectations than us. Certain competitors may be able to offer lower rates to borrowers than we are able to offer and/or structure their products in a manner that is more attractive to potential customers. Additionally, some of our competitors may also be subject to less burdensome licensing and other regulatory requirements.
+
+If we do not offer, price and develop attractive products and services for our customers, we may not be able to compete effectively against our competitors and our business and results of operations may be materially harmed. Additionally, competition may drive us to take actions that we might otherwise avoid, such as lowering interest rates or fees on loans or raising interest rates on deposits, and that may adversely affect our business and results of operations.
+
+We could be adversely affected by the soundness of other financial institutions.
+
+Financial services institutions are interrelated as a result of trading, clearing, counterparty or other relationships. We have exposure to many different industries and counterparties, and routinely execute transactions with counterparties in the financial services industry, including commercial banks, brokers and dealers, investment banks and other institutional clients. Many of these transactions expose us to credit risk in the event of a default by a counterparty or client. In addition, our credit risk may be exacerbated when our collateral cannot be foreclosed upon or is liquidated at prices not sufficient to recover the full amount of the credit or derivative exposure due. Any such losses could adversely affect our business, financial condition and results of operations.
+
+38
+
+LENDINGCLUB CORPORATION
+
+RISKS RELATED TO PERSONNEL AND THIRD PARTIES
+
+If we fail to attract and retain our highly skilled employees needed to support our business, we may not be able to achieve our anticipated level of growth and our business could suffer.
+
+We believe our success depends on the efforts and talents of our employees, including software engineers, financial, banking, credit and risk personnel, and marketing professionals. Our future success depends on our continued ability to attract, develop, motivate and retain highly qualified and skilled employees. Competition for highly skilled technical and financial personnel, particularly in the San Francisco Bay Area, is extremely intense. Building and maintaining a positive culture and work environment that reinforces our values is also critical to attracting and retaining employees.
+
+We have previously experienced a high attrition rate from employees and while attrition rates have materially reduced recently, they may again become elevated. We periodically make adjustments to our compensation levels and structures as our business and the competitive market for talent evolves. Further, many of the companies with which we compete for experienced employees have greater resources than we have and may be able to offer more attractive terms of employment. While we strive to create a fulfilling workplace with competitive compensation, certain existing and prospective employees may find our workplace and/or compensation levels and structures to be unattractive, which may adversely impact our business by compromising our ability to retain and recruit an appropriately skilled workforce. Additionally, changes in U.S. immigration policy may make it difficult to renew or obtain visas for certain highly skilled employees that we have hired or are recruiting.
+
+In addition to attracting and retaining highly skilled employees in general, our future performance depends, in part, on our ability to attract and retain key personnel, including our executive officers, senior management team and other key personnel, all of whom would be difficult to replace. In January 2023, we streamlined our operations, which included a reduction in our workforce by 225 employees, to more closely align our expense structure to loan volume and revenue. This reduction in workforce resulted in the termination of a number of highly contributing employees as well as material reductions in the size and capabilities of a number of our functions, such as recruiting.
+
+The loss of the services of our executive officers, members of our senior management team or key employees and functions, and the process to replace and/or rebuild any of them, involve significant time and expense and distraction that may significantly delay or prevent the achievement of our business objectives or impair our operations or results.
+
+Misconduct and errors by our employees, contractors and third-party service providers could harm our business and reputation.
+
+We are exposed to many types of operational risk, including the risk of misconduct and errors by our employees and other third-party service providers. Our business depends on our employees, contractors and third-party service providers to facilitate the operation of our business and process a large number of increasingly complex transactions, and if any of our employees, contractors or third-party service providers provide unsatisfactory service or take, convert or misuse funds, documents or data (including customer and/or internal documents or data), make an error, or fail to follow protocol when interacting with customers, we could lose customers, harm our reputation, be liable for damages, be subject to repurchase obligations and be subject to complaints, regulatory actions and penalties.
+
+While we have internal procedures and oversight functions to protect us against these risks, we could also be perceived to have facilitated or participated in the illegal misappropriation of funds, documents or data, or the failure to follow protocol, and therefore be subject to civil or criminal liability.
+
+Additionally, our use of third-party vendors is subject to increasingly demanding regulatory requirements and attention by our regulators. Regulations require us to perform due diligence of, perform ongoing monitoring of and 
+
+39
+
+LENDINGCLUB CORPORATION
+
+exercise certain controls over our third-party vendors and other ongoing third-party business relationships. We expect that our regulators will hold us responsible for deficiencies in our oversight and control of our third-party relationships and in the performance of the parties with which we have these relationships. 
+
+Any of these occurrences could result in our diminished ability to operate our business, potential liability to customers, inability to attract future customers, reputational damage, regulatory intervention, enforcement action and financial harm, which could negatively impact our business, financial condition and results of operations.
+
+Our growth depends in part on the success of our strategic relationships with third parties.
+
+In order to grow our business and effectuate our business strategy, we anticipate that we will depend in part on our ability to develop and expand our strategic relationship with third parties to offer additional products and services on our platform. 
+
+Identifying suitable partners, and negotiating and documenting relationships with them, requires significant time and resources. In some cases, we also compete directly with our partners’ product offerings, and if these partners cease their strategic relationship with us it could result in fewer product and service offerings on our platform, which may impede our ability to execute on our business strategy. Further, if we are unsuccessful in establishing or maintaining our relationships with third parties, or realizing the anticipated benefits from such partnerships, our ability to compete and to grow our revenue could be impaired and our operating results may suffer.
+
+A disruption or failure in services provided by third parties could materially and adversely affect our business.
+
+We increasingly rely on third parties to provide and/or assist with certain critical aspects of our business, including: (i) customer support, (ii) collections, (iii) loan origination, (iv) data verification and (v) cloud computing. These third parties may be subject to cybersecurity incidents, privacy breaches, service disruptions and/or financial, legal, regulatory, labor or operational issues; any of which may result in the third party providing inadequate service levels to us or our customers. In addition, these third parties may breach their agreements with us and/or refuse to continue or renew these agreements on commercially reasonable terms. If any third party provides inadequate service levels or fails to provide services at all, we may face business disruptions, customer dissatisfaction, reputational damage and/or financial and legal exposure; any of which may harm our business.
+
+Our controls and procedures may be inadequate, fail or be circumvented and our business, operating results and
+
+financial condition may be adversely affected.
+
+We are required to maintain effective controls and procedures, including internal controls over our operations, financial reporting, disclosure controls and procedures, compliance monitoring and corporate governance policies and procedures. Designing and implementing effective controls and procedures is a continuous effort that requires us to anticipate and react to changes in our business, industry and the economic and regulatory environment and to expend significant resources to maintain a system of controls that is adequate to satisfy our public company and bank regulatory obligations.
+
+If we are unable to establish and maintain appropriate controls and procedures, or if our employees, contractors or third-party service providers fail to abide by or circumvent such controls and procedures, it could cause us to fail to meet our regulatory or financial reporting obligations, cause us to fail to timely detect errors, result in misstatements or omissions in our consolidated financial statements, harm our operating results and financial condition or otherwise adversely affect our business operations. We could also become subject to investigations by the NYSE, the SEC or our banking regulators, which could require additional financial and management resources.
+
+40
+
+LENDINGCLUB CORPORATION
+
+RISKS RELATED TO DATA, INTELLECTUAL PROPERTY AND PRIVACY
+
+Security incidents, system failures, bugs in our system, and similar disruptions could impair our operations, compromise the confidential information of our borrowers and our investors, damage our reputation, and harm our business and financial performance.
+
+We believe the technology platform that powers our marketplace bank enables us to deliver solutions to customers and provides a significant time and cost advantage over traditional banks. The satisfactory performance, reliability and availability of our technology and underlying network infrastructure are critical to our operations, customer service and reputation. Like all information systems and technology, our systems may contain or develop material errors, failures, vulnerabilities or bugs, particularly when new features or capabilities are released, and may be subject to computer viruses or other malicious code, break-ins, phishing impersonation attacks, attempts to overload our servers with denial-of-service or other attacks, ransomware and similar incidents or disruptions from unauthorized use of our computer systems, as well as unintentional incidents causing data leakage, any of which could lead to interruptions, delays or make it difficult or impossible for us to deliver a satisfactory experience to our customers. Our failure to maintain satisfactory performance, reliability and availability of our technology and underlying network infrastructure may impair our ability to attract new customers and retain existing customers, which could have a material adverse effect on our business.
+
+Our business involves the collection, storage, processing and transmission of customers’ personal information, including their financial information. The highly automated nature of our marketplace bank, our reliance on digital technologies and the types and amount of data collected, stored and processed on our systems make us an attractive target and subject to cyber-attacks, computer viruses, ransomware, physical or electronic break-ins and similar disruptions. While we have taken steps to protect confidential information that we collect, create, or have access to, our security measures or those of our third-party vendors and business partners are subject to breach. Unauthorized access to our proprietary business information or customer data may be obtained through, among other things, break-ins, sabotage, computer malware, viruses, social engineering, ransomware attacks, hacking into the systems or facilities of us or our partners, vendors, or customers, exposing and exploiting design flaws in our software, or other misconduct, including by state-sponsored and other sophisticated organizations. Such incidents have become more prevalent in recent years and may target our systems or facilities or those of our partners, vendors, or customers. For example, outside parties have attempted to fraudulently induce employees, vendors, customers, and others to disclose sensitive or confidential information in order to gain access to our systems. Our security measures could also be compromised by our personnel, theft or errors, or be insufficient to prevent exploitation of security vulnerabilities in software or systems on which we rely.
+
+Cyber-attacks have occurred on our systems in the past and may occur on our systems in the future. Although to date we have not suffered material costs or disruption to our business from any such incident, unauthorized access to our marketplace bank and servicing systems can result in confidential borrower and investor information being stolen and potentially used for criminal purposes. Breaches of our security measures could negatively impact our relationships with customers, lead to interruptions or delays or make it difficult or impossible for us to deliver a satisfactory experience to our customers, and expose us to liability related to the loss of the information, time-consuming expensive litigation and negative publicity. Moreover, any future security breach may also result in the theft of our intellectual property, proprietary data, or trade secrets, which could have a material adverse impact on our reputation, business operations and financial performance.
+
+We also may be required to notify regulators and affected individuals about any actual or perceived data breach involving personal information within strict time periods. This notice may be difficult to provide in a timely fashion for many reasons, including due to the complexity of gathering, verifying and analyzing relevant information. Furthermore, these mandatory disclosures regarding a security breach are costly to implement and often lead to widespread negative publicity, which may cause customers to lose confidence in the effectiveness of our data security measures. Any security breach, whether actual or perceived, would harm our reputation, we could lose borrowers, investors and ecosystem partners and our business and operations could be adversely affected. 
+
+41
+
+LENDINGCLUB CORPORATION
+
+Because there are many different cybercrime and hacking techniques and such techniques continue to evolve, we may be unable to anticipate attempted security breaches, react in a timely manner or implement adequate preventative measures. Cyber-attacks may take advantage of weaknesses in third-party technology or standards of which we are unaware or that we do not control and may not be recognized until long after they have been launched. Certain efforts may be state-sponsored or from other sophisticated organizations, and supported by significant financial and technological resources, making them even more difficult to detect. Efforts to prevent hackers from disrupting our services or otherwise accessing our systems are expensive to develop, implement, and maintain. Such efforts require ongoing monitoring and updating as technologies change and efforts to overcome security measures become more sophisticated and may limit the functionality of, or otherwise adversely impact, our service offerings and systems.
+
+The systems we rely upon also remain vulnerable to damage or interruption from a number of other factors, including the failure of our network or software systems, natural disasters, terrorism, telecommunication failures, human error, third-party error, other-man made problems, and similar events or disruptions. Any interruptions or delays in our technology systems or service, whether accidental or willful, could harm our relationships with our customers and our reputation. Additionally, in the event of damage or interruption, our insurance policies may not adequately compensate us for any losses that we may incur. Our disaster recovery plan has not been tested under actual disaster conditions, and we may not have sufficient capacity to recover all data and services in the event of an outage. These factors could prevent us from processing or posting payments on loans, impact our marketplace bank operations, damage our brand and reputation, divert our employees’ attention, reduce our revenue, subject us to liability and cause customers to abandon our marketplace bank platform, any of which could adversely affect our business, financial condition and results of operations.
+
+Cyber-attacks suffered by third parties upon which we rely could negatively affect our business.
+
+We rely on third-party service providers to provide critical services that help us deliver our solutions and operate our business. These providers may store or otherwise process the same sensitive, proprietary, and confidential information that we handle. For example, in certain circumstances we utilize third-party vendors, including cloud applications and services, to facilitate the servicing of customer accounts. Under these arrangements, third-party vendors require access to certain customer data for the purpose of servicing the accounts. These service providers may not have adequate security measures and could experience a security incident that compromises the confidentiality, integrity, or availability of the systems they operate for us or the information they process on our behalf. Such occurrences could adversely affect our business to the same degree as if we had experienced these occurrences directly, and we may not have recourse to the responsible third-party service providers for the resulting liability we incur.
+
+We also utilize certain information provided by third parties to facilitate the marketing, distribution, servicing and collection of loans. A cyber-attack suffered by a third party that provides data to us could impact our ability to market, distribute, service or collect for borrowers or investors. For example, Equifax announced a significant cyber breach that impacted millions of consumers. We utilize certain information from Equifax to allow us to market our products through pre-screened offers to qualified borrowers. If a consumer elects to “freeze” their credit data, we would not be able to access their information to make these pre-screened offers. Further, as a result of the release of personal information from a third-party platform, we could experience an increase in fraudulent loan applications or investor accounts. Under our policies, we reimburse investors for any loan obtained as a result of a verified identity fraud and any increase in identity theft could result in increased reimbursement costs.
+
+The collection, processing, storage, use, and disclosure of personal information could give rise to liabilities as a result of governmental regulation, conflicting legal requirements or differing views of personal privacy rights.
+
+We receive, transmit, store and process a large volume of personal information and other user data. There are federal, state and foreign laws regarding privacy and the storing, sharing, use, disclosure, protection and other processing of personal information and other user data. Specifically, personal information is increasingly subject to 
+
+42
+
+LENDINGCLUB CORPORATION
+
+legislation and regulations in numerous U.S. and international jurisdictions, the intent of which is to protect the privacy of personal information that is collected, processed and transmitted in or from the governing jurisdiction.
+
+Governments, regulators, the plaintiffs’ bar, privacy advocates and customers have increased their focus on how companies collect, process, use, store, share and transmit personal information. This regulatory framework for privacy issues worldwide is evolving and is likely to continue to evolve for the foreseeable future, which creates uncertainty. For example, in California, the California Consumer Privacy Act (CCPA) became effective on January 1, 2020 and was modified by the California Privacy Rights Act (CPRA) on January 1, 2023. The CCPA and CPRA, among other things, gives California residents expanded rights to access and delete their personal information, opt out of certain personal information sharing, and receive detailed information about how certain personal information is used and shared. The CCPA provides for civil penalties for violations, as well as a private right of action for certain data breaches, which is expected to increase the volume, cost and success of class action data breach litigation. The CPRA also established the California Privacy Protection Agency to implement and enforce the CCPA and CPRA, as well as to impose administrative fines. The full impact of this law and its corresponding regulations, future enforcement activity and potential liability is unknown. Some observers have noted that the CCPA could mark the beginning of a trend toward more stringent privacy legislation in the U.S., and multiple states have enacted or proposed similar laws. There is also discussion in Congress of new comprehensive federal data protection and privacy laws which we likely would be subject to if enacted.
+
+We cannot yet predict the full impact of the CCPA, CPRA or any other proposed or enacted state, U.S. or international data privacy legislation on our business or operations, but such laws may require us to modify our data processing practices and policies and to incur substantial costs and expenses in an effort to comply. We could also be adversely affected if other legislation or regulations are expanded to require changes in business practices or privacy policies, or if governing jurisdictions interpret or implement their legislation or regulations in ways that negatively affect our business, financial condition and results of operations. Any actual or perceived failure to comply with data privacy laws or regulations, or related contractual or other obligations, or any perceived privacy rights violation, could lead to investigations, claims, and proceedings by governmental entities and private parties, damages for contract breach, and other significant costs, penalties, and other liabilities, as well as harm to our reputation and market position.
+
+We post on our website our privacy policies and practices concerning the collection, use, disclosure and processing of personal information. We also obtain consent from our borrowers to share personal information under certain conditions. We are subject to the terms of our privacy policies, privacy-related disclosures, and contractual and other privacy-related obligations to our customers and other third parties. Our failure, real or perceived, to comply with applicable privacy policies or federal, state or foreign laws and regulations or any compromise of security that results in the unauthorized release of personal information or other user data could damage our reputation, discourage potential borrowers or investors from using our marketplace bank or result in fines or proceedings brought against us, our issuing banks or other third parties by governmental agencies, borrowers, investors or other third parties, one or all of which could materially adversely affect our business, financial condition and results of operations. In addition to laws, regulations and other applicable common law rules regarding privacy, privacy advocacy groups, industry groups or other private parties may propose new and different privacy standards. We could also be subject to liability for the inappropriate use of information made available by us. Because the interpretation and application of privacy and data protection laws and privacy standards are still uncertain, it is possible that these laws or privacy standards may be interpreted and applied in a manner that is inconsistent with our practices. Any inability to adequately address privacy concerns, even if unfounded, or to comply with applicable privacy or data protection laws, regulations and privacy standards, could result in additional cost and liability for us, damage our reputation, inhibit use of our marketplace bank and harm our business.
+
+Any failure to protect our own intellectual property rights could impair our brand, or subject us to claims for alleged infringement by third parties, which could harm our business.
+
+We rely on a combination of copyright, trade secret, trademark, patent and other rights, as well as confidentiality procedures and contractual provisions to protect our proprietary technology, underwriting and credit decisioning 
+
+43
+
+LENDINGCLUB CORPORATION
+
+data, processes and other intellectual property. However, the steps we take to protect our intellectual property rights may be inadequate. Third parties may seek to challenge, invalidate or circumvent our copyright, trade secret, trademark, patent and other rights or applications for any of the foregoing. Further, as our business continues to expand we may increase our dependence on third parties to provide additional products and services. Third parties who are contractually obligated to protect our intellectual property may be the target of data breaches or may breach their obligations and disseminate, misappropriate or otherwise misuse our proprietary technology, underwriting and data, processes and other intellectual property. Additionally, our competitors, as well as a number of other entities and individuals, may own or claim to own intellectual property relating to our industry. From time to time, third parties may claim that we are infringing on their intellectual property rights, and we may be found to be infringing on such rights. We may, however, be unaware of the intellectual property rights that others may claim cover some or all of our technology or services.
+
+In order to protect our intellectual property rights, we may be required to spend significant resources. Litigation brought to protect and enforce our intellectual property rights could be costly, time-consuming and distracting to management and could result in the impairment or loss of intellectual property. In addition, any claims or litigation could cause us to incur significant expenses and, if successfully asserted against us, could require that we pay substantial damages or ongoing royalty payments, prevent us from offering our products or operating our platform or require that we comply with other unfavorable terms. Our failure to secure, protect and enforce our intellectual property rights could seriously adversely affect our brand and adversely impact our business.
+
+Some aspects of our platform include open source software, and any failure to comply with the terms of one or more of these open source licenses could negatively affect our business.
+
+Aspects of our platform include software covered by open source licenses, which may include, by way of example, GNU General Public License and the Apache License. Open source license terms are often ambiguous, and there is little or no legal precedent governing the interpretation of many of the terms of certain of these licenses. Therefore, the potential impact of such terms on our business is somewhat unknown. If portions of our proprietary software are determined to be subject to an open source license, we could be required to publicly release and grant royalty-free licenses under the affected portions of our proprietary source code, re-engineer all or a portion of our technologies or otherwise be limited in the licensing of our technologies, each of which could reduce or eliminate the value of our technologies and products. There can be no assurance that efforts we take to monitor the use of open source software to avoid uses in a manner that would require us to disclose or grant licenses under our proprietary source code will be successful, and such use could inadvertently occur. This could harm our intellectual property position and have a material adverse effect on our business, results of operations, cash flow, and financial condition. In addition to risks related to license requirements, usage of open source software can lead to greater risks than use of third-party commercial software, as open source licensors generally do not provide warranties or controls on the origin of the software. Many of the risks associated with use of open source software cannot be eliminated, and could adversely affect our business.
+
+RISKS RELATED TO TAX AND ACCOUNTING
+
+Changes in tax laws and our ability to use our deferred tax assets to offset future taxable income could have a material adverse effect on our business, financial condition and results of operations.
+
+We are subject to taxes in the United States under federal, state and local jurisdictions in which we operate. The governing tax laws and applicable tax rates vary by jurisdiction and are subject to interpretation and changes. We may be subject to examination by the tax authorities and such authorities may disagree with our tax positions, which could adversely affect our financial condition. 
+
+Further, the amount of tax payable in a given financial statement period may be impacted by sudden or unforeseen changes in tax laws, changes in the mix and level of earnings by taxing jurisdictions, or changes to existing accounting rules or regulations. For example, the Tax Cuts and Jobs Act (the Tax Act) enacted on December 22, 2017, made broad and complex changes to the U.S. tax code and the Tax Act’s reduction of the federal corporate 
+
+44
+
+LENDINGCLUB CORPORATION
+
+income tax rate from 35% to 21%, effective January 1, 2018, has reduced our deferred tax asset associated with net operating loss carryforwards (NOLs). A lack of future taxable income would also adversely impact our ability to utilize our NOLs. 
+
+In addition, under Section 382 of the Internal Revenue Code of 1986, as amended, a corporation that undergoes an “ownership change” is subject to limitations on its ability to utilize its NOLs to offset future taxable income. Future changes in our stock ownership as well as other changes that may be outside of our control, could result in additional ownership changes under Section 382 of the Internal Revenue Code, as amended. Our NOLs may also be impaired under similar provisions of state law. Further, additional changes to federal or state tax laws or technical guidance relating to the Tax Act that would further reduce the corporate tax rate could operate to effectively reduce or eliminate the value of any deferred tax asset. Our tax attributes as of December 31, 2022 may expire unutilized or underutilized, which could prevent us from offsetting future taxable income.
+
+We assess the available positive and negative evidence to estimate if sufficient future taxable income will be generated to utilize certain deferred tax assets. On the basis of this evaluation, a valuation allowance has been recorded to recognize only deferred tax assets that are more likely than not to be realized.
+
+Our ability to accurately forecast net income (loss) is in part a function of our ability to use our NOLs and, more generally, forecast our tax liability. Fluctuations in our tax obligations may differ materially from amounts recorded in our financial statements and could adversely affect our business, financial condition and results of operations in the periods for which such determination is made.
+
+We have incurred net losses in the past and may incur net losses in the future.
+
+Although we were profitable for the years ended December 31, 2022 and December 31, 2021, and expect to remain profitable for the year ending December 31, 2023, we have incurred net losses in the past. Our operating expenses may continue to be elevated as we resolve regulatory investigations and examinations, enhance our compliance and technology systems, continue the growth of our business, attract customers and partners, and further enhance and develop our products and services. These efforts may prove more expensive than we currently anticipate, and we may not succeed in increasing our revenue sufficiently to offset these higher expenses. We may incur additional losses in the future and may not maintain profitability on a quarterly or annual basis.
+
+If accounting standards change or if our estimates or assumptions relating to our critical accounting policies prove to be incorrect, our results of operations and financial condition could be adversely affected.
+
+Our financial statements are subject to the application of accounting principles generally accepted in the United States of America (GAAP). The application of GAAP is also subject to varying interpretations over time. We are required to adopt new or revised accounting standards or comply with revised interpretations that are issued from time to time by various parties, including accounting standard setters and those who interpret the standards, such as the FASB, the SEC, and bank regulatory authorities. Those changes are beyond our control but could adversely affect our results of operations and financial condition. See “Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Note 1. Summary of Significant Accounting Policies – Adoption of New Accounting Standards” below for information on new financial accounting standards issued by the FASB. Additionally, the preparation of our financial statements in conformity with GAAP requires estimates and assumptions that affect the amounts reported and disclosed in our financial statements. While we base our estimates and assumptions on historical experience and other assumptions that we believe to be reasonable under the circumstances, our results of operations may be adversely affected if our assumptions change or if actual circumstances differ from those in our assumptions.
+
+45
+
+LENDINGCLUB CORPORATION
+
+RISKS RELATED TO OWNERSHIP OF OUR COMMON STOCK
+
+Our stock price has been and may continue to be volatile.
+
+Our stock price has exhibited substantial volatility. Our stock price may continue to fluctuate in response to a number of events and factors, such as quarterly operating results; changes in our financial projections provided to the public or our failure to meet those projections; changes in the credit performance on our platform; the public’s reaction to our press releases, other public announcements and filings with the SEC; progress and resolution with respect to existing litigation and regulatory inquiries; our operation of LC Bank; significant transactions or acquisitions; new features, products or services offered by us or our competitors; changes in financial estimates and recommendations by securities analysts; media coverage of our business and financial performance; the operating and stock price performance of, or other developments involving, other companies that stockholders may deem comparable to us; trends in our industry; any significant change in our management; and general economic conditions.
+
+In addition, the stock market in general, and the market prices for companies in our industry, have experienced volatility. These broad market and industry fluctuations may adversely affect the price of our stock, regardless of our operating performance. Price volatility over a given period may cause the price of any repurchase of our own stock to exceed the stock’s price at a given point in time. Volatility in our stock price also impacts the value of our equity compensation, which affects our ability to recruit and retain employees. In addition, some companies that have experienced volatility in the market price of their stock, including us, have been subject to securities class action litigation. We have been the target of this type of litigation and may continue to be a target in the future. Securities litigation against us could result in substantial costs and divert our management’s attention from other business concerns, which could harm our business.
+
+Further, our stock could be the target of short sellers who may seek to drive down the price of shares they have sold short by disseminating negative reports or information about the Company. Such negative publicity may lead to additional public scrutiny or may cause further volatility in our stock price, a decline in the value of a stockholder’s investment in us or reputational harm.
+
+Any stock price decline could have a material adverse impact on stockholder confidence and employee retention.
+
+If securities or industry analysts do not publish research or reports about our business, or publish inaccurate or unfavorable research reports about our business, our stock price and trading volume could decline.
+
+Research and reports that securities or industry analysts publish about the Company or our business may be consumed by equity investors and influence their opinion of our business and/or investment in our common stock. For example, if one or more of the analysts who cover us downgrades our stock, our stock price may decline. Additionally, if one or more of these analysts cease coverage of the Company or fail to regularly publish reports on us, we could lose visibility in the financial markets, which could cause our stock price or trading volume to decline.
+
+Future issuances and/or sales of common stock may result in significant dilution to our stockholders and may place downward pressure on our stock price.
+
+We may issue additional equity securities to raise capital, support acquisitions, or for a variety of other purposes. We also utilize equity-based compensation as an important tool in recruiting and retaining employees and other service providers. Additional issuances of our stock may be made pursuant to the exercise or vesting of stock options or restricted stock units, respectively. Dilution to existing holders of our common stock from equity-based compensation and other additional issuances could be substantial and may place downward pressure on our stock price.
+
+46
+
+LENDINGCLUB CORPORATION
+
+Our quarterly results may fluctuate significantly and may not fully reflect the longer term underlying performance of our business.
+
+Our operating and financial results have varied on a quarterly basis during our operating history and may continue to fluctuate significantly. These fluctuations may be due to a variety of factors, some of which are outside of our control and may not fully reflect the underlying performance of our business. Factors that may cause fluctuations in our quarterly financial results include our ability to attract and retain new customers, seasonality in our business, the costs associated with and outcomes of legal and regulatory matters, volatility related to fraud and credit performance, the timing of capital markets transactions, variability in the valuation of loans held on our balance sheet, changes in business or macroeconomic conditions and a variety of other factors, including as a result of the risks set forth in this “Risk Factors” section. Fluctuation in quarterly results and how we perform relative to guidance may adversely affect the price of our common stock.
+
+Anti-takeover provisions in our charter documents and Delaware law may delay or prevent an acquisition of our company.
+
+Our restated Certificate of Incorporation, as amended (Certificate of Incorporation), and our amended and restated Bylaws (Bylaws) contain provisions that can have the effect of delaying or preventing a change in control of us or changes in our management. The provisions, among other things:
+
+•establish a classified board of directors so that not all members of our board of directors are elected at one time;
+
+•permit only our board of directors to establish the number of directors and fill vacancies on the board;
+
+•provide that directors may only be removed “for cause” and only with the approval of two-thirds of our stockholders;
+
+•require two-thirds of all outstanding shares of our capital stock vote to amend some provisions in our Certificate of Incorporation and Bylaws;
+
+•authorize the issuance of “blank check” preferred stock that our board of directors could use to implement a stockholder rights plan (also known as a “poison pill”);
+
+•eliminate the ability of our stockholders to call special meetings of stockholders;
+
+•prohibit stockholder action by written consent, which requires that all stockholder actions must be taken at a stockholder meeting;
+
+•do not provide for cumulative voting; and
+
+•establish advance notice requirements for nominations for election to our board of directors or for proposing matters that can be acted upon by stockholders at annual stockholder meetings.
+
+These provisions, alone or together, could delay or prevent hostile takeovers and changes in control or changes in our management. In addition to these provisions, banking laws impose notice, approval, and ongoing regulatory requirements on any stockholder or other party that seeks to acquire direct or indirect “control” of an FDIC-insured depository institution. These laws include the BHCA and the Change in Bank Control Act. These laws could delay or prevent an acquisition. See “Item 1. Business – Regulation and Supervision – Acquisition of a Significant Interest in the Company” for additional information. 
+
+We do not intend to pay dividends for the foreseeable future.
+
+We currently intend to retain any future earnings to finance the operation and expansion of our business, and we do not expect to declare or pay any dividends in the foreseeable future. As a result, a stockholder may only receive a return on their investment in our common stock if the trading price of our common stock increases.
+
+Also, as a bank holding company, our ability to pay dividends is affected by the policies and enforcement powers of the FRB and any future payment of dividends will depend on LC Bank’s ability to make distributions and payments to the Company as our principal source of funds to pay such dividends. LC Bank is also subject to various legal, regulatory and other restrictions on its ability to make distributions and payments to the Company. In addition, in 
+
+47
+
+LENDINGCLUB CORPORATION
+
+the future, we may enter into borrowing or other contractual arrangements that restrict our ability to pay dividends. As a consequence of these various limitations and restrictions, we may not be able to pay dividends on our common stock. See “Item 1. Business – Regulation and Supervision – Regulatory Limits on Dividends and Distributions” for additional information.

@@ -1,0 +1,42 @@
+Item 1C. CYBERSECURITY
+
+We believe a robust and proactive approach
+to cybersecurity risks and threats is essential to achieving our strategic business objectives and protecting our business. We may face
+a wide range of cybersecurity threats, such as ransomware and denial-of- service attacks. Our customers, suppliers and other business
+partners may also face similar cybersecurity threats, and a cybersecurity incident impacting us or any of these third parties could have
+a material adverse effect on our business and results of operations. Due to the risks that cybersecurity threats can pose to our business,
+we intend to continually evaluate best practices and methods, including cyber defense systems and training programs, to protect our business
+from a wide range of potential threats.
+
+We continue to evaluate our cybersecurity control processes and procedures
+to address the evolving cybersecurity risks that we may face in an increasingly technically capable environment. We have implemented practices
+and intend to implement policies to educate and provide guidance to our personnel, including awareness programs and other related cybersecurity
+best practices. We plan to conduct technical risk assessments to identify cybersecurity threats, as well as assessments in the event of
+a material change in our business practices that may affect information systems that are vulnerable to such cybersecurity threats. We
+also plan to conduct programmatic risk assessments, including identification of reasonably foreseeable internal and external risks, the
+likelihood and potential damage that could result from such risks, and the sufficiency of existing policies, procedures, systems, and
+safeguards in place to manage such risks. Following these risk assessments, we will evaluate: i) whether and how to implement, and maintain
+reasonable safeguards to minimize identified risks, ii) how to reasonably address any identified gaps in existing safeguards; and how
+to regularly monitor the effectiveness of our safeguards. As we are a small pre-revenue company, we currently outsource our information
+technology (IT) functions to a third party. Working with the outsourced IT firm, our president will manage the risk assessment and mitigation
+process. Third parties will play an important role in our cybersecurity program. We intend to engage third-party service providers to
+conduct evaluations of our security controls, including penetration testing and consulting on best practices. The third-party services
+include testing both the design and operational effectiveness of security controls. This dependence exposes us, along with others who
+use such service providers, to the impact of a cyber-attack on their service providers. It is possible for a cyber-attack at a third-
+party service provider to have a significant financial, operational, or reputational impact to us. To reduce the effective impact to us
+of a cyber-attack on a third-party service provider, we intend to monitor the risks associated with our service providers through periodic
+review of these providers’ cybersecurity programs.
+
+Our board of directors, through its audit
+committee, oversees our processes for identifying and mitigating risks, including cybersecurity risks. Management will periodically brief
+the audit committee and/or the board of directors on our cybersecurity and information security policies and plans. Our board of directors
+will be apprised of cybersecurity incidents deemed to have a moderate or higher business impact, and we will provide updates on management’s
+incident response plan for addressing and mitigating any impacts and risks associated with such an incident. We intend to develop a formal
+incident response plan, which sets forth the steps to be followed from incident detection and assessment to mitigation, recovery and notification
+and reporting within our organization and to our board of directors.
+
+For additional information regarding whether
+any risks from cybersecurity threats have materially affected or are reasonably likely to materially affect us, including our business
+strategy, results of operations, or financial condition, please refer to Item 1A, “Risk Factors,” in this Report, including
+the risk factor entitled “Third parties might attempt to gain unauthorized access to our network or seek to compromise our insulin
+pump product.”
