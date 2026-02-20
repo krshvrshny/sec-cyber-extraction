@@ -1,0 +1,118 @@
+ITEM 1A. RISK FACTORS.
+
+We caution readers that the following important factors, among others, could affect our financial condition, operating results, business prospects, or any other aspect of NVE, and could cause our actual results to differ materially from that projected or estimated by us in the forward-looking statements made by us or on our behalf. Although we have attempted to list below the important factors that do or may affect our financial condition, operating results, business prospects, or any other aspect of NVE, other factors may in the future prove to be more important. New factors emerge from time to time and it is not possible for us to predict all of such factors. Similarly, we cannot necessarily assess or quantify the impact of each such factor on the business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in forward-looking statements. Risks Related to Our Business
+
+We face a tight labor market, competition for employees, and wage inflation.
+
+In the past two fiscal years, we have experienced increased competition for employees, increased employee turnover, and increased wage inflation. The labor market has been especially tight in Minnesota. We have significantly increased the wages we pay to remain competitive and attract new workers, especially production workers. Labor shortages could impact our revenue and profitability, and increases in labor cost could adversely affect our profit margins and results of operations. The loss of supply from any of our key single-source wafer suppliers could substantially impact our ability to produce and deliver products and seriously harm our business and financial condition.
+
+Our critical suppliers include suppliers of certain raw silicon and semiconductor foundry wafers that are incorporated in our products. We maintain inventory of some critical wafers, but we have not identified or qualified alternate suppliers for many of the wafers now being obtained from single sources. In the past fiscal year, there were industry-wide semiconductor wafer shortages. We purchase some wafers from manufacturers in China, which have been subject to tariffs and could be subject to further tariffs or restrictions in the future. Wafer supply could be affected by acts of God such as floods, typhoons, cyclones, earthquakes, or pandemics, and risks related to extreme weather may be exacerbated by the effects of climate change. Wafer supply interruptions for any reason could seriously jeopardize our ability to provide products that are critical to our business and operations, and may cause us to lose revenue.  The loss of supply of any critical chemicals or supplies could impact our ability to produce and deliver products and cause loss of revenue.
+
+There are a number of critical chemicals and supplies that we require to make products. These include certain gases, photoresists, polymers, metals, and specialized alloys. We maintain inventory of critical chemicals and materials, but in many cases, we are dependent on single sources, and some of the materials could be subject to shortages or be discontinued by their suppliers at any time. The Russia-Ukraine crisis could cause or exacerbate shortages. Sanctions against Russia could affect supplies or prices of materials supplied by Russia, including materials we use such as aluminum, copper, helium, magnesium, manganese, nickel, palladium, platinum, and titanium. Materials supplied by Ukraine include neon, which may be used to produce some of our foundry wafers. Supply interruptions or shortages for any reason could seriously jeopardize our ability to provide products that are critical to our business and operations and may cause us to lose revenue.The loss of supply from any of our packaging vendors could impact our ability to produce and deliver products and cause loss of revenue.
+
+We are dependent on our packaging vendors. Because of the unique materials our products use, the complexity of some of our products, unique magnetic requirements, and high isolation voltage specifications, many of our products are more challenging to package than conventional integrated circuits. Some of our products use processes or tooling unique to a particular packaging vendor, and it might be expensive, time-consuming, or impractical to convert to another vendor in the event of a supply interruption due to vendors’ business decisions, business condition, or acts of God, including floods, typhoons, earthquakes, or pandemics. Lead times for packaging services increased during the COVID-19 pandemic and there have been shortages of raw materials our packaging vendors need for their processes. Government lockdown restrictions, labor shortages, raw-material shortages, and supply-chain disruptions have reduced our vendors’ capacity and increased their lead times. These conditions could continue, worsen, or recur. Additionally, certain of our packaging vendors are in flood-susceptible areas. Flooding risks to such vendors may increase in the future due to possible higher ocean levels, extreme weather, and other potential effects of climate change. We have alternate vendors or potential alternate vendors for the majority of our products, but it can be expensive, time-consuming, and technically challenging to convert to alternate vendors. Furthermore, we may not be able to recover work in process or finished goods at a packaging vendor in the event of a disruption. Supply delays, interruptions, or loss of inventory could seriously jeopardize our ability to provide products that are critical to our business and operations and may cause us to lose revenue.
+
+  We risk losing business to our competitors.
+
+We have a number of competitors and potential competitors, many of whom have significantly greater financial, technical, and marketing resources than us. We believe that our competition is increasing as technology and markets mature. This has meant more competitors and more severe pricing pressure. In addition, our competitors may be narrowing or eliminating our performance advantages. We expect these trends to continue, and we may lose business to competitors or it may be necessary to significantly reduce our prices to acquire or retain business. These factors could cause a material adverse impact on our financial condition, revenue, gross profit margins, or income.Failure to meet stringent customer requirements could result in the loss of key customers and reduce our sales.
+
+Some of our customers, including certain medical device manufacturers, have stringent technical and quality requirements that require our products to meet certain test and qualification criteria or to adopt and comply with specific quality standards. Certain customers also periodically audit our performance. Failure to meet technical or quality requirements or a negative customer audit could result in the loss of current sales revenue, customers, and future sales.We may lose revenue if we are unable to renew customer agreements.
+
+We have agreements with certain customers, including a Supplier Partnering Agreement, as amended, with Abbott Laboratories, which expires December 31, 2023. We cannot predict if these agreements will be renewed, or if renewed, under what terms. Although it is possible we could continue to sell products to these customers without formal agreements, an inability to agree on mutually acceptable terms could have a significant adverse impact on our revenue or profitability.Changes in tax law, in our tax rates or in exposure to additional income tax liabilities may materially and adversely affect our financial condition, results of operations, and cash flows.
+
+Changes in law and policy relating to Federal or state corporate taxes, changes in tax rates, or changes in our eligibility for tax credits could materially and adversely affect our financial condition, results of operations, and cash flows.Some of our products are incorporated into medical devices, which could expose us to a risk of product liability claims and such claims could seriously harm our business and financial condition.
+
+Certain of our products are used in medical devices, including devices that help sustain human life. We are also marketing our technology to other manufacturers of cardiac pacemakers and ICDs. Although we have indemnification agreements with certain customers including provisions designed to limit our exposure to product liability claims, there can be no assurance that we will not be subject to losses, claims, damages, liabilities, or expenses resulting from bodily injury or property damage arising from the incorporation of our products in devices sold by our customers. Our indemnifying customers may not have the financial resources to cover all liability. Existing or future laws or unfavorable judicial decisions could limit or invalidate the provisions of our indemnification agreements, or the agreements may not be enforceable in all instances. A successful product liability claim could require us to pay, or contribute to payment of, substantial damage awards, which would have a significant negative effect on our business and financial condition. We may lose revenue if we are unable to maintain important certifications.
+
+Our quality management system is certified to the ISO 9001 standard, and some of our products are also subject to independent certification and listings including by the VDE Institute and UL LLC. These certifications are subject to a number of rigorous conditions. Failure to achieve or maintain any of our certifications or listings could cause us to be disqualified by one or more of our customers and could have a material adverse impact on our business and revenue.
+
+Federal legislation may not protect us against liability for the use of our products in medical devices and a successful liability claim could seriously harm our business and financial condition.
+
+Although the Biomaterials Access Assurance Act of 1998 may provide us some protection against potential liability claims, that Act includes significant exceptions to supplier immunity provisions, including limitations relating to negligence or willful misconduct. A successful product liability claim could require us to pay, or contribute to payment of, substantial damage awards, which would have a significant negative effect on our business and financial condition. Any product liability claim against us, with or without merit, could result in costly litigation, divert the time, attention, and resources of our management and have a material adverse impact on our business.The malfunction of our products in medical devices could lead to the need to recall devices incorporating our products from the market, which may be harmful to our reputation and cause a significant loss of revenue.
+
+The malfunction of our products that are incorporated in medical devices could lead to the recall of existing medical devices incorporating our products. Even if assertions that our products caused or contributed to device failure do not lead to product liability or contract claims, such assertions could harm our reputation and customer relationships. Any damage to our reputation and/or the reputation of our products, or the reputation of our customers or their products could limit the market for our and our customers’ products and harm our results of operations.
+
+We may lose business and revenue if our critical production equipment fails.
+
+Our production process relies on certain critical pieces of equipment for defining, depositing, and modifying the magnetic properties of thin films. Some of this equipment was designed or customized by us, and some may no longer be in production. While we have an in-house maintenance staff, maintenance agreements for certain equipment, some critical spare parts, and back-ups for some of the equipment, we cannot be sure we could repair or replace critical manufacturing equipment were it to fail.
+
+We are subject to risks inherent in doing business in foreign countries that could impair our results of operations.
+
+Foreign sales are a significant portion of our revenue and we rely on suppliers in China, India, Taiwan, Thailand, and other foreign countries. Risks relating to operating in foreign markets that could impair our results of operations include economic and political instability; acts of God, including floods, typhoons, cyclones, and earthquakes; public health crises including, but not limited to, difficulties in enforcement of contractual obligations and intellectual property rights; changes in regulatory requirements; changes in import/export regulations and tariffs; transportation delays; and other uncertainties relating to the administration of, or changes in, or new interpretation of, the laws, regulations, and policies of jurisdictions where we do business.Public health crises could have an adverse effect on our operations and financial results.
+
+The COVID-19 pandemic disrupted our supply chains and caused employee absences. Impacts of the COVID-19 pandemic or other public health crises could have a material adverse effect on our results of operations or our financial condition.
+
+We are subject to risks associated with the availability of natural resources and energy.
+
+We use significant resources such as electricity, natural gas, and water in our production processes. New or increased climate change regulation could increase our energy costs, for example as a result of carbon pricing impacts on natural gas or electrical utilities. Furthermore, environmental regulations or the impacts of climate change could curtail the availability of electricity we need for production or increase the number of incidents of power outages. Increased natural resource or energy costs, or decreased availability, could have adverse effects on our results of operations by increasing our costs and expenses or requiring us to change our production processes.Our business could be negatively impacted by cybersecurity events or information technology disruptions.
+
+We face various cyber security threats, including threats to our information technology infrastructure and attempts to gain access to our proprietary or classified information, and denial-of-service attacks. Additionally, there is a risk of disruptions due to failures of our information technology infrastructure or service provider outages. We maintain policies and procedures for the mitigation of information technology risks, and we maintain data backups, backup hardware, and some redundant systems. We have experienced cyber security events and disruptions such as viruses, ransomware, hacker attacks, and limited server, Website, and e-mail outages. Although these events did not materially impact our business, future events could disrupt our operations, harm our reputation, expose us to liability, compromise our eligibility for research and development contracts involving sensitive or classified information, or have other effects including unpredictable effects.We could incur losses on our marketable securities.
+
+As of March 31, 2023, we held $52,544,283 in short-term and long-term marketable securities, representing approximately 76% of our total assets. Business conditions, bond-market conditions, and interest rates increases beyond our control or ability to anticipate can cause credit-rating downgrades, increased default risk, or unrealized losses. Additionally, the assignment of a high credit rating does not preclude the risk of default on any marketable security. Any losses on our marketable securities could impact our financial condition, income, or cash flows, or our ability to pay dividends. We may not be able to enforce our intellectual property rights.
+
+We protect our proprietary technology and intellectual property by seeking patents, trademarks, and copyrights, and by maintaining trade secrets by entering into confidentiality agreements with employees, suppliers, customers, and prospective customers depending on the circumstances. We hold patents or are the licensee of others owning patented technology covering certain aspects of our products and technology. These patent rights may be challenged, rendered unenforceable, invalidated, or circumvented. Additionally, rights granted under the patents or under licensing agreements may not provide a competitive advantage to us. Efforts to enforce patent rights can involve substantial expense and may not be successful. Furthermore, others may independently develop similar, superior, or parallel technologies to any technology developed by us, or our technology may prove to infringe on patents or rights owned by others. Thus the patents held by or licensed to us may not afford us any meaningful competitive advantage. Also, our confidentiality agreements may not provide meaningful protection of our proprietary information. Our inability to maintain our proprietary rights could have a material adverse effect on our business, financial condition, and results of operations.
+
+9
+
+
+Risks Related to Our Industry
+
+We face an uncertain economic environment in the industries we serve, which could adversely affect our business.
+
+We sell our products into the semiconductor market, which has been highly cyclical. We cannot predict the timing, strength, or duration of any economic slowdown, recession, semiconductor-industry slowdown or subsequent recovery. The economic environment could have a material adverse impact on our business and revenue.
+
+Our business and our reliance on intellectual property exposes us to litigation risks.
+
+If patent infringement claims or actions are asserted against us, we may be required to obtain a license or cross-license, modify our existing technology or design a new noninfringing technology. Such licenses or design modifications can be costly or could increase the cost of our products. In addition, we may decide to settle a claim or action against us, which settlement could be costly. We may also be liable for any past infringement, and we may be required to indemnify our customers against expenses relating to possible infringement. If there is an adverse ruling against us in an infringement lawsuit, an injunction could be issued barring production or sale of any infringing product. It could also result in a damage award equal to a reasonable royalty or lost profits or, if there is a finding of willful infringement, treble damages. Any of these results would increase our costs or harm our operating results.
+
+Risks Related to Our Stock
+
+Any decisions to reduce or discontinue paying cash dividends to our shareholders could cause the market price of our common stock to decline.
+
+Future dividends will be subject to Board approval and will take into account factors including our results of operations, cash and marketable security balances, the timing of securities maturations, estimates of future cash requirements, fixed asset requirements, and other factors our Board may deem relevant. Because they are generally more than our current cash flow from operations, recent and declared dividend amounts may be unsustainable. Any reduction or discontinuance by us of cash dividends could cause the market price of our common stock to decline.The price of our common stock may be adversely affected by significant price fluctuations due to a number of factors, many of which are beyond our control.
+
+From time to time our stock price has decreased sharply and could decline in the future. The market price of our common stock may be significantly affected by many factors, some of which are beyond our control, including:
+
+•
+
+the announcement of new products or product enhancements by us or our competitors;
+
+•
+
+delays in our introduction of new products or technologies or market acceptance of these products or technologies;
+
+•
+
+loss of customers, decreases in customers’ purchases, or decreases in customers’ purchase prices;
+
+•
+
+changes in demand for our customers’ products;
+
+•
+
+quarterly variations in our financial results, revenue, or revenue growth rates;
+
+•
+
+speculation in the press or elsewhere about our business, potential revenue, or potential earnings;
+
+•
+
+general economic conditions or market conditions specific to industries we or our customers serve or may serve;
+
+•
+
+legal proceedings involving us, including intellectual property litigation or class action litigation;
+
+•
+
+changes in Federal or state corporate income tax rates, tax credits, or other changes in tax policies;
+
+•
+
+changes in tariffs, customs, duties, or other trade barriers in foreign jurisdictions where we purchase raw materials or sell our products; and
+
+•
+
+our stock repurchase and dividend policies and decisions.

@@ -1,0 +1,35 @@
+Item 1C. Cybersecurity. 
+
+  Cybersecurity Risk Management and Strategy 
+
+  We have developed and implemented a cybersecurity risk management program intended to protect the confidentiality, integrity, and availability of our critical systems and information. Our cybersecurity risk management program includes a cybersecurity incident response plan.
+
+  We design and assess our program based on industry-standard frameworks, such as the National Institute of Standards and Technology Cybersecurity Framework (“NIST CSF”), SOC2, ISO 27000, and ISO 27018. This does not imply that we meet any particular technical standards, specifications, or requirements, only that we use these frameworks as a guide to help us identify, assess, and manage cybersecurity risks relevant to our business. 
+
+  Our cybersecurity risk management program includes:
+
+  •risk assessments designed to help identify material cybersecurity risks to our critical systems, information, products, services, and our broader enterprise information technology environment; 
+
+  •a security team principally responsible for managing (i) our cybersecurity risk assessment processes, (ii) our security controls, and (iii) our response to cybersecurity incidents; 
+
+  •the use of external service providers, where appropriate, to assess, test or otherwise assist with aspects of our security controls; 
+
+  •cybersecurity awareness training of our employees, incident response personnel, and senior management;
+
+  •a cybersecurity incident response plan that includes procedures for responding to cybersecurity incidents; and 
+
+  •a third-party risk management process for service providers, suppliers, and vendors who have access to our critical systems and information.
+
+  We have not identified risks from known cybersecurity threats, including as a result of any prior cybersecurity incidents, that have materially affected or are reasonably likely to materially affect us, including our operations, business strategy, results of operations, or financial condition. For more information, see the section titled “Risk Factor—Risks Related to Our Business Operations and Industry—If our information technology systems are breached or there is otherwise unauthorized disclosure of or access to customer data, our data, or our platform, our platform may be perceived as insecure, we may lose customers or fail to attract new customers, our reputation and brand may be harmed, and we may incur significant liabilities.”
+
+  Cybersecurity Governance 
+
+  Our Board considers cybersecurity risk as part of its risk oversight function and oversees management’s implementation of our cybersecurity risk management program.
+
+  The Board receives periodic reports and presentations from management on our cybersecurity risks and cyber risk management program. In addition, management updates the Board, as necessary, regarding any material cybersecurity incidents, as well as any incidents with lesser impact potential. 
+
+  Our management team is responsible for assessing and managing our material risks from cybersecurity threats. The team has primary responsibility for our overall cybersecurity risk management program and supervises both our internal cybersecurity personnel and our retained external cybersecurity consultants. Our management team’s experience includes more than 30 years in professional roles supporting and leading cybersecurity and cloud security programs for technology companies, including, (i) our Chief Information Security Officer (CISO), Dustin Pearce, who has previously led the Security and Governance, Risk, and Compliance (GRC) and Infrastructure functions, at Instacart and Slack, respectively, which included responsibility for assessing and managing various aspects of platform security for users, and (ii) our Executive Vice President of Engineering, Shadi Rostami, who has extensive experience in overseeing security for cloud services from an engineering perspective, including at Palo Alto Networks, while serving as Vice President of Engineering with responsibility for overseeing key cloud services, ensuring the security of cloud offerings and developing several cybersecurity solutions. Our management team supervises efforts to prevent, detect, mitigate, and 
+
+  46
+
+  remediate cybersecurity risks and incidents through various means, which may include briefings from internal security personnel; threat intelligence and other information obtained from governmental, public or private sources, including external consultants engaged by us; and alerts and reports produced by security tools deployed in the information technology environment.

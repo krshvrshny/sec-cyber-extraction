@@ -1,0 +1,25 @@
+Item 1C. Cybersecurity 
+
+Cybersecurity Risk Management and Strategy
+
+As an externally managed closed-end management investment company that has elected to be regulated as a BDC under the 1940 Act, our day-to-day operations are managed by the Investment  Adviser, Administrator and our executive officers under the oversight of our Board of Directors. As such, we rely on the cybersecurity policies and procedures implemented by Prospect Capital Management, for assessing, identifying and managing material risks to our business from cybersecurity threats. Below are details that Prospect Capital Management has provided to us regarding its cybersecurity program that are relevant to us. 
+
+Prospect Capital Management has processes in place for assessing, identifying, and managing material risks from potential unauthorized occurrences on, or through, our electronic information systems that could adversely affect the confidentiality, integrity, or availability of our information systems or the information residing on those systems. 
+
+In accordance with the Prospect Capital Management Information Technology Operations and Procedures, the cross-functional Change Advisory Board (“CAB”) governs and oversees the advancement and implementation of policies and procedures to reasonably prevent security incidents. Prospect Capital Management’s cybersecurity program also includes review and assessment by third parties of the cybersecurity processes and systems. These third parties assess and report on Prospect Capital Management’s compliance with applicable laws and regulations and its internal incident response preparedness, including benchmarking to best practices and industry frameworks and help identify areas for continued focus and improvement.
+
+Prospect Capital Management uses processes to oversee and identify material risks from cybersecurity threats, including those associated with the use of third-party service providers. Additionally, Prospect Capital Management uses systems and processes designed to reduce the impact of a security incident at a third-party service provider. As part of its risk management process, Prospect Capital Management also maintains an incident response plan that is utilized when cybersecurity incidents impacting us, our Investment Adviser, or our Administrator are detected.
+
+Prospect Capital Management conducts regular phishing tests where educational materials are provided in each test for those who fail. Prospect Capital Management also utilizes a security awareness training platform as supplementary cybersecurity training for staff with a high failure rate on the phishing tests. 
+
+In the last three fiscal years, we are not aware of any material risks from cybersecurity threats that have materially affected or are reasonably likely to materially affect the Company, including our business strategy, results of operations, or financial condition. However, future incidents could have a material impact on our business strategy, results of operations or financial condition. For additional discussion on risks posed by cybersecurity threats, see “Item 1A. Risk Factors - Risks Relating to Our Business-  We may experience cybersecurity incidents and are subject to cybersecurity risks. The failure in cybersecurity systems, as well as the occurrence of events unanticipated in our disaster recovery systems and management continuity planning, could impair our ability to conduct business effectively.
+
+Board of Director Oversight of Cybersecurity Risks
+
+Our Board of Directors provides strategic oversight on cybersecurity matters, including risks associated with cybersecurity threats. Our Board of Directors receives periodic updates from the Company’s Chief Compliance Officer (“CCO”), which incorporates updates provided by the Adviser regarding the overall state of the Adviser’s cybersecurity program, information on the current threat landscape, and risks from cybersecurity threats and cybersecurity incidents impacting the Company.
+
+Management's Role in Cybersecurity Risk Management
+
+The Company’s management, including the Company’s CCO, manage the Company’s cybersecurity program. The CCO supervises the Company’s oversight function generally and relies on the Adviser’s technology team to assist with assessing and managing material risks from cybersecurity threats. The CCO has been responsible for this oversight function as CCO of the Company for more than five years and has worked in the financial services industry for more than 20 years, during which time the CCO has gained expertise in assessing and managing risk applicable to the Company.
+
+Management of the Company is informed about and monitors the prevention, detection, mitigation, and remediation of cybersecurity incidents impacting the Company, including through the receipt of notifications from service providers and reliance on communications with risk management, legal, information technology, and/or compliance personnel of the Adviser.

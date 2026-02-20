@@ -1,0 +1,31 @@
+ITEM 1C.  Cybersecurity
+
+Cybersecurity risk management and strategy
+
+We have policies and processes in place that are designed to assess, identify and manage material risks from cybersecurity threats.  We regularly assess risks from cybersecurity threats, including any potential unauthorized occurrence on or conducted through our information systems that may result in adverse effects on the confidentiality, integrity or availability of our information systems or any information residing therein.  We use recognized industry frameworks and standards as guides in identifying, assessing and managing cybersecurity risks relevant to our operations.  For example, we primarily use NIST CSF (National Institute of Standards and Technology Cybersecurity Framework) for this purpose.
+
+Key components of our cybersecurity risk management strategy include:
+
+•We have a dedicated Information Security team principally responsible for implementing and managing our cybersecurity strategy and controls.
+
+•We use industry standard technologies and tools appropriate to our operations which are designed to prevent and detect unauthorized access to, or compromise of, our network, servers, endpoints and external applications, such as multi-factor authentication, malware protection, firewalls and monitoring controls.
+
+•We regularly train our personnel on cybersecurity awareness and conduct periodic additional awareness and training activities such as simulated phishing campaigns.
+
+•We have in place an Incident Response Plan that governs how we respond to and manage cybersecurity incidents. We conduct regular tabletop exercises to test our response to potential incidents.
+
+•We use third-party service providers where appropriate to design, implement and support aspects of our security processes as well as to monitor and test our safeguards.
+
+Our cybersecurity risk management strategy forms part of our overall enterprise risk management program. We conduct regular risk assessments designed to identify cybersecurity threats and other risks to the company.  These risk assessments include identifying reasonably foreseeable potential internal and external risks, the likelihood of occurrence, and any potential damage that could result from such risks.  We also evaluate the sufficiency of our existing internal controls and monitor the effectiveness of such safeguards.  In response, we adjust our processes and controls as necessary.
+
+Our risk management process also encompasses cybersecurity risks associated with our use of third-party service providers.  For example, as part of our contract management process, we conduct IT security reviews, and require executive approval by the General Counsel, Chief Financial Officer and Executive Vice President of Global Operations in relation to products or services that could potentially expose our company to cybersecurity risks.
+
+As of the end of fiscal year 2025, we have not identified any risks from known cybersecurity threats (including as a result of any prior cybersecurity incidents) that have materially affected, or are reasonably likely to materially affect, our business strategy, results of operations or financial conditions.  While our cybersecurity risk management strategy is intended to assess, identify and manage material risks from cybersecurity threats, it may not adequately do so in every instance, particularly given the evolving nature of the cybersecurity threat landscape.  We expect that our policies and processes will continue to be subject to update as the risks from cybersecurity threats change.  For more information about risks from cybersecurity threats, and whether they are reasonably likely to materially affect our business strategy, results of operations or financial conditions, please see the Risk factors discussion in Item 1A of this Form 10-K, including “Risks related to system security, cyber-attacks and data breaches”.
+
+Cybersecurity Governance
+
+The Board of Directors’ overall risk oversight function includes receiving reports on the Company’s cybersecurity risks and our risk management processes, and assessing whether our risk management strategies are reasonably designed to address such risks.  The Board has delegated this oversight responsibility to our Audit Committee, which reports periodically to the Board as appropriate.
+
+Our Executive Vice President of Global Operations and our Director of Information Security are responsible for ongoing assessment and supervision of cybersecurity risks, supported by a dedicated Information Security team who reports up to those individuals.  Our Director of Information Security has primary oversight of material risks from cybersecurity threats, has over 25 years of experience in cybersecurity-related roles and holds industry-recognized certifications.  Our Executive Vice President of Global Operations and Director of Information Security review and evaluate our cybersecurity readiness through internal cybersecurity measures and metrics, as well as third-party penetration tests and control assessments against industry standards. We also employ various defensive and continuous monitoring techniques designed to escalate potential issues in a timely manner to our Director of Information Security.
+
+Our Director of Information Security meets with the Audit Committee at least twice a year to discuss our cybersecurity risks, strategy, and activities, including cybersecurity incidents and responses, cybersecurity systems testing, third-party activities and related topics.  In addition, we have governance and compliance structures that are designed to elevate issues relating to cybersecurity to executive oﬃcers, and, as appropriate, to the Audit Committee and Board.
