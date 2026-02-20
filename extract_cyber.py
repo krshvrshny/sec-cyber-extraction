@@ -5,7 +5,6 @@ import time
 import logging
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# 1. Identifikation
 set_identity("Krish Varshney krish.varshney@tum.de")
 
 warnings.filterwarnings("ignore")
@@ -19,7 +18,6 @@ def save_to_file(base_folder, sector, ticker, full_name, year, section_name, con
     clean_name = full_name.replace(".", "").replace(",", "").replace("/", "-")
     company_name = f"{ticker} ({clean_name})"
     
-    # Pfad erstellen
     directory = f"{base_folder}/{sector}/{company_name}/{year}"
     if not os.path.exists(directory):
         os.makedirs(directory)
@@ -54,12 +52,12 @@ def process_ticker(sector, ticker, target_years):
             try:
                 doc = filing.obj()
                 
-                item_1a = doc.risk_factors
+                item_1a = doc.risk_factors 
                 save_to_file(base_folder, sector, ticker, full_name, year, "Item_1A_RiskFactors", item_1a)
                 
                 if year >= 2023:
                     try:
-                        item_1c = doc['Item 1C']
+                        item_1c = doc['Item 1C'] 
                         save_to_file(base_folder, sector, ticker, full_name, year, "Item_1C_Cybersecurity", item_1c)
                     except:
                         print(f"[INFO] {ticker} {year}: No Item 1C found, skipping")
@@ -73,7 +71,6 @@ def process_ticker(sector, ticker, target_years):
         print(f"[ERROR] {ticker}: {e}")
 
 def run_extraction(sectors_dict, target_years):
-    # Build flat list of (sector, ticker) pairs
     tasks = [(sector, ticker) for sector, tickers in sectors_dict.items() for ticker in tickers]
     
     with ThreadPoolExecutor(max_workers=5) as executor:
