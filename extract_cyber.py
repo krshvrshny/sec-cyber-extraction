@@ -76,7 +76,7 @@ def run_extraction(sectors_dict, target_years):
     # Build flat list of (sector, ticker) pairs
     tasks = [(sector, ticker) for sector, tickers in sectors_dict.items() for ticker in tickers]
     
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=8) as executor:
         futures = {executor.submit(process_ticker, sector, ticker, target_years): (sector, ticker) 
                   for sector, ticker in tasks}
         
