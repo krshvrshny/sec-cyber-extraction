@@ -1,0 +1,194 @@
+Sector,Ticker,Item,Window,Sim_Score,Top_New_Terms,Category
+Cybersecurity,PANW,1A,2022-2023,0.9791,"2025, 2025 notes, ai, hardware, hardware products",2. Adaptive
+Cybersecurity,PANW,1A,2023-2024,0.9959,"2024, customers, 31 2024, new customers, 2025",1. Boilerplate
+Cybersecurity,PANW,1A,2024-2025,0.9777,"cyberark, acquisition, acquisition cyberark, including, business",2. Adaptive
+Cybersecurity,PANW,1C,2024-2025,0.9908,"vice president, president, vice, acting chief, acting",1. Boilerplate
+Cybersecurity,CRWD,1A,2022-2023,0.9977,"31 2023, data, 2023, gdpr, health crises",1. Boilerplate
+Cybersecurity,CRWD,1A,2023-2024,0.9944,"ai, products services, services, 2024, 31 2024",1. Boilerplate
+Cybersecurity,CRWD,1A,2024-2025,0.9873,"july 19, 19 incident, incident, 19, july",1. Boilerplate
+Cybersecurity,CRWD,1C,2024-2025,0.9993,"fiscal 2025, 2025, 2025 did",1. Boilerplate
+Cybersecurity,S,1A,2022-2023,0.9926,"global, 2023, banking, including, security",1. Boilerplate
+Cybersecurity,S,1A,2023-2024,0.9857,"uk, ai, data, conflicts, cybersecurity",1. Boilerplate
+Cybersecurity,S,1A,2024-2025,0.9905,"government, 2025, 31 2025, ai, changes",1. Boilerplate
+Cybersecurity,S,1C,2024-2025,0.977,"ciso, leadership, oversight, experience, cybersecurity",2. Adaptive
+Cybersecurity,PRGS,1A,2022-2023,0.9053,"moveit, cloud, moveit transfer, moveit cloud, moveit vulnerability",2. Adaptive
+Cybersecurity,PRGS,1A,2023-2024,0.9583,"products, 2024, services, market price, price common",2. Adaptive
+Cybersecurity,PRGS,1A,2024-2025,0.9915,"ai, 2025, stock, including, fiscal 2025",1. Boilerplate
+Cybersecurity,PRGS,1C,2023-2024,0.2017,"officer, chief, security, management, information",3. Dynamic
+Cybersecurity,PRGS,1C,2024-2025,0.9958,"team, members executive, team quarterly, executive team, reports audit",1. Boilerplate
+Cybersecurity,RPD,1A,2022-2023,0.9831,"products service, service, ai, service offerings, 2023",1. Boilerplate
+Cybersecurity,RPD,1A,2023-2024,0.9959,"31 2024, 2024, command platform, command, including command",1. Boilerplate
+Cybersecurity,RPD,1A,2024-2025,0.9958,"31 2025, credit facility, revolving credit, revolving, 2025",1. Boilerplate
+Cybersecurity,RPD,1C,2023-2024,0.9986,"program pillar, independent audits, independent, pillar, pillar broader",1. Boilerplate
+Cybersecurity,RPD,1C,2024-2025,0.9989,"committee rapid7, variety expertise, variety, members variety, rapid7",1. Boilerplate
+Cybersecurity,VRNS,1A,2022-2023,0.9968,"2023, 31 2023, ai, delivery model, saas delivery",1. Boilerplate
+Cybersecurity,VRNS,1A,2023-2024,0.9949,"2024, 31 2024, conversion notes, notes, states",1. Boilerplate
+Cybersecurity,VRNS,1A,2024-2025,0.9914,"2029, 2029 notes, 2025, 31 2025, development",1. Boilerplate
+Cybersecurity,VRNS,1C,2023-2024,0.9974,"nature 35, attack, material effect, officer vp, data sensitive",1. Boilerplate
+Cybersecurity,VRNS,1C,2024-2025,0.9904,"support, engineer, microsoft, cyberark, team leader",1. Boilerplate
+Retail & E-Commerce,ETSY,1A,2022-2023,0.9901,"2023, sellers, cyber related, 31 2023, related",1. Boilerplate
+Retail & E-Commerce,ETSY,1A,2023-2024,0.9868,"including, regulations, sellers, macro conditions, macro",1. Boilerplate
+Retail & E-Commerce,ETSY,1A,2024-2025,0.9826,"ai, use, sale, enabled, ai enabled",1. Boilerplate
+Retail & E-Commerce,ETSY,1C,2023-2024,0.9647,"risk, 2024, interim, risk oversight, oversight committee",2. Adaptive
+Retail & E-Commerce,ETSY,1C,2024-2025,0.9653,"cpto, external, depop, product, growth",2. Adaptive
+Retail & E-Commerce,BOOT,1A,2022-2023,0.9887,"april 2023, sofr, 2023, ongoing conflict, performance",1. Boilerplate
+Retail & E-Commerce,BOOT,1A,2023-2024,0.9948,"2024, 30 2024, march 30, march, revolving credit",1. Boilerplate
+Retail & E-Commerce,BOOT,1A,2024-2025,0.986,"impact, consumer, tariffs, changes, 2025",1. Boilerplate
+Retail & E-Commerce,BOOT,1C,2024-2025,0.9906,"party business, business, business partners, partners, partners maintain",1. Boilerplate
+Retail & E-Commerce,SFIX,1A,2022-2023,0.9863,"2023, transfer, owned private, personal data, company",1. Boilerplate
+Retail & E-Commerce,SFIX,1A,2023-2024,0.9856,"transformation, 2024, tariffs, shipped china, august 2024",1. Boilerplate
+Retail & E-Commerce,SFIX,1A,2024-2025,0.9814,"2025, fix 2025, 2025 form, form 10, 10",1. Boilerplate
+Retail & E-Commerce,SFIX,1C,2024-2025,0.9178,"information systems, information, data, risks cybersecurity, time",2. Adaptive
+Retail & E-Commerce,AMZN,1A,2022-2023,0.9946,"artificial intelligence, artificial, intelligence, china based, products",1. Boilerplate
+Retail & E-Commerce,AMZN,1A,2023-2024,0.9988,"communications services, communications, services, satellite, services healthcare",1. Boilerplate
+Retail & E-Commerce,AMZN,1A,2024-2025,0.997,"technologies, artificial intelligence, intelligence, artificial, including",1. Boilerplate
+Retail & E-Commerce,AMZN,1C,2023-2024,0.9973,"table contents, table, incidents read, contents, contents item",1. Boilerplate
+Retail & E-Commerce,AMZN,1C,2024-2025,0.9946,"technologies, artificial intelligence, technologies content, artificial, communication",1. Boilerplate
+Retail & E-Commerce,UPWK,1A,2022-2023,0.9116,"customers, customer, results financial, business operating, operating",2. Adaptive
+Retail & E-Commerce,UPWK,1A,2023-2024,0.982,"2024, business, repurchase authorization, authorization, 2024 share",1. Boilerplate
+Retail & E-Commerce,UPWK,1A,2024-2025,0.936,"platforms, platforms workforce, workforce solutions, solutions, workforce",2. Adaptive
+Retail & E-Commerce,UPWK,1C,2023-2024,0.9926,"data, commerce, privacy data, 32 enter, providers systems",1. Boilerplate
+Retail & E-Commerce,UPWK,1C,2024-2025,0.8897,"platforms, platforms workforce, workforce, customer, solutions",3. Dynamic
+Technology,GOOGL,1A,2022-2023,0.9871,"ai, strategic arrangements, devices, products services, 2023",1. Boilerplate
+Technology,GOOGL,1A,2023-2024,0.9907,"including, ai, 2024, dividend, portability",1. Boilerplate
+Technology,GOOGL,1A,2024-2025,0.9899,"ai, 2025, capacity, infrastructure, financing",1. Boilerplate
+Technology,GOOGL,1C,2023-2024,0.9628,"infrastructure, years experience, comprise professionals, promptly, promptly escalated",2. Adaptive
+Technology,GOOGL,1C,2024-2025,0.9903,"risk compliance, risk, relevant matters, 23 table, management process",1. Boilerplate
+Technology,MSFT,1A,2022-2023,0.9883,"ai, services, generative ai, generative, regulations",1. Boilerplate
+Technology,MSFT,1A,2023-2024,0.9599,"operations, results operations, results, condition results, condition",2. Adaptive
+Technology,MSFT,1A,2024-2025,0.9905,"processes, ai, uncertainty, development, safety",1. Boilerplate
+Technology,MSFT,1C,2024-2025,0.9936,"cloud ai, evp cloud, cloud, ai, insights 84",1. Boilerplate
+Technology,AAPL,1A,2022-2023,0.9962,"2023, 2023 form, apple 2023, app store, app",1. Boilerplate
+Technology,AAPL,1A,2023-2024,0.9964,"apple 2024, 2024 form, ios, ios ipados, ipados",1. Boilerplate
+Technology,AAPL,1A,2024-2025,0.987,"stock, stock price, price, condition stock, 2025",1. Boilerplate
+Technology,AAPL,1C,2023-2024,0.1499,"security, cybersecurity, information, information security, risks",3. Dynamic
+Technology,AAPL,1C,2024-2025,0.9962,"security, company, cybersecurity, information security, information",1. Boilerplate
+Technology,SCSC,1A,2022-2023,0.9813,"ransomware, systems, 2023, revenue, future",1. Boilerplate
+Technology,SCSC,1A,2023-2024,0.9951,"insurance, channel, inflation, general, financial",1. Boilerplate
+Technology,SCSC,1A,2024-2025,0.8492,"channel sales, channel, sales, sales partners, sales partner",3. Dynamic
+Technology,SCSC,1C,2024-2025,0.9979,"vp information, information security, security, information, board annually",1. Boilerplate
+Technology,U,1A,2022-2023,0.9798,"solutions, ai, ml, ai ml, israel",2. Adaptive
+Technology,U,1A,2023-2024,0.995,"2026, 2026 notes, learning, machine learning, machine",1. Boilerplate
+Technology,U,1A,2024-2025,0.9877,"2030, 2030 notes, notes, notes 2026, trade",1. Boilerplate
+Technology,U,1C,2023-2024,0.9837,"deputy chief, deputy, including deputy, team chief, place address",1. Boilerplate
+Technology,U,1C,2024-2025,0.9462,"interim, interim chief, information security, chief information, information",2. Adaptive
+Technology,AMPL,1A,2022-2023,0.9953,"2023, 31 2023, restructuring plan, restructuring, public health",1. Boilerplate
+Technology,AMPL,1A,2023-2024,0.9873,"ai, ai technologies, technologies, use, eu",1. Boilerplate
+Technology,AMPL,1A,2024-2025,0.9838,"ai analytics, ai, data, eu gdpr, access ai",1. Boilerplate
+Technology,AMPL,1C,2023-2024,0.9045,"committee, cybersecurity committee, chief, officer, operations",2. Adaptive
+Technology,AMPL,1C,2024-2025,0.9736,"levy, engineering, engineering security, mr levy, security",2. Adaptive
+Technology,GTLB,1A,2022-2023,0.988,"devsecops, devsecops platform, 2023, inflation, product",1. Boilerplate
+Technology,GTLB,1A,2023-2024,0.9921,"ai, personal data, data, global, related",1. Boilerplate
+Technology,GTLB,1A,2024-2025,0.9971,"icfr, 2025, 31 2025, regulatory, platform including",1. Boilerplate
+Technology,GTLB,1C,2024-2025,0.9648,"program led, led, security, program, including",2. Adaptive
+Healthcare,JNJ,1A,2022-2023,0.9691,"kenvue, operations, ai, 2023, financial",2. Adaptive
+Healthcare,JNJ,1A,2023-2024,0.9872,"tariffs, 2024, 2024 annual, including, actions",1. Boilerplate
+Healthcare,JNJ,1A,2024-2025,0.9872,"separation, planned separation, planned, 2025, shares",1. Boilerplate
+Healthcare,JNJ,1C,2023-2024,0.9953,"recovery, incident detection, response recovery, including security, 2024",1. Boilerplate
+Healthcare,JNJ,1C,2024-2025,0.999,"2025, 2025 annual, industry 2025",1. Boilerplate
+Healthcare,VKTX,1A,2022-2023,0.9953,"2023, patent, unitary, upc, 31 2023",1. Boilerplate
+Healthcare,VKTX,1A,2023-2024,0.9952,"data, 2024, uk, health, intelligence",1. Boilerplate
+Healthcare,VKTX,1A,2024-2025,0.9887,"product, 2025, product candidates, current, 31 2025",1. Boilerplate
+Healthcare,VKTX,1C,2023-2024,0.9993,"management 58, 58, 58 information",1. Boilerplate
+Healthcare,VKTX,1C,2024-2025,0.9993,"management 65, 65, 65 information",1. Boilerplate
+Healthcare,ELMD,1A,2022-2023,0.8989,"smaller reporting, provide disclosure, company, company required, disclosure",3. Dynamic
+Healthcare,ELMD,1A,2023-2024,0.8989,"1a, 1a risk, item 1a, item",3. Dynamic
+Healthcare,ELMD,1A,2024-2025,1.0,,1. Boilerplate
+Healthcare,ELMD,1C,2024-2025,0.9973,"result, result previous, incidents reasonably, previous, including result",1. Boilerplate
+Healthcare,MOH,1A,2022-2023,0.9758,"credit, healthcare 2023, 2023 form, marketplace, ai",2. Adaptive
+Healthcare,MOH,1A,2023-2024,0.984,"2024 form, healthcare 2024, 2024, changes, 31 2024",1. Boilerplate
+Healthcare,MOH,1A,2024-2025,0.9829,"2025 form, healthcare 2025, 2025, new credit, rate",1. Boilerplate
+Healthcare,MOH,1C,2023-2024,0.9909,"suffer, significant, information, costs exposure, reputational harm",1. Boilerplate
+Healthcare,MOH,1C,2024-2025,0.9691,"primarily responsible, primarily, personnel, ciso primarily, including",2. Adaptive
+Healthcare,LLY,1A,2022-2023,0.9491,"ai, technologies, exfiltration, theft exfiltration, cases",2. Adaptive
+Healthcare,LLY,1A,2023-2024,0.9866,"supply, medicines, business, tariffs, leadership",1. Boilerplate
+Healthcare,LLY,1A,2024-2025,0.9862,"access, risks, markets, pricing, global",1. Boilerplate
+Healthcare,LLY,1C,2023-2024,0.9888,"operations use, timelines, threats responding, communications companies, frameworks including",1. Boilerplate
+Healthcare,LLY,1C,2024-2025,0.9945,"security cybersecurity, problems negative, chief privacy, impact 39, privacy officer",1. Boilerplate
+Healthcare,MODD,1A,2022-2023,0.9693,"stockholders, business prospects, results operations, product candidate, candidate",2. Adaptive
+Healthcare,MODD,1A,2023-2024,0.9921,"security, 31 2024, 2024, breaches, 10",1. Boilerplate
+Healthcare,MODD,1A,2024-2025,0.966,"pump products, products, stock, common stock, common",2. Adaptive
+Healthcare,MODD,1C,2024-2025,0.9974,"environment implemented, implement policies, intend implement, implemented practices, implemented",1. Boilerplate
+Automotive,F,1A,2022-2023,0.9691,"services, cybersecurity, electric, vehicle, electric vehicle",2. Adaptive
+Automotive,F,1A,2023-2024,0.9912,"including, technologies, service providers, service, based positions",1. Boilerplate
+Automotive,F,1A,2024-2025,0.9687,"products, electrified, ev, future, business",2. Adaptive
+Automotive,F,1C,2023-2024,0.9324,"risk, officer, chief, management, program",2. Adaptive
+Automotive,F,1C,2024-2025,0.9982,"believed, processes 33, potential significant, believed reasonably, reasonably potential",1. Boilerplate
+Automotive,TSLA,1A,2022-2023,0.9913,"significant, data, information, address, result",1. Boilerplate
+Automotive,TSLA,1A,2023-2024,0.9964,"supervised, fsd supervised, supervised features, residual, requirements",1. Boilerplate
+Automotive,TSLA,1A,2024-2025,0.9802,"robotaxi, services, 2025, including, bots",1. Boilerplate
+Automotive,TSLA,1C,2023-2024,0.9985,"2024, 2024 information, programs 28, 28 cybersecurity, 28",1. Boilerplate
+Automotive,TSLA,1C,2024-2025,0.9978,"2025 information, standards 2025, 27 cybersecurity, 27, programs cybersecurity",1. Boilerplate
+Consumer Goods,PEP,1A,2022-2023,0.99,"geopolitical, conflicts, geopolitical events, military, wars",1. Boilerplate
+Consumer Goods,PEP,1A,2023-2024,0.9892,"tensions, events tensions, products, tensions wars, retaliatory",1. Boilerplate
+Consumer Goods,PEP,1A,2024-2025,0.9945,"changes, tariffs, including, processing, certain",1. Boilerplate
+Consumer Goods,PEP,1C,2023-2024,0.9991,"additionally require, cybersecurity, risk, information, management",1. Boilerplate
+Consumer Goods,PEP,1C,2024-2025,0.9974,"cybersecurity, cybersecurity function, collaborates cybersecurity, pepsico cybersecurity, cybersecurity program",1. Boilerplate
+Consumer Goods,WGO,1A,2022-2023,0.9853,"dealer, esg, consolidation, 2023, adverse",1. Boilerplate
+Consumer Goods,WGO,1A,2023-2024,0.9843,"2025, notes, convertible, 2024, 2030",1. Boilerplate
+Consumer Goods,WGO,1A,2024-2025,0.996,"increased, costs, mitigate, tariffs imposed, fiscal 2025",1. Boilerplate
+Consumer Goods,WGO,1C,2024-2025,0.9961,"business development, officer investor, development member, investor relations, investor",1. Boilerplate
+Consumer Goods,NKE,1A,2022-2023,0.9908,"2023, 2023 form, future, public, public health",1. Boilerplate
+Consumer Goods,NKE,1A,2023-2024,0.9926,"2024, 2024 form, initiative, savings, cost savings",1. Boilerplate
+Consumer Goods,NKE,1A,2024-2025,0.9916,"2025 form, 2025, responsibility sustainability, corporate responsibility, policies",1. Boilerplate
+Consumer Goods,NKE,1C,2024-2025,0.9979,"quarterly basis, quarterly, program quarterly, 24, 2025 form",1. Boilerplate
+Consumer Goods,MCFT,1A,2022-2023,0.9857,"reduce, shift, costs, public, share repurchase",1. Boilerplate
+Consumer Goods,MCFT,1A,2023-2024,0.9884,"elevated, aviara, 2024, elevated rates, transaction",1. Boilerplate
+Consumer Goods,MCFT,1A,2024-2025,0.9942,"redesigned, new redesigned, redesigned products, 2025, result",1. Boilerplate
+Consumer Goods,MCFT,1C,2024-2025,1.0,"19 key, board audit, developing 19",1. Boilerplate
+Consumer Goods,CROX,1A,2022-2023,0.9878,"tax, intelligence, artificial intelligence, artificial, 31 2023",1. Boilerplate
+Consumer Goods,CROX,1A,2023-2024,0.9929,"crs, tariffs, 31 2024, 2024, mexico",1. Boilerplate
+Consumer Goods,CROX,1A,2024-2025,0.9901,"2025, 31 2025, ended 2025, fiscal year, platform",1. Boilerplate
+Consumer Goods,CROX,1C,2023-2024,0.9994,"table contents, table, contents item, contents",1. Boilerplate
+Consumer Goods,CROX,1C,2024-2025,0.9859,"artificial intelligence, risk assessments, artificial, cybersecurity reference, reference",1. Boilerplate
+Consumer Goods,ELF,1A,2022-2023,0.9934,"mocra, 2023, economic, privacy, operations",1. Boilerplate
+Consumer Goods,ELF,1A,2023-2024,0.992,"naturium, ai, acquisition naturium, acquisition, related",1. Boilerplate
+Consumer Goods,ELF,1A,2024-2025,0.9903,"rhode, tariffs, acquisition rhode, ai, 2025",1. Boilerplate
+Consumer Goods,ELF,1C,2024-2025,0.947,"enterprise, ciso, leadership, infrastructure, cybersecurity leadership",2. Adaptive
+Finance,V,1A,2022-2023,0.9833,"ai, crs, item report, laws, related",1. Boilerplate
+Finance,V,1A,2023-2024,0.9858,"net revenue, revenue, net, ai, data",1. Boilerplate
+Finance,V,1A,2024-2025,0.9616,"sellers, seller, shareholders, agentic, regulatory",2. Adaptive
+Finance,V,1C,2024-2025,0.9946,"30 2025, 2025, parties, technology, assess risk",1. Boilerplate
+Finance,LC,1A,2022-2023,0.9871,"marketplace investors, marketplace, student, student loan, resumption",1. Boilerplate
+Finance,LC,1A,2023-2024,0.9917,"ai, changes, related uncertainties, use, 2025",1. Boilerplate
+Finance,LC,1A,2024-2025,0.9934,"ai, value, fair value, fair, methodology",1. Boilerplate
+Finance,LC,1C,2023-2024,0.9986,"corporation exercises, proprietary confidential, appropriate 2024, scanning 47, ciso holds",1. Boilerplate
+Finance,LC,1C,2024-2025,0.9991,"appropriate 2025, 2025, 2025 did, 50, 50 lendingclub",1. Boilerplate
+Finance,UPST,1A,2022-2023,0.9834,"marketplace, 2023, umi, facilitated marketplace, risk",1. Boilerplate
+Finance,UPST,1A,2023-2024,0.9939,"2024, notes, state, ai, series",1. Boilerplate
+Finance,UPST,1A,2024-2025,0.9396,"adversely, affect, adversely affect, condition results, affect business",2. Adaptive
+Finance,UPST,1C,2023-2024,0.9954,"controls, responsibility, controls assessment, assessment incident, security engineering",1. Boilerplate
+Finance,UPST,1C,2024-2025,0.9803,"data, network, engineering, risk, continuously",1. Boilerplate
+Finance,PSEC,1A,2022-2023,0.9866,"preferred stock, preferred, stock 50, 50, 50 preferred",1. Boilerplate
+Finance,PSEC,1A,2023-2024,0.9926,"rate preferred, preferred stock, preferred, rate, stock",1. Boilerplate
+Finance,PSEC,1A,2024-2025,0.9828,"preferred stock, preferred, stock, 50, 50 preferred",1. Boilerplate
+Finance,PSEC,1C,2024-2025,0.9967,"cybersecurity training, training platform, platform, platform supplementary, training staff",1. Boilerplate
+Finance,HLI,1A,2022-2023,0.9876,"2023, 31 2023, fiscal 2023, financial, adversely",1. Boilerplate
+Finance,HLI,1A,2023-2024,0.9948,"2024, fiscal 2024, 31 2024, 590 406, fiscal monetary",1. Boilerplate
+Finance,HLI,1A,2024-2025,0.9931,"2025, ai, trade, 31 2025, information",1. Boilerplate
+Finance,HLI,1C,2024-2025,0.9932,"audit, audit committee, officer executive, departments group, executive vp",1. Boilerplate
+Semiconductors,CRUS,1A,2022-2023,0.9847,"related, risks, risks related, 2023, incentives",1. Boilerplate
+Semiconductors,CRUS,1A,2023-2024,0.9958,"substances, use, ai, war, rules",1. Boilerplate
+Semiconductors,CRUS,1A,2024-2025,0.9952,"2025, systems, geographic, diversity, geographic diversity",1. Boilerplate
+Semiconductors,CRUS,1C,2024-2025,0.7905,"use, management strategy, cybersecurity risk, conduct, controls",3. Dynamic
+Semiconductors,MXL,1A,2022-2023,0.9487,"legal proceedings, products, legal, proceedings, 2023",2. Adaptive
+Semiconductors,MXL,1A,2023-2024,0.9914,"2024, 31 2024, china, certain, export",1. Boilerplate
+Semiconductors,MXL,1A,2024-2025,0.9879,"2025, 31 2025, stock, tax, ai",1. Boilerplate
+Semiconductors,MXL,1C,2023-2024,0.8913,"executives, executives management, management, infrastructure, incident",3. Dynamic
+Semiconductors,MXL,1C,2024-2025,0.9978,"31 2025, 2025, 2025 2024, 2023 company",1. Boilerplate
+Semiconductors,AMD,1A,2022-2023,0.9763,"ai, costs, climate, customers, corporate responsibility",2. Adaptive
+Semiconductors,AMD,1A,2023-2024,0.9893,"ai, zt, zt systems, 2024, conditions",1. Boilerplate
+Semiconductors,AMD,1A,2024-2025,0.9907,"china, impact, government, 2025, demand",1. Boilerplate
+Semiconductors,AMD,1C,2023-2024,0.9591,"practices standards, practices, industry practices, ai rmf, rmf industry",2. Adaptive
+Semiconductors,AMD,1C,2024-2025,0.9954,"cyber, ciso management, risks significant, cyber risks, contents item",1. Boilerplate
+Semiconductors,NVEC,1A,2022-2023,0.0689,"products, business, customers, revenue, results",3. Dynamic
+Semiconductors,NVEC,1A,2023-2024,0.0689,"item, item 1a, risk factors, 1a, 1a risk",3. Dynamic
+Semiconductors,NVEC,1A,2024-2025,1.0,,1. Boilerplate
+Semiconductors,POWI,1A,2022-2023,0.9806,"security, infrastructure, information, systems, breach",1. Boilerplate
+Semiconductors,POWI,1A,2023-2024,0.9921,"product liability, product, liability, claims, claims product",1. Boilerplate
+Semiconductors,POWI,1A,2024-2025,0.9183,"revenue, net revenue, tariffs, markets, export",2. Adaptive
+Semiconductors,POWI,1C,2023-2024,0.9979,"limited creating, including years, breaches partnered, escalation cybersecurity, technology roles",1. Boilerplate
+Semiconductors,POWI,1C,2024-2025,0.9769,"committee, cybersecurity committee, cybersecurity, charter, protection",2. Adaptive
+Semiconductors,INTC,1A,2022-2023,0.9674,"risk, factors key, ai, 2023, december",2. Adaptive
+Semiconductors,INTC,1A,2023-2024,0.9846,"2024, december 28, 28, 28 2024, intel",1. Boilerplate
+Semiconductors,INTC,1A,2024-2025,0.9415,"executive, intel, intel 14a, president, 14a",2. Adaptive
