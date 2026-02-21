@@ -40,3 +40,6 @@ truststore==0.10.4
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 Unidecode==1.4.0
+nltk==3.9.1
+openpyxl==3.1.5
+scikit-learn==1.6.1
