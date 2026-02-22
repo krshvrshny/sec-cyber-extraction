@@ -3,11 +3,9 @@ import nltk
 
 nltk.download("punkt", quiet=True)
 
-# ── Config ────────────────────────────────────────────────────────────────────
 PARQUET_PATH = "length_results.parquet"
 OUTPUT_PATH  = "boilerplate_results"
 
-# ── Boilerplate Dictionary ────────────────────────────────────────────────────
 BOILERPLATE_PHRASES = [
     # Hedging & uncertainty
     "we cannot guarantee",
@@ -24,69 +22,49 @@ BOILERPLATE_PHRASES = [
     "may not be sufficient",
     # Generic threat acknowledgment
     "evolving threat landscape",
-    "increasingly sophisticated attacks",
-    "cybersecurity threats continue to evolve",
-    "growing number of cyber threats",
+    "sophisticated cyberattacks",
+    "continue to evolve",
+    "growing number of cyber",
     "threat actors",
     "malicious actors",
     "unauthorized access to our systems",
-    "we face risks from cyberattacks",
-    "cybersecurity incidents could affect",
+    "risks from cyber",
     # Vague controls
-    "appropriate technical measures",
     "reasonable security measures",
-    "industry standard practices",
+    "industry standard",
     "security measures in place",
     "we have implemented controls",
-    "we maintain security policies",
-    "security measures may not be effective",
-    "we regularly review our security",
+    "may not be effective",
+    "regularly assess",
     # Regulatory boilerplate
     "applicable laws and regulations",
     "evolving regulatory landscape",
-    "we monitor regulatory developments",
-    "compliance with applicable requirements",
-    "subject to various laws and regulations",
-    "regulatory requirements continue to evolve",
+    "monitor and assess",
+    "subject to various laws",
     # Effort without specificity
-    "we take cybersecurity seriously",
+    "take security seriously",
     "cybersecurity is a priority",
-    "we are committed to protecting",
+    "committed to protecting",
     "we devote significant resources",
-    "we continue to invest in cybersecurity",
-    "we have a dedicated team",
+    "continue to invest in cyber",
+    "dedicated to cybersecurity",
 ]
 
 
-# ── Normalization ─────────────────────────────────────────────────────────────
 def normalize(text):
-    """Lowercase and collapse whitespace for consistent matching."""
     return " ".join(text.lower().split())
 
 
-# ── Boilerplate Detection ─────────────────────────────────────────────────────
 def compute_boilerplate(text, word_count, phrases=BOILERPLATE_PHRASES):
-    """
-    Counts boilerplate phrase matches (B) and divides by len_combined (N)
-    from the length analysis step.
-
-    Returns:
-        B               - number of boilerplate phrases matched
-        boilerplate_ratio - B / N
-        matched_phrases - list of matched phrases for audit trail
-    """
     if not text or word_count == 0:
         return 0, 0.0, []
-
     normalized_text = normalize(text)
     matched         = [p for p in phrases if normalize(p) in normalized_text]
     B               = len(matched)
     ratio           = B / word_count
-
     return B, round(ratio, 6), matched
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
 def run_boilerplate_detection(parquet_path=PARQUET_PATH, output_path=OUTPUT_PATH):
     df = pd.read_parquet(parquet_path)
 
@@ -99,18 +77,9 @@ def run_boilerplate_detection(parquet_path=PARQUET_PATH, output_path=OUTPUT_PATH
     df["boilerplate_ratio"] = results.apply(lambda x: x[1])
     df["matched_phrases"]   = results.apply(lambda x: x[2])
 
-    # ── Parquet: keep combined_text for downstream pipeline steps ─────────────
+    # Parquet keeps combined_text and size for downstream steps
     df.to_parquet(f"{output_path}.parquet", index=False)
     print(f"[INFO] Saved {output_path}.parquet")
-
-    # ── CSV: only boilerplate-relevant columns, no combined_text ─────────────
-    csv_df = df[["ticker", "company_name", "sector", "year", "has_1c",
-                 "boilerplate_count", "boilerplate_ratio", "matched_phrases"]]
-    csv_df["matched_phrases"] = csv_df["matched_phrases"].apply(
-        lambda x: " ; ".join(x) if x else ""
-    )
-    csv_df.to_csv(f"{output_path}.csv", index=False)
-    print(f"[INFO] Saved {output_path}.csv")
 
     return df
 

@@ -17,7 +17,6 @@ PARQUET_PATH = "filings.parquet"
 TARGET_YEARS = [2022, 2023, 2024, 2025]
 
 SECTORS_DICT = {
-    "Automotive":          ["F", "TSLA"],
     "Consumer Goods":      ["CROX", "ELF", "MCFT", "NKE", "PEP", "WGO"],
     "Cybersecurity":       ["CRWD", "PANW", "PRGS", "RPD", "S", "VRNS"],
     "Finance":             ["HLI", "LC", "PSEC", "UPST", "V"],
