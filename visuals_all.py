@@ -106,77 +106,39 @@ def plot_boilerplate_by_sector(df):
 
 
 # ── 4. Length: 1A vs 1C by year ──────────────────────────────────────────────
-def plot_length_by_year(df):
-    yearly = df.groupby("year")[["len_1a", "len_1c"]].mean().reset_index()
-    x, width = np.arange(len(yearly)), 0.35
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-    fig, ax = plt.subplots(figsize=(9, 5))
-    ax.bar(x - width/2, yearly["len_1a"], width, label="Item 1A", color="#1565C0", alpha=0.85)
-    ax.bar(x + width/2, yearly["len_1c"], width, label="Item 1C", color="#F57F17", alpha=0.85)
+# Load your results
+df = pd.read_parquet('length_results.parquet')
 
-    ax.set_title("Average Report Length by Section and Year", fontsize=12, fontweight="bold", pad=12)
-    ax.set_xlabel("Year", fontsize=10)
-    ax.set_ylabel("Average Word Count", fontsize=10)
-    ax.set_xticks(x)
-    ax.set_xticklabels(yearly["year"].astype(int))
-    ax.tick_params(labelsize=9)
-    ax.legend(fontsize=9)
-    ax.grid(axis="y", linestyle="--", alpha=0.4)
+# Distribution of Cybersecurity Disclosure Lengths (Item 1C)
+plt.figure(figsize=(10, 6))
+sns.histplot(df['len_1c'], kde=True, color='skyblue', bins=30)
+plt.title('Distribution of Cybersecurity Disclosure Lengths (Item 1C)')
+plt.xlabel('Word Count')
+plt.ylabel('Frequency')
+plt.grid(axis='y', linestyle='--', alpha=0.7)
+plt.show()
+
+# Industry Comparison: Average Length of Item 1C
+if 'sector' in df.columns:
+    plt.figure(figsize=(12, 8))
+    sns.boxplot(x='sector', y='len_1c', data=df, palette='viridis')
+    plt.xticks(rotation=45)
+    plt.title('Heterogeneity of Item 1C Length by Sector')
+    plt.ylabel('Word Count (Item 1C)')
     plt.tight_layout()
-    _save(fig, "length_by_year.png")
+    plt.show()
 
-
-# ── 5. Length by size over time ───────────────────────────────────────────────
-def plot_length_by_size_trend(df):
-    size_colors = {"Large": "#D84315", "Medium": "#1565C0", "Small": "#2E7D32"}
-
-    fig, ax = plt.subplots(figsize=(9, 5))
-    for size, color in size_colors.items():
-        subset = df[df["size"] == size].groupby("year")["len_combined"].mean().reset_index()
-        ax.plot(subset["year"], subset["len_combined"], color=color, linewidth=2.2,
-                marker="o", markersize=6, label=size, zorder=3)
-
-    ax.axvline(x=2022.5, color=MANDATE_COLOR, linewidth=1.8, linestyle="--")
-    ax.text(2022.55, ax.get_ylim()[1] * 0.97, "SEC Mandate", fontsize=8,
-            fontstyle="italic", color=MANDATE_COLOR, va="top")
-
-    ax.set_title("Average Combined Report Length by Firm Size Over Time", fontsize=12, fontweight="bold", pad=12)
-    ax.set_xlabel("Year", fontsize=10)
-    ax.set_ylabel("Average Word Count", fontsize=10)
-    ax.set_xticks([2022, 2023, 2024, 2025])
-    ax.tick_params(labelsize=9)
-    ax.legend(title="Firm Size", fontsize=9, title_fontsize=9)
-    ax.grid(axis="y", linestyle="--", alpha=0.4)
-    plt.tight_layout()
-    _save(fig, "length_by_size_trend.png")
-
-
-# ── 6. Length by sector over time ─────────────────────────────────────────────
-def plot_length_by_sector_trend(df):
-    sectors       = sorted(df["sector"].unique())
-    sector_colors = {s: plt.cm.tab10.colors[i] for i, s in enumerate(sectors)}
-
-    fig, ax = plt.subplots(figsize=(11, 6))
-    for sector in sectors:
-        subset = df[df["sector"] == sector].groupby("year")["len_combined"].mean().reset_index()
-        ax.plot(subset["year"], subset["len_combined"], color=sector_colors[sector],
-                linewidth=2, marker="o", markersize=5, label=sector, zorder=3)
-
-    ax.axvline(x=2022.5, color=MANDATE_COLOR, linewidth=1.8, linestyle="--")
-    ax.text(2022.55, ax.get_ylim()[1] * 0.97, "SEC Mandate", fontsize=8,
-            fontstyle="italic", color=MANDATE_COLOR, va="top")
-
-    ax.set_title("Average Combined Report Length by Sector Over Time", fontsize=12, fontweight="bold", pad=12)
-    ax.set_xlabel("Year", fontsize=10)
-    ax.set_ylabel("Average Word Count", fontsize=10)
-    ax.set_xticks([2022, 2023, 2024, 2025])
-    ax.tick_params(labelsize=9)
-    ax.legend(title="Sector", fontsize=8, title_fontsize=8,
-              loc="upper left", bbox_to_anchor=(1.01, 1), borderaxespad=0)
-    ax.grid(axis="y", linestyle="--", alpha=0.4)
-    plt.tight_layout()
-    _save(fig, "length_by_sector_trend.png")
-
+# Relationship between Item 1A (Risk Factors) and Item 1C (Cybersecurity)
+plt.figure(figsize=(8, 8))
+sns.scatterplot(x='len_1a', y='len_1c', data=df, alpha=0.6, color='coral')
+plt.title('Correlation: General Risk Factors (1A) vs. Cybersecurity (1C)')
+plt.xlabel('Length of Item 1A')
+plt.ylabel('Length of Item 1C')
+plt.show()
 
 # ── 7. Similarity histogram ───────────────────────────────────────────────────
 def plot_similarity_histogram(df):

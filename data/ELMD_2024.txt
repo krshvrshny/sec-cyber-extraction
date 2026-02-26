@@ -1,0 +1,73 @@
+Item
+                          1A.Risk
+                                         Factors.
+
+As
+a smaller reporting company, we are not required to provide disclosure pursuant to this item.
+
+--- ITEM 1C ---
+
+Item
+1C. Cybersecurity.
+
+Protecting
+the privacy of customer and personnel information is important to us, and we maintain security protocols and processes, including
+ongoing training and education for all personnel, designed to combat the risk of unauthorized access or inadvertent disclosure.
+Our business operations involve confidential information, including patient health information subject to regulation as discussed
+under “HIPAA, HITECH and Other Privacy Regulations” above. Our information technology infrastructure is designed
+to offer reliability, scalability, performance, security and privacy for our personnel, clients, and third-party contractors.
+
+Cybersecurity
+Risk Management and Strategy
+
+We
+have designed and implemented a cybersecurity risk management program to help us identify, assess, and mitigate cybersecurity
+risks relevant to our business, based on the National Institute of Standards and Technology (NIST) Cyber Security Framework. The
+cybersecurity risk management program is integrated into our Enterprise Risk Management (ERM) program.
+
+Our
+cybersecurity risk management program includes:
+
+●dedicated
+                                         cybersecurity professionals who analyze cybersecurity threats, define cybersecurity policy
+                                         and requirements, implement protections, and monitor and respond to cybersecurity incidents;
+
+●cybersecurity
+                                         regulatory-based risk assessments for the Company’s systems and applications (where
+                                         required);
+
+●a
+                                         formal incident response plan, in which incidents are classified based upon the severity,
+                                         impact, and the potential harm that can be caused by the incident;
+
+●monthly
+                                         information security training program for all employees, including phishing awareness
+                                         training; and
+
+●engagement
+                                         of third-party service providers to conduct assessments of the Company’s cybersecurity
+                                         risk management program, penetration testing, and vulnerability testing.
+
+To
+date, the Company is not aware of any cybersecurity incident that has had or is reasonably likely to have a material impact on
+the Company’s business strategy, results of operations or financial condition. However, despite our security measures, there
+can be no assurance that the Company, or the third parties with which we interact, will not experience a cybersecurity incident
+in the future that may materially affect us. 
+
+Cybersecurity
+Governance
+
+The
+Audit Committee and the Board of Directors provide oversight of cybersecurity risk management. The cybersecurity risk management
+program is co-led by senior leaders of our management and third-party service providers. Between our senior leaders, there is
+a combined 30+ years of experience assisting public and privately held companies in a variety of industries, leading several enterprise-wide
+transformation initiatives to adapt to changing cybersecurity threats. Our Director of IT leads the IT organization, reports directly
+to the Chief Financial Officer and works closely with the President and Chief Executive Officer to guide strategic direction and
+IT decisions to drive business outcomes. Our Board of Directors is engaged in the Company’s Enterprise Risk Management (ERM)
+program and receives briefings on the outcomes of the ERM program and the steps the Company takes to mitigate risks that the program
+identifies. The Audit Committee oversees the Company’s cybersecurity strategies, systems, and controls to ensure reliability
+and prevent unauthorized access. The Audit Committee discusses policies with respect to risk assessment and risk management, including
+risks associated with the reliability and security of the Company’s information technology and security systems, and the
+steps management has undertaken to monitor and control such exposures. The Audit Committee and Board of Directors receives regular
+updates on the Company’s cybersecurity risk management program from the Chief Financial Officer, Director of IT and third
+party managed service provider CISO.
