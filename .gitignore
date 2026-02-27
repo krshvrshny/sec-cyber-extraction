@@ -16,3 +16,6 @@ __pycache__/
 
 # Betriebssystem-Müll
 .DS_Store
+
+#api key
+.env
