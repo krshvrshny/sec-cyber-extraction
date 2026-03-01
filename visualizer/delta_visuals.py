@@ -19,9 +19,18 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 import seaborn as sns
 import numpy as np
+import os
+
+# ── PATHS ─────────────────────────────────────────────────────────────────────
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "..", "visuals", "delta")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+def out(filename):
+    return os.path.join(OUTPUT_DIR, filename)
 
 # ── LOAD DATA ─────────────────────────────────────────────────────────────────
-df = pd.read_csv("delta_results.csv")
+df = pd.read_csv(os.path.join(SCRIPT_DIR, "..", "results", "delta_results.csv"))
 df_delta = df.dropna(subset=["delta"])
 
 SECTOR_ORDER = [
@@ -63,14 +72,13 @@ for t in autotexts:
     t.set_fontweight("bold")
 
 ax.set_title(
-    "Figure – Dynamics Multiplier (Δ) Distribution\n"
-    "(n=123 scored firm-year observations)",
+    "Dynamics Multiplier (Δ) Distribution",
     fontweight="bold"
 )
 plt.tight_layout()
-plt.savefig("fig_delta_distribution.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("delta_distribution.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig_delta_distribution.png")
+print("Saved delta_distribution.png")
 
 # ═════════════════════════════════════════════════════════════════════════════
 # FIG – Δ Composition by Year (Stacked Bar) [MAIN TEXT]
@@ -102,14 +110,13 @@ ax.set_ylabel("Number of Firm-Years")
 ax.set_ylim(0, max(year_delta.sum(axis=1)) * 1.15)
 ax.legend(fontsize=9, loc="upper left")
 ax.set_title(
-    "Figure – Δ Composition by Year (2022–2025)\n"
-    "(Δ=0.0 concentrated in 2023; Δ=1.0 expands post-mandate)",
+    "Δ Composition by Year (2022–2025)",
     fontweight="bold"
 )
 plt.tight_layout()
-plt.savefig("fig_delta_by_year.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("delta_by_year.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig_delta_by_year.png")
+print("Saved delta_by_year.png")
 
 # ═════════════════════════════════════════════════════════════════════════════
 # FIG A – Δ Distribution by Sector (Stacked % Bar) [APPENDIX]
@@ -142,13 +149,12 @@ ax.set_ylabel("Share (%)")
 ax.set_ylim(0, 115)
 ax.legend(fontsize=9, loc="upper right")
 ax.set_title(
-    "Figure A – Δ Distribution by Sector (%) [Appendix]\n"
-    "(Cybersecurity highest Δ=1.0 share; Semiconductors lowest)",
+    "Δ Distribution by Sector (%)",
     fontweight="bold"
 )
 plt.tight_layout()
-plt.savefig("figA_delta_by_sector.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("delta_by_sector.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved figA_delta_by_sector.png")
+print("Saved delta_by_sector.png")
 
 print("\nAll delta outputs saved successfully.")

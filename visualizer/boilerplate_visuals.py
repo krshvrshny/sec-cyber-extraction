@@ -18,9 +18,18 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import os
+
+# ── PATHS ─────────────────────────────────────────────────────────────────────
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "..", "visuals", "boilerplate")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+def out(filename):
+    return os.path.join(OUTPUT_DIR, filename)
 
 # ── LOAD DATA ─────────────────────────────────────────────────────────────────
-df = pd.read_csv("boilerplate_results.csv")
+df = pd.read_csv(os.path.join(SCRIPT_DIR, "..", "results", "boilerplate_results.csv"))
 
 SECTOR_ORDER = [
     "Healthcare", "Semiconductors", "Consumer Goods",
@@ -36,7 +45,7 @@ np.random.seed(42)
 
 
 # ═════════════════════════════════════════════════════════════════════════════
-# TABLE 3 – Descriptive statistics: overall + by year          [MAIN TEXT]
+# TABLE 3 – Descriptive statistics: overall + by year
 # ═════════════════════════════════════════════════════════════════════════════
 rows = []
 for label, subset in [("All years", df)] + [(yr, df[df["year"]==yr]) for yr in sorted(df["year"].unique())]:
@@ -53,14 +62,14 @@ for label, subset in [("All years", df)] + [(yr, df[df["year"]==yr]) for yr in s
     })
 
 table = pd.DataFrame(rows)
-table.to_csv("table3_boilerplate_stats.csv", index=False)
-print("Saved table3_boilerplate_stats.csv")
+table.to_csv(out("table_boilerplate_stats.csv"), index=False)
+print("Saved table_boilerplate_stats.csv")
 print(table.to_string(index=False))
 
 
 # ═════════════════════════════════════════════════════════════════════════════
 # FIG 13 – Boilerplate RATIO over time (primary finding: it's tiny)
-#          Left axis = ratio; right axis = count for context   [MAIN TEXT]
+#          Left axis = ratio; right axis = count for context
 # ═════════════════════════════════════════════════════════════════════════════
 yearly_r = df.groupby("year")["boilerplate_ratio"].agg(["mean","std"]).reset_index()
 yearly_c = df.groupby("year")["boilerplate_count"].agg(["mean"]).reset_index()
@@ -109,18 +118,16 @@ lines1, labels1 = ax1.get_legend_handles_labels()
 lines2, labels2 = ax2.get_legend_handles_labels()
 ax1.legend(lines1 + lines2, labels1 + labels2, fontsize=9, loc="upper left")
 
-ax1.set_title("Figure 13 – Boilerplate Ratio Over Time\n"
-              "(ratio < 0.002 in all years; dots = individual firm ratios)",
-              fontweight="bold")
+ax1.set_title("Boilerplate Ratio Over Time")
 plt.tight_layout()
-plt.savefig("fig13_boilerplate_by_year.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("boilerplate_by_year.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig13_boilerplate_by_year.png")
+print("Saved boilerplate_by_year.png")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
 # FIG 14 – Count AND ratio: with vs without Item 1C (side-by-side panels)
-#          Shows count rises but ratio stays flat                [MAIN TEXT]
+#          Shows count rises but ratio stays flat
 # ═════════════════════════════════════════════════════════════════════════════
 ic = df.groupby("has_1c")[["boilerplate_count","boilerplate_ratio"]].agg(["mean","std"])
 labels = ["Without\nItem 1C", "With\nItem 1C"]
@@ -153,17 +160,16 @@ ax_r.set_ylabel("Mean Boilerplate Ratio (phrases / words)")
 ax_r.set_ylim(0, 0.0018)
 ax_r.set_title("Phrase Ratio", fontweight="bold")
 
-fig.suptitle("Figure 14 – Boilerplate Count vs Ratio: Filings With vs Without Item 1C\n"
-             "(count rises with 1C; ratio stays flat — difference is driven by longer text)",
+fig.suptitle("Boilerplate Count vs Ratio: Filings With vs Without Item 1C",
              fontweight="bold", fontsize=11)
 plt.tight_layout()
-plt.savefig("fig14_boilerplate_by_1c.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("boilerplate_by_1c.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig14_boilerplate_by_1c.png")
+print("Saved boilerplate_by_1c.png")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
-# FIG A6 – Boilerplate count by sector                          [APPENDIX]
+# FIG A6 – Boilerplate count by sector
 # ═════════════════════════════════════════════════════════════════════════════
 sec = df.groupby("sector")["boilerplate_count"].agg(["mean","std"]).reindex(SECTOR_ORDER)
 
@@ -182,14 +188,12 @@ ax.axvline(df["boilerplate_count"].mean(), color=ORANGE, ls="--", lw=1.5,
 ax.set_xlabel("Mean Boilerplate Phrase Count")
 ax.set_xlim(0, 22)
 ax.legend(fontsize=10)
-ax.set_title("Figure A6 – Mean Boilerplate Count by Sector [Appendix]\n(error bars = ±1 SD)",
+ax.set_title("Figure A6 – Mean Boilerplate Count by Sector \n(error bars = ±1 SD)",
              fontweight="bold")
 plt.tight_layout()
-plt.savefig("figA6_boilerplate_by_sector.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("boilerplate_by_sector.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved figA6_boilerplate_by_sector.png")
-
-print("\nAll boilerplate outputs saved successfully.")
+print("Saved _boilerplate_by_sector.png")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
@@ -228,10 +232,11 @@ ax_r.set_ylabel("Boilerplate Ratio (phrases / words)")
 ax_r.set_ylim(0, 0.0025)
 ax_r.set_title("Phrase Ratio", fontweight="bold")
 
-fig.suptitle("Figure A7 – Boilerplate Count and Ratio by Firm Size [Appendix]\n"
-             "(Medium firms highest on count; ratios are low and similar across all size groups)",
+fig.suptitle("Boilerplate Count and Ratio by Firm Size",
              fontweight="bold", fontsize=11)
 plt.tight_layout()
-plt.savefig("figA7_boilerplate_by_size.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("boilerplate_by_size.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved figA7_boilerplate_by_size.png")
+print("Saved boilerplate_by_size.png")
+
+print("\nAll boilerplate outputs saved successfully.")

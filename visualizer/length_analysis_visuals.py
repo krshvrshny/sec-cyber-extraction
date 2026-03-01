@@ -19,9 +19,18 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 import seaborn as sns
 import numpy as np
+import os
+
+# ── PATHS ─────────────────────────────────────────────────────────────────────
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "..", "visuals", "length")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+def out(filename):
+    return os.path.join(OUTPUT_DIR, filename)
 
 # ── LOAD DATA ─────────────────────────────────────────────────────────────────
-df    = pd.read_csv("length_results.csv")
+df    = pd.read_csv(os.path.join(SCRIPT_DIR, "..", "results", "length_results.csv"))
 df_1c = df[df["has_1c"] == True].copy()
 mature = df_1c[df_1c["year"].isin([2024, 2025])]
 
@@ -62,8 +71,8 @@ for year in sorted(df["year"].unique()):
                          "Min": int(d.min()), "Max": int(d.max())})
 
 table = pd.DataFrame(rows)
-table.to_csv("table1_descriptive_stats.csv", index=False)
-print("Saved table1_descriptive_stats.csv")
+table.to_csv(out("table_length_stats.csv"), index=False)
+print("Saved table_length_stats.csv")
 print(table.to_string(index=False))
 print()
 
@@ -90,11 +99,11 @@ ax.set_ylabel("Share of Filings with Item 1C (%)")
 ax.set_xlabel("Fiscal Year")
 ax.set_xticks([2022, 2023, 2024, 2025])
 ax.axhline(100, color=GRAY, ls="--", lw=1, alpha=0.5)
-ax.set_title("Figure 1 – Adoption Rate of Item 1C by Year", fontweight="bold")
+ax.set_title("Adoption Rate of Item 1C by Year", fontweight="bold")
 plt.tight_layout()
-plt.savefig("fig1_adoption.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("adoption.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig1_adoption.png")
+print("Saved adoption.png")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
@@ -126,12 +135,12 @@ ax.set_xlabel("Fiscal Year")
 ax.set_ylabel("Item 1C Word Count")
 ax.yaxis.set_major_formatter(mticker.FuncFormatter(fmt_thousands))
 ax.legend(fontsize=10)
-ax.set_title("Figure 2 – Item 1C Mean Length Over Time with ±1 SD (2023–2025)",
+ax.set_title("Item 1C Mean Length Over Time with ±1 SD (2023–2025)",
              fontweight="bold")
 plt.tight_layout()
-plt.savefig("fig2_1c_temporal.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("length_1c.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig2_1c_temporal.png")
+print("Saved length_1c.png")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
@@ -163,12 +172,12 @@ for ax, vals, color, title in panels:
     ax.legend(fontsize=10)
     ax.xaxis.set_major_formatter(mticker.FuncFormatter(fmt_thousands))
 
-plt.suptitle("Figure 3 – Length Distributions of Items 1A and 1C",
+plt.suptitle("Length Distributions of Items 1A and 1C",
              fontweight="bold", y=1.02)
 plt.tight_layout()
-plt.savefig("fig3_distribution.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("length_distribution.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig3_distribution.png")
+print("Saved length_distribution.png")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
@@ -202,11 +211,82 @@ for ax, col, label, color, source in zip(
     ax.set_ylabel("Word Count")
     ax.yaxis.set_major_formatter(mticker.FuncFormatter(fmt_thousands))
 
-plt.suptitle("Figure 4 – Section Length Heterogeneity by Firm Size",
+plt.suptitle("Section Length Heterogeneity by Firm Size",
              fontweight="bold", y=1.02)
 plt.tight_layout()
-plt.savefig("fig4_by_size.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("length_by_size.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig4_by_size.png")
+print("Saved length_by_size.png")
+
+# ═════════════════════════════════════════════════════════════════════════════
+# FIG 2 – Mean section length over time: Item 1A (left) and 1C (right axis)
+# ═════════════════════════════════════════════════════════════════════════════
+mean_1a = df.groupby("year")["len_1a"].mean()
+mean_1c = df_1c.groupby("year")["len_1c"].mean()
+
+fig, ax1 = plt.subplots(figsize=(10, 5))
+ax2 = ax1.twinx()
+
+ax1.plot(mean_1a.index, mean_1a.values,
+         marker="o", color=BLUE, lw=2.4, label="Item 1A (all filings)")
+ax2.plot(mean_1c.index, mean_1c.values,
+         marker="s", color=ORANGE, lw=2.4, ls="--", label="Item 1C (filings with 1C only)")
+
+# SEC Rule effective annotation
+ax1.axvline(2023.25, color=GRAY, ls=":", lw=1.3)
+ax1.text(2023.3, ax1.get_ylim()[0] if ax1.get_ylim()[0] > 0 else mean_1a.min() * 0.9995,
+         "SEC Rule\neffective", color=GRAY, fontsize=9, va="bottom")
+
+ax1.set_xlabel("Fiscal Year")
+ax1.set_ylabel("Item 1A Mean Word Count", color=BLUE)
+ax1.tick_params(axis="y", labelcolor=BLUE)
+ax1.yaxis.set_major_formatter(mticker.FuncFormatter(fmt_thousands))
+ax1.set_xticks([2022, 2023, 2024, 2025])
+
+ax2.set_ylabel("Item 1C Mean Word Count", color=ORANGE)
+ax2.tick_params(axis="y", labelcolor=ORANGE)
+ax2.yaxis.set_major_formatter(mticker.FuncFormatter(fmt_thousands))
+
+lines1, labels1 = ax1.get_legend_handles_labels()
+lines2, labels2 = ax2.get_legend_handles_labels()
+ax1.legend(lines1 + lines2, labels1 + labels2, fontsize=10, loc="upper left")
+
+ax1.set_title("Mean Section Length Over Time (2022–2025)",
+              fontweight="bold")
+plt.tight_layout()
+plt.savefig(out("length_temporal_trends.png"), dpi=150, bbox_inches="tight")
+plt.close()
+print("Saved length_temporal_trends.png")
+
+# ═════════════════════════════════════════════════════════════════════════════
+# FIG 4 – Mean section length by sector: Item 1A and 1C (grouped horizontal bars)
+# ═════════════════════════════════════════════════════════════════════════════
+SECTOR_ORDER_LEN = [
+    "Healthcare", "Consumer Goods", "Semiconductors",
+    "Technology", "Retail & E-Commerce", "Cybersecurity", "Finance"
+]
+
+mean_1a_sec = df.groupby("sector")["len_1a"].mean().reindex(SECTOR_ORDER_LEN)
+mean_1c_sec = df_1c.groupby("sector")["len_1c"].mean().reindex(SECTOR_ORDER_LEN)
+
+y      = np.arange(len(SECTOR_ORDER_LEN))
+height = 0.35
+
+fig, ax = plt.subplots(figsize=(11, 6))
+ax.barh(y + height / 2, mean_1a_sec.values, height,
+        color=BLUE,   alpha=0.85, edgecolor="white", label="Item 1A")
+ax.barh(y - height / 2, mean_1c_sec.values, height,
+        color=ORANGE, alpha=0.85, edgecolor="white", label="Item 1C")
+
+ax.set_yticks(y)
+ax.set_yticklabels(SECTOR_ORDER_LEN)
+ax.set_xlabel("Mean Word Count")
+ax.xaxis.set_major_formatter(mticker.FuncFormatter(fmt_thousands))
+ax.legend(fontsize=10, loc="lower right")
+ax.set_title("Mean Section Length by Sector", fontweight="bold")
+plt.tight_layout()
+plt.savefig(out("length_by_sector.png"), dpi=150, bbox_inches="tight")
+plt.close()
+print("Saved length_by_sector.png")
 
 print("\nAll outputs saved successfully.")
