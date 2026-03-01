@@ -1,0 +1,165 @@
+ticker,year,specificity_score,boilerplate_ratio,sector,size,has_1c,S,category
+AAPL,2022,0.3333333333333333,0.000881,Technology,Large,False,59.96476,Low Specificity
+AAPL,2023,0.3333333333333333,0.000828,Technology,Large,True,59.966879999999996,Low Specificity
+AAPL,2024,0.3333333333333333,0.000777,Technology,Large,True,59.968920000000004,Low Specificity
+AAPL,2025,0.3333333333333333,0.00069,Technology,Large,True,59.9724,Low Specificity
+AMD,2022,0.16666666666666666,0.000627,Semiconductors,Large,False,49.974920000000004,Low Specificity
+AMD,2023,0.3333333333333333,0.000714,Semiconductors,Large,True,59.97144,Low Specificity
+AMD,2024,0.5,0.000714,Semiconductors,Large,True,69.97144,High Specificity
+AMD,2025,0.6666666666666666,0.000686,Semiconductors,Large,True,79.97256,High Specificity
+AMPL,2022,0.0,0.00041,Technology,Small,False,39.9836,Low Specificity
+AMPL,2023,0.3333333333333333,0.000483,Technology,Small,True,59.98068,Low Specificity
+AMPL,2024,0.3333333333333333,0.000453,Technology,Small,True,59.981880000000004,Low Specificity
+AMPL,2025,0.5,0.000443,Technology,Small,True,69.98228,High Specificity
+AMZN,2022,0.16666666666666666,0.000866,Retail & E-Commerce,Large,False,49.96536,Low Specificity
+AMZN,2023,0.3333333333333333,0.000877,Retail & E-Commerce,Large,True,59.964920000000006,Low Specificity
+AMZN,2024,0.3333333333333333,0.000873,Retail & E-Commerce,Large,True,59.96508,Low Specificity
+AMZN,2025,0.3333333333333333,0.000856,Retail & E-Commerce,Large,True,59.96576,Low Specificity
+BOOT,2022,0.0,0.000574,Retail & E-Commerce,Medium,False,39.97704,Low Specificity
+BOOT,2023,0.0,0.000612,Retail & E-Commerce,Medium,False,39.97552,Low Specificity
+BOOT,2024,0.3333333333333333,0.000786,Retail & E-Commerce,Medium,True,59.968560000000004,Low Specificity
+BOOT,2025,0.3333333333333333,0.000804,Retail & E-Commerce,Medium,True,59.967839999999995,Low Specificity
+CROX,2022,0.0,0.000846,Consumer Goods,Medium,False,39.96616,Low Specificity
+CROX,2023,0.5,0.000934,Consumer Goods,Medium,True,69.96264000000001,High Specificity
+CROX,2024,0.5,0.000851,Consumer Goods,Medium,True,69.96596,High Specificity
+CROX,2025,0.5,0.000802,Consumer Goods,Medium,True,69.96791999999999,High Specificity
+CRUS,2022,0.0,0.000929,Semiconductors,Medium,False,39.96284000000001,Low Specificity
+CRUS,2023,0.0,0.000852,Semiconductors,Medium,False,39.965920000000004,Low Specificity
+CRUS,2024,0.16666666666666666,0.00101,Semiconductors,Medium,True,49.95960000000001,Low Specificity
+CRUS,2025,0.6666666666666666,0.000935,Semiconductors,Medium,True,79.96260000000001,High Specificity
+CRWD,2022,0.3333333333333333,0.000486,Cybersecurity,Large,False,59.980560000000004,Low Specificity
+CRWD,2023,0.3333333333333333,0.000483,Cybersecurity,Large,False,59.98068,Low Specificity
+CRWD,2024,0.6666666666666666,0.000581,Cybersecurity,Large,True,79.97676,High Specificity
+CRWD,2025,0.6666666666666666,0.000585,Cybersecurity,Large,True,79.9766,High Specificity
+ELF,2022,0.16666666666666666,0.000436,Consumer Goods,Medium,False,49.98256,Low Specificity
+ELF,2023,0.0,0.000515,Consumer Goods,Medium,False,39.9794,Low Specificity
+ELF,2024,0.5,0.000593,Consumer Goods,Medium,True,69.97628,High Specificity
+ELF,2025,0.5,0.000597,Consumer Goods,Medium,True,69.97612000000001,High Specificity
+ELMD,2022,0.0,0.0,Healthcare,Small,False,40.0,Low Specificity
+ELMD,2023,0.0,0.0,Healthcare,Small,False,40.0,Low Specificity
+ELMD,2024,0.5,0.001795,Healthcare,Small,True,69.9282,High Specificity
+ELMD,2025,0.6666666666666666,0.001751,Healthcare,Small,True,79.92996,High Specificity
+ETSY,2022,0.3333333333333333,0.000485,Retail & E-Commerce,Medium,False,59.9806,Low Specificity
+ETSY,2023,0.5,0.000558,Retail & E-Commerce,Medium,True,69.97768,High Specificity
+ETSY,2024,0.6666666666666666,0.00062,Retail & E-Commerce,Medium,True,79.9752,High Specificity
+ETSY,2025,0.5,0.000599,Retail & E-Commerce,Medium,True,69.97604000000001,High Specificity
+GOOGL,2022,0.3333333333333333,0.001021,Technology,Large,False,59.95916,Low Specificity
+GOOGL,2023,0.3333333333333333,0.001028,Technology,Large,True,59.95888,Low Specificity
+GOOGL,2024,0.5,0.000859,Technology,Large,True,69.96564000000001,High Specificity
+GOOGL,2025,0.5,0.000919,Technology,Large,True,69.96324,High Specificity
+GTLB,2022,0.16666666666666666,0.000521,Technology,Medium,False,49.97916,Low Specificity
+GTLB,2023,0.3333333333333333,0.00058,Technology,Medium,False,59.976800000000004,Low Specificity
+GTLB,2024,0.3333333333333333,0.000601,Technology,Medium,True,59.97596000000001,Low Specificity
+GTLB,2025,0.8333333333333334,0.000618,Technology,Medium,True,89.97528,High Specificity
+HLI,2022,0.0,0.000897,Finance,Medium,False,39.96412,Low Specificity
+HLI,2023,0.0,0.000913,Finance,Medium,False,39.963480000000004,Low Specificity
+HLI,2024,0.5,0.00107,Finance,Medium,True,69.9572,High Specificity
+HLI,2025,0.8333333333333334,0.000957,Finance,Medium,True,89.96172,High Specificity
+INTC,2022,0.16666666666666666,0.000741,Semiconductors,Large,False,49.97036000000001,Low Specificity
+INTC,2023,0.16666666666666666,0.000713,Semiconductors,Large,False,49.97148000000001,Low Specificity
+INTC,2024,0.3333333333333333,0.000709,Semiconductors,Large,False,59.97164,Low Specificity
+INTC,2025,0.3333333333333333,0.000642,Semiconductors,Large,False,59.97432,Low Specificity
+JNJ,2022,0.0,0.001343,Healthcare,Large,False,39.94628,Low Specificity
+JNJ,2023,0.3333333333333333,0.001354,Healthcare,Large,True,59.945840000000004,Low Specificity
+JNJ,2024,0.3333333333333333,0.001385,Healthcare,Large,True,59.9446,Low Specificity
+JNJ,2025,0.3333333333333333,0.001319,Healthcare,Large,True,59.94724000000001,Low Specificity
+LC,2022,0.0,0.000614,Finance,Small,False,39.97544,Low Specificity
+LC,2023,0.3333333333333333,0.000625,Finance,Small,True,59.97500000000001,Low Specificity
+LC,2024,0.3333333333333333,0.000663,Finance,Small,True,59.97348000000001,Low Specificity
+LC,2025,0.3333333333333333,0.000619,Finance,Small,True,59.97524,Low Specificity
+LLY,2022,0.0,0.000985,Healthcare,Large,False,39.9606,Low Specificity
+LLY,2023,0.3333333333333333,0.001038,Healthcare,Large,True,59.95848,Low Specificity
+LLY,2024,0.5,0.000953,Healthcare,Large,True,69.96188000000001,High Specificity
+LLY,2025,0.6666666666666666,0.00085,Healthcare,Large,True,79.96600000000001,High Specificity
+MCFT,2022,0.16666666666666666,0.000905,Consumer Goods,Small,False,49.9638,Low Specificity
+MCFT,2023,0.16666666666666666,0.000883,Consumer Goods,Small,False,49.96468,Low Specificity
+MCFT,2024,0.5,0.000774,Consumer Goods,Small,True,69.96904,High Specificity
+MCFT,2025,0.5,0.000764,Consumer Goods,Small,True,69.96943999999999,High Specificity
+MODD,2022,0.0,0.000685,Healthcare,Small,False,39.9726,Low Specificity
+MODD,2023,0.0,0.000818,Healthcare,Small,False,39.96728,Low Specificity
+MODD,2024,0.0,0.000795,Healthcare,Small,True,39.9682,Low Specificity
+MODD,2025,0.0,0.000679,Healthcare,Small,True,39.972840000000005,Low Specificity
+MOH,2022,0.3333333333333333,0.000666,Healthcare,Medium,False,59.97336,Low Specificity
+MOH,2023,0.6666666666666666,0.001174,Healthcare,Medium,True,79.95304,High Specificity
+MOH,2024,1.0,0.001051,Healthcare,Medium,True,99.95796,High Specificity
+MOH,2025,0.6666666666666666,0.001116,Healthcare,Medium,True,79.95536,High Specificity
+MSFT,2022,0.5,0.000777,Technology,Large,False,69.96892,High Specificity
+MSFT,2023,0.5,0.000798,Technology,Large,False,69.96808000000001,High Specificity
+MSFT,2024,0.8333333333333334,0.000998,Technology,Large,True,89.96008,High Specificity
+MSFT,2025,0.8333333333333334,0.001064,Technology,Large,True,89.95744,High Specificity
+MXL,2022,0.0,0.000553,Semiconductors,Small,False,39.97788,Low Specificity
+MXL,2023,0.3333333333333333,0.000599,Semiconductors,Small,True,59.976040000000005,Low Specificity
+MXL,2024,0.5,0.000554,Semiconductors,Small,True,69.97784,High Specificity
+MXL,2025,0.5,0.000584,Semiconductors,Small,True,69.97664,High Specificity
+NKE,2022,0.0,0.000796,Consumer Goods,Large,False,39.968160000000005,Low Specificity
+NKE,2023,0.0,0.00087,Consumer Goods,Large,False,39.9652,Low Specificity
+NKE,2024,0.5,0.000915,Consumer Goods,Large,True,69.96340000000001,High Specificity
+NKE,2025,0.6666666666666666,0.000995,Consumer Goods,Large,True,79.9602,High Specificity
+NVEC,2022,0.0,0.0,Semiconductors,Small,False,40.0,Low Specificity
+NVEC,2023,0.3333333333333333,0.001599,Semiconductors,Small,False,59.93604,Low Specificity
+NVEC,2024,0.0,0.0,Semiconductors,Small,False,40.0,Low Specificity
+NVEC,2025,0.0,0.0,Semiconductors,Small,False,40.0,Low Specificity
+PANW,2022,0.0,0.00059,Cybersecurity,Large,False,39.9764,Low Specificity
+PANW,2023,0.0,0.000618,Cybersecurity,Large,False,39.975280000000005,Low Specificity
+PANW,2024,1.0,0.000649,Cybersecurity,Large,True,99.97404,High Specificity
+PANW,2025,1.0,0.000613,Cybersecurity,Large,True,99.97548,High Specificity
+PEP,2022,0.0,0.000877,Consumer Goods,Large,False,39.964920000000006,Low Specificity
+PEP,2023,0.5,0.000949,Consumer Goods,Large,True,69.96204,High Specificity
+PEP,2024,0.5,0.000991,Consumer Goods,Large,True,69.96036000000001,High Specificity
+PEP,2025,0.5,0.000966,Consumer Goods,Large,True,69.96136,High Specificity
+POWI,2022,0.0,0.000891,Semiconductors,Medium,False,39.964360000000006,Low Specificity
+POWI,2023,0.5,0.001115,Semiconductors,Medium,True,69.9554,High Specificity
+POWI,2024,0.3333333333333333,0.001212,Semiconductors,Medium,True,59.95152,Low Specificity
+POWI,2025,0.5,0.000969,Semiconductors,Medium,True,69.96124,High Specificity
+PRGS,2022,0.3333333333333333,0.001387,Cybersecurity,Small,False,59.94452,Low Specificity
+PRGS,2023,0.8333333333333334,0.001286,Cybersecurity,Small,True,89.94856,High Specificity
+PRGS,2024,1.0,0.001325,Cybersecurity,Small,True,99.947,High Specificity
+PRGS,2025,1.0,0.001316,Cybersecurity,Small,True,99.94736,High Specificity
+PSEC,2022,0.0,0.000237,Finance,Small,False,39.990520000000004,Low Specificity
+PSEC,2023,0.0,0.000245,Finance,Small,False,39.9902,Low Specificity
+PSEC,2024,0.3333333333333333,0.000292,Finance,Small,True,59.98832,Low Specificity
+PSEC,2025,0.3333333333333333,0.00032,Finance,Small,True,59.9872,Low Specificity
+RPD,2022,0.3333333333333333,0.000624,Cybersecurity,Small,False,59.97504000000001,Low Specificity
+RPD,2023,0.16666666666666666,0.00065,Cybersecurity,Small,True,49.974,Low Specificity
+RPD,2024,0.6666666666666666,0.000652,Cybersecurity,Small,True,79.97391999999999,High Specificity
+RPD,2025,0.6666666666666666,0.000684,Cybersecurity,Small,True,79.97264000000001,High Specificity
+SCSC,2022,0.0,0.000948,Technology,Small,False,39.96208000000001,Low Specificity
+SCSC,2023,0.3333333333333333,0.00102,Technology,Small,False,59.9592,Low Specificity
+SCSC,2024,0.8333333333333334,0.001272,Technology,Small,True,89.94912,High Specificity
+SCSC,2025,0.6666666666666666,0.001344,Technology,Small,True,79.94624,High Specificity
+SFIX,2022,0.0,0.000534,Retail & E-Commerce,Small,False,39.97864,Low Specificity
+SFIX,2023,0.3333333333333333,0.000548,Retail & E-Commerce,Small,False,59.978080000000006,Low Specificity
+SFIX,2024,0.5,0.000632,Retail & E-Commerce,Small,True,69.97472,High Specificity
+SFIX,2025,0.5,0.000806,Retail & E-Commerce,Small,True,69.96776,High Specificity
+S,2022,0.16666666666666666,0.000531,Cybersecurity,Medium,False,49.97876,Low Specificity
+S,2023,0.16666666666666666,0.000514,Cybersecurity,Medium,False,49.97944,Low Specificity
+S,2024,0.5,0.000568,Cybersecurity,Medium,True,69.97728000000001,High Specificity
+S,2025,0.6666666666666666,0.000591,Cybersecurity,Medium,True,79.97636,High Specificity
+UPST,2022,0.16666666666666666,0.000318,Finance,Medium,False,49.987280000000005,Low Specificity
+UPST,2023,0.16666666666666666,0.000359,Finance,Medium,True,49.985640000000004,Low Specificity
+UPST,2024,0.6666666666666666,0.000305,Finance,Medium,True,79.9878,High Specificity
+UPST,2025,0.6666666666666666,0.000732,Finance,Medium,True,79.97072,High Specificity
+UPWK,2022,0.0,0.000521,Retail & E-Commerce,Small,False,39.97916,Low Specificity
+UPWK,2023,0.5,0.000714,Retail & E-Commerce,Small,True,69.97144,High Specificity
+UPWK,2024,0.6666666666666666,0.000917,Retail & E-Commerce,Small,True,79.96332000000001,High Specificity
+UPWK,2025,0.5,0.000891,Retail & E-Commerce,Small,True,69.96436,High Specificity
+U,2022,0.0,0.000717,Technology,Medium,False,39.971320000000006,Low Specificity
+U,2023,0.5,0.000695,Technology,Medium,True,69.9722,High Specificity
+U,2024,0.5,0.000663,Technology,Medium,True,69.97348000000001,High Specificity
+U,2025,0.5,0.000647,Technology,Medium,True,69.97412,High Specificity
+VKTX,2022,0.0,0.000454,Healthcare,Medium,False,39.981840000000005,Low Specificity
+VKTX,2023,0.3333333333333333,0.000483,Healthcare,Medium,True,59.98068,Low Specificity
+VKTX,2024,0.3333333333333333,0.000459,Healthcare,Medium,True,59.98164,Low Specificity
+VKTX,2025,0.3333333333333333,0.000416,Healthcare,Medium,True,59.983360000000005,Low Specificity
+VRNS,2022,0.16666666666666666,0.00063,Cybersecurity,Medium,False,49.9748,Low Specificity
+VRNS,2023,0.6666666666666666,0.000736,Cybersecurity,Medium,True,79.97056,High Specificity
+VRNS,2024,0.6666666666666666,0.000763,Cybersecurity,Medium,True,79.96948,High Specificity
+VRNS,2025,0.6666666666666666,0.00072,Cybersecurity,Medium,True,79.97120000000001,High Specificity
+V,2022,0.3333333333333333,0.000608,Finance,Large,False,59.975680000000004,Low Specificity
+V,2023,0.8333333333333334,0.000728,Finance,Large,False,89.97088,High Specificity
+V,2024,0.8333333333333334,0.000766,Finance,Large,True,89.96936,High Specificity
+V,2025,0.8333333333333334,0.000748,Finance,Large,True,89.97008,High Specificity
+WGO,2022,0.0,0.001637,Consumer Goods,Small,False,39.93452,Low Specificity
+WGO,2023,0.0,0.001597,Consumer Goods,Small,False,39.93612,Low Specificity
+WGO,2024,0.5,0.001476,Consumer Goods,Small,True,69.94096,High Specificity
+WGO,2025,0.5,0.001459,Consumer Goods,Small,True,69.94164,High Specificity

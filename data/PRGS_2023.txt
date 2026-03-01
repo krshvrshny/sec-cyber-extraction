@@ -291,9 +291,3 @@ We are subject to counterparty risk with respect to the capped call transactions
 Provisions in the indenture could delay or prevent an otherwise beneficial takeover of us. Certain provisions in the Notes and the indenture could make a third party attempt to acquire us more difficult or expensive. For example, if a takeover constitutes a fundamental change, then Noteholders will have the right to require us to repurchase their Notes for cash. In addition, if a takeover constitutes a make-whole fundamental change, then we may be required to temporarily increase the conversion rate. In either case, and in other cases, our obligations under the Notes and the indenture could increase the cost of acquiring us or otherwise discourage a third party from acquiring us or removing incumbent management, including in a transaction that Noteholders or holders of our common stock may view as favorable.
 
 Conversion of the Notes may dilute the ownership interest of existing stockholders. The conversion of some or all of the Notes will dilute the ownership interests of existing stockholders to the extent we deliver shares of our common stock upon conversion of any of the Notes. Any sales in the public market of the common stock issuable upon such conversion could adversely affect prevailing market prices of our common stock. In addition, the existence of the Notes may encourage short selling by market participants because the conversion of the Notes could be used to satisfy short positions, or anticipated conversion of the Notes into shares of our common stock could depress the price of our common stock.
-
---- ITEM 1C ---
-
-Item 1C. Cybersecurity
-
-Not applicable.
