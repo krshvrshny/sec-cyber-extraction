@@ -289,4 +289,52 @@ plt.savefig(out("length_by_sector.png"), dpi=150, bbox_inches="tight")
 plt.close()
 print("Saved length_by_sector.png")
 
+# ═════════════════════════════════════════════════════════════════════════════
+# FIG 6 – Scatter: Item 1A vs Item 1C word count, coloured by sector
+# ═════════════════════════════════════════════════════════════════════════════
+scatter_df = df_1c[["len_1a", "len_1c", "sector"]].dropna()
+
+SECTOR_COLORS = {
+    "Consumer Goods":     "#4472C4",
+    "Cybersecurity":      "#ED7D31",
+    "Finance":            "#70AD47",
+    "Healthcare":         "#FF0000",
+    "Retail & E-Commerce":"#7030A0",
+    "Semiconductors":     "#7F6000",
+    "Technology":         "#FF99CC",
+}
+
+# OLS fit
+x_vals = scatter_df["len_1a"].values
+y_vals = scatter_df["len_1c"].values
+slope, intercept = np.polyfit(x_vals, y_vals, 1)
+r = np.corrcoef(x_vals, y_vals)[0, 1]
+
+fig, ax = plt.subplots(figsize=(10, 7))
+
+for sector, grp in scatter_df.groupby("sector"):
+    ax.scatter(grp["len_1a"], grp["len_1c"],
+               color=SECTOR_COLORS.get(sector, GRAY),
+               s=55, alpha=0.85, label=sector, zorder=3)
+
+x_line = np.linspace(x_vals.min(), x_vals.max(), 200)
+ax.plot(x_line, slope * x_line + intercept,
+        color="black", ls="--", lw=2,
+        label=f"OLS (slope={slope:.4f})")
+
+ax.set_xlabel("Item 1A Word Count")
+ax.set_ylabel("Item 1C Word Count")
+ax.xaxis.set_major_formatter(mticker.FuncFormatter(fmt_thousands))
+ax.yaxis.set_major_formatter(mticker.FuncFormatter(fmt_thousands))
+ax.legend(fontsize=9, loc="upper right", ncol=2)
+ax.set_title(
+    f"Item 1A vs Item 1C Word Count\n"
+    f"(Pearson r = {r:.2f}, filings with 1C, n={len(scatter_df)})",
+    fontweight="bold"
+)
+plt.tight_layout()
+plt.savefig(out("length_scatter.png"), dpi=150, bbox_inches="tight")
+plt.close()
+print("Saved length_scatter.png")
+
 print("\nAll outputs saved successfully.")

@@ -20,9 +20,18 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import os
+
+# ── PATHS ─────────────────────────────────────────────────────────────────────
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "..", "visuals", "quality")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+def out(filename):
+    return os.path.join(OUTPUT_DIR, filename)
 
 # ── LOAD DATA ─────────────────────────────────────────────────────────────────
-df = pd.read_csv("quality_results.csv")
+df = pd.read_csv(os.path.join(SCRIPT_DIR, "..", "results", "quality_results.csv"))
 df_scored = df.dropna(subset=["quality_score"])
 
 SECTOR_ORDER = [
@@ -75,14 +84,13 @@ ax.set_ylabel("Quality Score (0–100)")
 ax.set_ylim(-5, 110)
 ax.legend(fontsize=10)
 ax.set_title(
-    "Figure – Mean Quality Score Over Time (2023–2025)\n"
-    "(n=41 firms per year; dots = individual firm scores)",
+    "Mean Quality Score Over Time (2023–2025)",
     fontweight="bold"
 )
 plt.tight_layout()
-plt.savefig("fig_quality_by_year.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("quality_by_year.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig_quality_by_year.png")
+print("Saved quality_by_year.png")
 
 # ═════════════════════════════════════════════════════════════════════════════
 # FIG – Mean Quality Score by Sector (Horizontal Bar + SD) [MAIN TEXT]
@@ -105,14 +113,13 @@ ax.axvline(df_scored["quality_score"].mean(), color=ORANGE, ls="--", lw=1.5,
            label=f'Overall mean = {df_scored["quality_score"].mean():.1f}')
 ax.legend(fontsize=10)
 ax.set_title(
-    "Figure – Mean Quality Score by Sector\n"
-    "(error bars = ±1 SD)",
+    "Mean Quality Score by Sector",
     fontweight="bold"
 )
 plt.tight_layout()
-plt.savefig("fig_quality_by_sector.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("quality_by_sector.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig_quality_by_sector.png")
+print("Saved quality_by_sector.png")
 
 # ═════════════════════════════════════════════════════════════════════════════
 # FIG – Quality Score: Item 1C Adopters vs Non-Adopters [MAIN TEXT]
@@ -139,14 +146,14 @@ ax.set_xticklabels(q_1c["label"])
 ax.set_ylabel("Mean Quality Score (0–100)")
 ax.set_ylim(0, 85)
 ax.set_title(
-    "Figure – Quality Score: Item 1C Adopters vs Non-Adopters\n"
-    "(error bars = ±1 SD; gap = 36 points)",
+    "Quality Score: Item 1C Adopters vs Non-Adopters\n"
+    "(error bars = ±1 SD)",
     fontweight="bold"
 )
 plt.tight_layout()
-plt.savefig("fig_quality_by_1c.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("quality_by_1c.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig_quality_by_1c.png")
+print("Saved quality_by_1c.png")
 
 # ═════════════════════════════════════════════════════════════════════════════
 # FIG A – Quality Score Boxplot by Firm Size [APPENDIX]
@@ -167,13 +174,13 @@ ax.set_xlabel("Firm Size")
 ax.set_ylabel("Quality Score (0–100)")
 ax.set_ylim(-5, 120)
 ax.set_title(
-    "Figure A – Quality Score by Firm Size [Appendix]",
+    "Quality Score by Firm Size [Appendix]",
     fontweight="bold"
 )
 plt.tight_layout()
-plt.savefig("figA_quality_by_size.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("quality_by_size.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved figA_quality_by_size.png")
+print("Saved quality_by_size.png")
 
 # ═════════════════════════════════════════════════════════════════════════════
 # FIG A – Heatmap: All Firms × All Years [APPENDIX]
@@ -191,13 +198,12 @@ sns.heatmap(pivot, ax=ax, annot=True, fmt=".0f", cmap="Blues",
 ax.set_xlabel("Fiscal Year")
 ax.set_ylabel("")
 ax.set_title(
-    "Figure A – Quality Score by Firm and Year [Appendix]\n"
-    "(sorted by score ascending)",
+    "Quality Score by Firm and Year",
     fontweight="bold"
 )
 plt.tight_layout()
-plt.savefig("figA_quality_heatmap.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("quality_heatmap.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved figA_quality_heatmap.png")
+print("Saved quality_heatmap.png")
 
 print("\nAll quality score outputs saved successfully.")

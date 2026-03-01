@@ -30,26 +30,35 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import os
+
+# ── PATHS ─────────────────────────────────────────────────────────────────────
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "..", "visuals", "specificity")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+def out(filename):
+    return os.path.join(OUTPUT_DIR, filename)
 
 # ── LOAD & MERGE ──────────────────────────────────────────────────────────────
-content = pd.read_excel("content_scores.xlsx")
-boiler  = pd.read_csv("boilerplate_results.csv")
-length  = pd.read_csv("length_results.csv")[
+content = pd.read_excel(os.path.join(SCRIPT_DIR, "..", "results", "content_scores.xlsx"))
+boiler  = pd.read_csv(os.path.join(SCRIPT_DIR, "..", "results", "boilerplate_results.csv"))
+length  = pd.read_csv(os.path.join(SCRIPT_DIR, "..", "results", "length_results.csv"))[
     ["ticker", "year", "sector", "size", "has_1c"]
 ].drop_duplicates()
 
 df = (
-    content[["ticker", "year", "specificity_score"]]
+    content[["ticker", "year", "content_score"]]
     .merge(boiler[["ticker", "year", "boilerplate_ratio"]], on=["ticker", "year"])
     .merge(length, on=["ticker", "year"])
 )
 
 # ── COMPUTE S & CLASSIFY ──────────────────────────────────────────────────────
-df["S"] = 0.6 * df["specificity_score"] * 100 + 0.4 * (1 - df["boilerplate_ratio"]) * 100
+df["S"] = 0.6 * df["content_score"] * 100 + 0.4 * (1 - df["boilerplate_ratio"]) * 100
 df["category"] = df["S"].apply(lambda x: "High Specificity" if x >= 60 else "Low Specificity")
 
-df.to_csv("composite_scores.csv", index=False)
-print("Saved composite_scores.csv")
+df.to_csv(out("specificity_scores.csv"), index=False)
+print("Saved specificity_scores.csv")
 
 # ── STYLE ─────────────────────────────────────────────────────────────────────
 sns.set_theme(style="whitegrid", font_scale=1.15)
@@ -88,8 +97,8 @@ for label, sub in [("All years", df)] + [
     })
 
 table = pd.DataFrame(rows)
-table.to_csv("table4_composite_stats.csv", index=False)
-print("Saved table4_composite_stats.csv")
+table.to_csv(out("table_specificity_stats.csv"), index=False)
+print("Saved table_specificity_stats.csv")
 print(table.to_string(index=False))
 
 
@@ -127,10 +136,10 @@ for _, row in yearly.iterrows():
 
 ax1.set_xticks(years)
 ax1.set_xlabel("Fiscal Year")
-ax1.set_ylabel("Composite Score S")
+ax1.set_ylabel("Specificity Score S")
 ax1.set_ylim(0, 110)
 ax1.legend(fontsize=9)
-ax1.set_title("Mean Composite Score Over Time\n(dots = individual firms)",
+ax1.set_title("Mean Specificity Score Over Time\n(dots = individual firms)",
               fontweight="bold")
 
 # Right – stacked bar: category share
@@ -153,12 +162,12 @@ ax2.set_xlabel("Fiscal Year")
 ax2.legend(fontsize=9)
 ax2.set_title("High / Low Specificity Share by Year", fontweight="bold")
 
-fig.suptitle("Figure 15 – Composite Specificity Score (S) Over Time",
+fig.suptitle("Specificity Score (S) Over Time",
              fontweight="bold", fontsize=13)
 plt.tight_layout()
-plt.savefig("fig15_composite_by_year.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("specificity_by_year.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig15_composite_by_year.png")
+print("Saved specificity_by_year.png")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
@@ -176,16 +185,16 @@ for has_1c, color, label in [
     ax.hist(sub, bins=20, density=True, alpha=0.12, color=color)
 
 ax.axvline(60, color="red", lw=1.8, ls="--", label="Threshold (60)")
-ax.set_xlabel("Composite Score S")
+ax.set_xlabel("Specificity Score")
 ax.set_ylabel("Density")
 ax.set_xlim(30, 105)
 ax.legend(fontsize=10)
-ax.set_title("Figure 16 – Composite Score Distribution:\nFilings With vs Without Item 1C",
+ax.set_title("Specificity Score Distribution:\nFilings With vs Without Item 1C",
              fontweight="bold")
 plt.tight_layout()
-plt.savefig("fig16_composite_by_1c.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("specificity_by_1c.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig16_composite_by_1c.png")
+print("Saved specificity_by_1c.png")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
@@ -206,19 +215,19 @@ for i, (idx, row) in enumerate(sec.iterrows()):
 ax.axvline(60, color="red", lw=1.5, ls="--", label="Threshold (60)")
 ax.axvline(df["S"].mean(), color=ORANGE, lw=1.5, ls="--",
            label=f'Overall mean = {df["S"].mean():.1f}')
-ax.set_xlabel("Mean Composite Score S")
+ax.set_xlabel("Mean Specificity Score S")
 ax.set_xlim(30, 115)
 ax.legend(fontsize=9)
-ax.set_title("Figure A8 – Mean Composite Score by Sector [Appendix]\n(error bars = ±1 SD)",
+ax.set_title("Mean Specificity Score by Sector\n(error bars = ±1 SD)",
              fontweight="bold")
 plt.tight_layout()
-plt.savefig("figA8_composite_by_sector.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("specificity_by_sector.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved figA8_composite_by_sector.png")
+print("Saved specificity_by_sector.png")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
-# FIG A9 – S score by firm size (boxplot)                      [APPENDIX]
+# FIG A9 – S score by firm size (boxplot) 
 # ═════════════════════════════════════════════════════════════════════════════
 size_means = df.groupby("size")["S"].mean()
 
@@ -233,13 +242,13 @@ for i, sz in enumerate(SIZE_ORDER):
             ha="center", va="bottom", fontsize=9)
 
 ax.set_xlabel("Firm Size")
-ax.set_ylabel("Composite Score S")
+ax.set_ylabel("Specificty Score S")
 ax.set_ylim(30, 115)
 ax.legend(fontsize=10)
-ax.set_title("Figure A9 – Composite Score by Firm Size [Appendix]", fontweight="bold")
+ax.set_title("Specificity Score by Firm Size", fontweight="bold")
 plt.tight_layout()
-plt.savefig("figA9_composite_by_size.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("specificity_by_size.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved figA9_composite_by_size.png")
+print("Saved specificity_by_size.png")
 
 print("\nAll composite score outputs saved successfully.")

@@ -19,10 +19,19 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import os
+
+# ── PATHS ─────────────────────────────────────────────────────────────────────
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "..", "visuals", "similarity")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+def out(filename):
+    return os.path.join(OUTPUT_DIR, filename)
 
 # ── LOAD & MERGE DATA ─────────────────────────────────────────────────────────
-df     = pd.read_csv("similarity_results.csv")
-length = pd.read_csv("length_results.csv")[["ticker","year","size"]].drop_duplicates()
+df     = pd.read_csv(os.path.join(SCRIPT_DIR, "..", "results", "similarity_results.csv"))
+length = pd.read_csv(os.path.join(SCRIPT_DIR, "..", "results", "length_results.csv"))[["ticker","year","size"]].drop_duplicates()
 df     = df.merge(length, on=["ticker","year"], how="left")
 
 sim = df[df["yoy_similarity"].notna()].copy()
@@ -64,8 +73,8 @@ for year in sorted(sim["year"].unique()):
                  "Low Similarity (<0.75)":  f"{(d<0.75).sum()} ({(d<0.75).mean()*100:.0f}%)"})
 
 table = pd.DataFrame(rows)
-table.to_csv("table2_similarity_stats.csv", index=False)
-print("Saved table2_similarity_stats.csv")
+table.to_csv(out("table_similarity_stats.csv"), index=False)
+print("Saved table_similarity_stats.csv")
 print(table.to_string(index=False))
 print()
 
@@ -106,7 +115,7 @@ def stacked_bar(ax, crosstab_pct, colors, xlabel, title, horizontal=True):
 
 
 # ═════════════════════════════════════════════════════════════════════════════
-# FIG 5 – Distribution of similarity scores                     [MAIN TEXT]
+# FIG 5 – Distribution of similarity scores 
 # ═════════════════════════════════════════════════════════════════════════════
 fig, ax = plt.subplots(figsize=(9, 5))
 
@@ -130,36 +139,35 @@ ax.set_xlabel("Cosine Similarity Score")
 ax.set_ylabel("Density")
 ax.set_xlim(0, 1.05)
 ax.legend(fontsize=9, loc="upper left")
-ax.set_title("Figure 5 – Distribution of Year-over-Year Cosine Similarity Scores\n"
-             f"(n=123 filing pairs, 41 firms, 2022–2025)", fontweight="bold")
+ax.set_title("Distribution of Year-over-Year Cosine Similarity Scores", fontweight="bold")
 plt.tight_layout()
-plt.savefig("fig5_similarity_dist.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("similarity_dist.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig5_similarity_dist.png")
+print("Saved similarity_dist.png")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
-# FIG 6 – Stacked bar: category share by year                   [MAIN TEXT]
+# FIG 6 – Stacked bar: category share by year 
 # ═════════════════════════════════════════════════════════════════════════════
 year_ct = pd.crosstab(sim["year"], sim["category"], normalize="index") * 100
 
 fig, ax = plt.subplots(figsize=(8, 5))
 stacked_bar(ax, year_ct, None,
             xlabel="Share of Filing Pairs (%)",
-            title="Figure 6 – Similarity Category by Year\n(share of filing pairs per transition year)",
+            title="Similarity Category by Year\n(share of filing pairs per transition year)",
             horizontal=False)
 ax.set_xticks([2023, 2024, 2025])
 ax.set_xticklabels(["2022→2023", "2023→2024", "2024→2025"])
 ax.set_ylabel("Share of Filing Pairs (%)")
 ax.set_xlabel("")
 plt.tight_layout()
-plt.savefig("fig6_similarity_by_year.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("similarity_by_year.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig6_similarity_by_year.png")
+print("Saved similarity_by_year.png")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
-# FIG 7 – Stacked bar: category share by sector                 [MAIN TEXT]
+# FIG 7 – Stacked bar: category share by sector 
 # ═════════════════════════════════════════════════════════════════════════════
 sector_ct = pd.crosstab(sim["sector"], sim["category"], normalize="index") * 100
 sector_ct = sector_ct.reindex(SECTOR_ORDER)
@@ -167,12 +175,12 @@ sector_ct = sector_ct.reindex(SECTOR_ORDER)
 fig, ax = plt.subplots(figsize=(10, 6))
 stacked_bar(ax, sector_ct, None,
             xlabel="Share of Filing Pairs (%)",
-            title="Figure 7 – Similarity Category by Sector\n(share of filing pairs, ordered by low similarity rate)",
+            title="Similarity Category by Sector\n(share of filing pairs, ordered by low similarity rate)",
             horizontal=True)
 plt.tight_layout()
-plt.savefig("fig7_similarity_by_sector.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("similarity_by_sector.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig7_similarity_by_sector.png")
+print("Saved similarity_by_sector.png")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
@@ -184,16 +192,16 @@ size_ct = size_ct.reindex(SIZE_ORDER)
 fig, ax = plt.subplots(figsize=(8, 4.5))
 stacked_bar(ax, size_ct, None,
             xlabel="Share of Filing Pairs (%)",
-            title="Figure 8 – Similarity Category by Firm Size\n(share of filing pairs)",
+            title="Similarity Category by Firm Size\n(share of filing pairs)",
             horizontal=True)
 plt.tight_layout()
-plt.savefig("fig8_similarity_by_size.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("similarity_by_size.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved fig8_similarity_by_size.png")
+print("Saved similarity_by_size.png")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
-# FIG A1 – Category split by has_1c                            [APPENDIX]
+# FIG A1 – Category split by has_1c 
 # ═════════════════════════════════════════════════════════════════════════════
 ic_ct = pd.crosstab(sim["has_1c"], sim["category"], normalize="index") * 100
 ic_ct.index = ["Without Item 1C", "With Item 1C"]
@@ -201,11 +209,11 @@ ic_ct.index = ["Without Item 1C", "With Item 1C"]
 fig, ax = plt.subplots(figsize=(8, 4))
 stacked_bar(ax, ic_ct, None,
             xlabel="Share of Filing Pairs (%)",
-            title="Figure A1 – Similarity Category by Item 1C Presence [Appendix]",
+            title="Similarity Category by Item 1C Presence [Appendix]",
             horizontal=True)
 plt.tight_layout()
-plt.savefig("figA1_similarity_1c.png", dpi=150, bbox_inches="tight")
+plt.savefig(out("similarity_1c.png"), dpi=150, bbox_inches="tight")
 plt.close()
-print("Saved figA1_similarity_1c.png")
+print("Saved similarity_1c.png")
 
 print("\nAll similarity outputs saved successfully.")
